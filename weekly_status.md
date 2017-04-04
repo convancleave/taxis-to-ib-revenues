@@ -15,13 +15,17 @@ What did each project team member do this week?
 - *Conor Oliver: This week, I worked on writing a script to take our coordinates of our banks, compare with taxi data,
  and output into a new csv file. My code is in taxi.py and filter rides.sh. However, I only ran the code on 1 month of 
  our data due to time considerations. We may have to optimize somehow before running further.*
-- *Teddy Owen: This week, I ...*
+- *Teddy Owen: This week, he manually recorded the locational data of ~20 prominent investment banks in NYC and worked
+to obtain financial data on their earning, returns, etc. *
+- *Connor Van Cleave: This week, he worked to find and migrate the NYC taxi data to a SQL database. However,
+ we ultimately cdecided that our best approach for working with this data was to download csv's and 
+ stream the data using bash and python, and then maybe build a SQL DB * 
 
 Provide a rough estimate of the division of labor:
 
 - *Conor Oliver: 35%*
-- *[Name goes here]: ?%*
-- *[Name goes here]: ?%*
+- *Teddy Owen: 40%
+- *Connor Van Cleave: 25% (essays)*
 
 What are the team's goals for next week?
 
