@@ -7,6 +7,7 @@ import re
 import collections
 import numpy as np
 import matplotlib as mat
+mat.use('Agg')
 import matplotlib.pyplot as plt
 
 
@@ -52,7 +53,7 @@ def extract_rides():
             se_lat = exact_coords.get(key)[6]
             se_lon = exact_coords.get(key)[7]
             se = (se_lon, se_lat)
-            p = mat.Path([sw, nw, ne, se])
+            p = mat.path.Path([sw, nw, ne, se])
             paths.append((key, p))
 
         for row in reader:
@@ -75,10 +76,22 @@ def graph(filename, month):
             cnt[m.group(4)] += 1
 
 
-    plt.barh(range(len(cnt)), cnt.values(), align = 'center', alpha = 0.4)
-    plt.yticks(range(len(cnt)), cnt.keys())
+    cnt_list = sorted(cnt.items())
 
-    plt.xlabel('Rides per hour in ' + month)
+    hours = zip(*cnt_list)[0]
+    rides = zip(*cnt_list)[1]
+
+
+    #plt.bar(range(len(rides)), rides, alpha = 0.4)
+    plt.xticks(np.arange(len(hours)), hours)
+
+    plt.scatter(hours, rides, alpha = .7)
+    plt.plot(hours, rides, alpha = .4)
+
+    plt.xlabel('Time of Day)')
+    plt.ylabel('Number of Rides')
+    plt.title('Rides for Time of Day in Month of ' + month)
+
 
     plt.show()
 
