@@ -33,5 +33,23 @@ What are the team's goals for next week?
 idea of how/if our data has any correlations. Maybe analyze the number of rides on average for different times
 throughout the day (this should give us an idea if there is a spike in rides when people get off work)*
 
+## Week 1
 
+Report for the week of 3/27/17 to 4/10/17.
+
+What did each project team member do this week?
+
+- *Conor Oliver: This week, he worked with Teddy on to decide how to process the data in a computationally efficient way using the API or csv files.
+- *Teddy Owen: This week, he helped Conor decide how to process the data in a computationally efficient way.
+- *Connor Van Cleave: This week, he worked to find and setup the API for acquiring taxi data more efficiently. This should help us begin to process some of the data this week. 
+
+Provide a rough estimate of the division of labor:
+
+- *Conor Oliver: 75%*
+- *Teddy Owen: 12.5%
+- *Connor Van Cleave: 125.% *
+
+What are the team's goals for next week?
+
+*[Brief description]: Our main goal for next week is to begin analyzing our data with the api.
 
