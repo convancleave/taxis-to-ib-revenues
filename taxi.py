@@ -4,10 +4,10 @@ import dateutil
 import dateutil.parser
 import sys
 import re
-from matplotlib import path
-
-from signal import signal, SIGPIPE, SIG_DFL
-signal(SIGPIPE,SIG_DFL)
+import collections
+import numpy as np
+import matplotlib as mat
+import matplotlib.pyplot as plt
 
 
 square_coords = {}
@@ -52,7 +52,7 @@ def extract_rides():
             se_lat = exact_coords.get(key)[6]
             se_lon = exact_coords.get(key)[7]
             se = (se_lon, se_lat)
-            p = path.Path([sw, nw, ne, se])
+            p = mat.Path([sw, nw, ne, se])
             paths.append((key, p))
 
         for row in reader:
@@ -63,3 +63,42 @@ def extract_rides():
                 if p[1].contains_point((lon, lat)):
                     writer.writerow({'ticker': p[0][1], 'trip_pickup_datetime': datetime,'start_lat':lat, 'start_lon':lon})
 
+
+def graph(filename, month):
+    cnt = collections.Counter()
+    with open(filename) as f:
+        reader = csv.DictReader(f);
+        print reader.fieldnames
+        for row in reader:
+            time = row['trip_pickup_datetime']
+            m = re.search(r'([0-9]*)-([0-9]*)-([0-9]*)[ ]([0-9]*)[:]([0-9]*)[:]([0-9]*)', time)
+            cnt[m.group(4)] += 1
+
+
+    plt.barh(range(len(cnt)), cnt.values(), align = 'center', alpha = 0.4)
+    plt.yticks(range(len(cnt)), cnt.keys())
+
+    plt.xlabel('Rides per hour in ' + month)
+
+    plt.show()
+
+
+def string_to_datetime(stringtime):
+    m = re.search(r'([0-9]*)-([0-9]*)-([0-9]*)[ ]([0-9]*)[:]([0-9]*)[:]([0-9]*)', stringtime)
+    return make_time(m.group(1), m.group(2), m.group(3), m.group(4) + m.group(5) + m.group(6))
+
+
+def make_time(year, month, day, time):
+    """Given a year, month, day, and time (hhmm format), parse and return the
+    corresponding datetime object."""
+    if time == '2400':  # small hack: 2400 is equivalent to 0000,
+                        # but 2400 breaks parser
+        time = '0000'
+    time = time.zfill(4)  # pad left with zeros; e.g., '730' becomes '0730'
+    return dateutil.parser.parse('{}-{}-{}-{}'.format(year, month, day, time))
+
+
+def main():
+    graph('test_rides.csv', 'test_data')
+    #graph('rides.csv', 'January')
+    #graph('rides2.csv', 'February')

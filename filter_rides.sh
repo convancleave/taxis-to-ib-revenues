@@ -10,4 +10,4 @@ echo "Running" $0 "on" $1
 input_file=$1
 
 cat $input_file | \
-python -c 'import taxi; taxi.extract_rides()' > rides.csv
+python -c 'import taxi; taxi.extract_rides()' > test_rides.csv
