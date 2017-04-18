@@ -33,7 +33,7 @@ What are the team's goals for next week?
 idea of how/if our data has any correlations. Maybe analyze the number of rides on average for different times
 throughout the day (this should give us an idea if there is a spike in rides when people get off work)*
 
-## Week 1
+## Week 2
 
 Report for the week of 3/27/17 to 4/10/17.
 
@@ -52,4 +52,25 @@ Provide a rough estimate of the division of labor:
 What are the team's goals for next week?
 
 *[Brief description]: Our main goal for next week is to begin analyzing our data with the api.
+
+## Week 3
+
+Report for the week of 4/10/17 to 4/17/17.
+
+What did each project team member do this week?
+
+- *Conor Oliver: This week, worked on beginning data visualizations for Wednesday's presentation.
+- *Teddy Owen: This week, prepared the finance data for more regression/visualization work in tomorrow's lab, worked on a background slide for the presentation.
+- *Connor Van Cleave: Ran into connectivity issues with the API, hoping to get those resolved in the lab. Worked on some possible regressions to run for the presentation on Wednesday. 
+
+Provide a rough estimate of the division of labor:
+
+- *Conor Oliver: 33.3%
+- *Teddy Owen: 33.3%
+- *Connor Van Cleave: 33.3% 
+
+What are the team's goals for next week?
+
+*[Brief description]: Get a presentation together for Wednesday and get the python library API working
+
 
