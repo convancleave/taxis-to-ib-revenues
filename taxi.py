@@ -15,7 +15,7 @@ square_coords = {}
 exact_coords = {}
 
 
-firm_performance = {} #dictionary of firm storing financial data
+
 firm_rides = {} #dictionary of rides for each firm
 
 def parse_locations():
@@ -99,6 +99,24 @@ def graph(filename, month):
     plt.show()
 
 
+def graph_quarter_rides(ride_dict):
+    cnt_list = sorted(cnt.items())
+
+    hours = zip(*cnt_list)[0]
+    rides = zip(*cnt_list)[1]
+
+    # plt.bar(range(len(rides)), rides, alpha = 0.4)
+    plt.xticks(np.arange(len(hours)), hours)
+
+    plt.scatter(hours, rides, alpha=.7)
+    plt.plot(hours, rides, alpha=.4)
+
+    plt.xlabel('Time of Day)')
+    plt.ylabel('Number of Rides')
+    plt.title('Rides for Time of Day in Month of ' + month)
+
+    plt.show()
+
 def string_to_datetime(stringtime):
     m = re.search(r'([0-9]*)-([0-9]*)-([0-9]*)[ ]([0-9]*)[:]([0-9]*)[:]([0-9]*)', stringtime)
     return make_time(m.group(1), m.group(2), m.group(3), m.group(4) + m.group(5) + m.group(6))
@@ -114,30 +132,61 @@ def make_time(year, month, day, time):
     return dateutil.parser.parse('{}-{}-{}-{}'.format(year, month, day, time))
 
 
-def load_financials(filename):
-    print "hello"
-    with open('firm_locations.csv', 'r') as f:
+def load_financials():
+    firm_performance = {}  # dictionary: keys are tickers, values are list of tuples with following structure:
+                                                    # ['(quarter #should be 1)', 'year', 'amnt')]
+                                                    # should be 1 tuple per quarter
+    with open('firms_financials.csv', 'r') as f:
         reader = csv.DictReader(f)
+        print reader.fieldnames
         for row in reader:
-            firm_performance[row['ticker']] = (row['quarter'], row['year'], row['amnt'])
+            key = row['ticker']
+            if key in firm_performance:
+                firm_performance.get(key).append((row['quarter'], row['year'], row['amnt']))
+            else:
+                firm_performance[row['ticker']] = [((row['quarter'], row['year'], row['amnt']))]
+
     print firm_performance
 
 
-def load_specific_rides(ticker, quarter, year):
+def load_specific_rides(quarter, year):
+    # print(quarter)
+    ride_dict = {}
     q = []
     if quarter ==  1:
         q = [1, 2, 3]
-    if quarter == 2:
+    elif quarter == 2:
         q = [4, 5, 6]
-    if quarter ==  3:
+    elif quarter ==  3:
         q = [7, 8, 9]
-    if quarter == 4:
+    elif quarter == 4:
         q = [10, 11, 12]
     else:
         raise ValueError("did not enter valid int for quarter")
-    month1 = "rides" + q[0] + "-" + year
-    month2 = "rides" + q[1] + "-" + year
-    month3 = "rides" + q[2] + "-" + year
+
+    year =str(year)
+
+    month1 = "ride_data/rides" + str(q[0]) + "-" + year + ".csv"
+    month2 = "ride_data/rides" + str(q[1]) + "-" + year + ".csv"
+    month3 = "ride_data/rides" + str(q[2]) + "-" + year + ".csv"
+
+    months = [month1, month2, month3]
+    months = [month3]
+
+    for month in months:
+        reader = csv.DictReader(open(month))
+        for row in reader:
+            if row['ticker'] in ride_dict:
+                cnt = ride_dict.get(row['ticker'])
+            else:
+                print ride_dict
+                cnt = collections.Counter()
+                ride_dict[row['ticker']] = cnt
+            time = row['trip_pickup_datetime']
+            m = re.search(r'([0-9]*)-([0-9]*)-([0-9]*)[ ]([0-9]*)[:]([0-9]*)[:]([0-9]*)', time)
+            cnt[m.group(4)] += 1
+    return ride_dict
+
 
 def main():
     graph('test_rides.csv', 'test_data')
