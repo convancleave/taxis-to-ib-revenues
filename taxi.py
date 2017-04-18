@@ -15,6 +15,9 @@ square_coords = {}
 exact_coords = {}
 
 
+firm_performance = {} #dictionary of firm storing financial data
+firm_rides = {} #dictionary of rides for each firm
+
 def parse_locations():
     """extracts data from firm_locations.csv, stores in dicts"""
 
@@ -110,6 +113,31 @@ def make_time(year, month, day, time):
     time = time.zfill(4)  # pad left with zeros; e.g., '730' becomes '0730'
     return dateutil.parser.parse('{}-{}-{}-{}'.format(year, month, day, time))
 
+
+def load_financials(filename):
+    print "hello"
+    with open('firm_locations.csv', 'r') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            firm_performance[row['ticker']] = (row['quarter'], row['year'], row['amnt'])
+    print firm_performance
+
+
+def load_specific_rides(ticker, quarter, year):
+    q = []
+    if quarter ==  1:
+        q = [1, 2, 3]
+    if quarter == 2:
+        q = [4, 5, 6]
+    if quarter ==  3:
+        q = [7, 8, 9]
+    if quarter == 4:
+        q = [10, 11, 12]
+    else:
+        raise ValueError("did not enter valid int for quarter")
+    month1 = "rides" + q[0] + "-" + year
+    month2 = "rides" + q[1] + "-" + year
+    month3 = "rides" + q[2] + "-" + year
 
 def main():
     graph('test_rides.csv', 'test_data')
