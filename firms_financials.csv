@@ -1,1379 +1,1379 @@
-ticker,quarter,year,date,segment,item,amnt
-LAZ,2,2008,06/30/2008,Asset Management,  Operating Income,38.08
-LAZ,3,2008,09/30/2008,Asset Management,  Operating Income,-170.135
-LAZ,4,2008,12/31/2008,Asset Management,  Operating Income,18.278
-LAZ,1,2009,03/31/2009,Asset Management,  Operating Income,11.083
-LAZ,2,2009,06/30/2009,Asset Management,  Operating Income,27.57
-LAZ,3,2009,09/30/2009,Asset Management,  Operating Income,43.016
-LAZ,4,2009,12/31/2009,Asset Management,  Operating Income,15.531
-LAZ,1,2010,03/31/2010,Asset Management,  Operating Income,58.313
-LAZ,2,2010,06/30/2010,Asset Management,  Operating Income,52.528
-LAZ,3,2010,09/30/2010,Asset Management,  Operating Income,59.617
-LAZ,4,2010,12/31/2010,Asset Management,  Operating Income,94.856
-LAZ,1,2011,03/31/2011,Asset Management,  Operating Income,77.649
-LAZ,2,2011,06/30/2011,Asset Management,  Operating Income,83.941
-LAZ,3,2011,09/30/2011,Asset Management,  Operating Income,62.368
-LAZ,4,2011,12/31/2011,Asset Management,  Operating Income,44.498
-LAZ,1,2012,03/31/2012,Asset Management,  Operating Income,54.026
-LAZ,2,2012,06/30/2012,Asset Management,  Operating Income,54.434
-LAZ,3,2012,09/30/2012,Asset Management,  Operating Income,60.647
-LAZ,4,2012,12/31/2012,Asset Management,  Operating Income,67.65
-LAZ,1,2013,03/31/2013,Asset Management,  Operating Income,88.948
-LAZ,2,2013,06/30/2013,Asset Management,  Operating Income,57.945
-LAZ,3,2013,09/30/2013,Asset Management,  Operating Income,83.199
-LAZ,4,2013,12/31/2013,Asset Management,  Operating Income,104.993
-LAZ,1,2014,03/31/2014,Asset Management,  Operating Income,92.803
-LAZ,2,2014,06/30/2014,Asset Management,  Operating Income,102.927
-LAZ,3,2014,09/30/2014,Asset Management,  Operating Income,100.466
-LAZ,4,2014,12/31/2014,Asset Management,  Operating Income,—
-LAZ,1,2015,03/31/2015,Asset Management,  Operating Income,98.015
-LAZ,2,2015,06/30/2015,Asset Management,  Operating Income,112.047
-LAZ,3,2015,09/30/2015,Asset Management,  Operating Income,85.426
-LAZ,4,2015,12/31/2015,Asset Management,  Operating Income,78.819
-LAZ,1,2016,03/31/2016,Asset Management,  Operating Income,70.598
-LAZ,2,2016,06/30/2016,Asset Management,  Operating Income,71.424
-LAZ,3,2016,09/30/2016,Asset Management,  Operating Income,81.972
-LAZ,4,2016,12/31/2016,Asset Management,  Operating Income,57.585
-LAZ,2,2008,06/30/2008,Asset Management,  Assets,469.322
-LAZ,3,2008,09/30/2008,Asset Management,  Assets,459.424
-LAZ,4,2008,12/31/2008,Asset Management,  Assets,419.858
-LAZ,1,2009,03/31/2009,Asset Management,  Assets,376.209
-LAZ,2,2009,06/30/2009,Asset Management,  Assets,390.704
-LAZ,3,2009,09/30/2009,Asset Management,  Assets,627.953
-LAZ,4,2009,12/31/2009,Asset Management,  Assets,702.775
-LAZ,1,2010,03/31/2010,Asset Management,  Assets,651.094
-LAZ,2,2010,06/30/2010,Asset Management,  Assets,679.5
-LAZ,3,2010,09/30/2010,Asset Management,  Assets,768.029
-LAZ,4,2010,12/31/2010,Asset Management,  Assets,687.323
-LAZ,1,2011,03/31/2011,Asset Management,  Assets,650.956
-LAZ,2,2011,06/30/2011,Asset Management,  Assets,689.118
-LAZ,3,2011,09/30/2011,Asset Management,  Assets,617.04
-LAZ,4,2011,12/31/2011,Asset Management,  Assets,583.524
-LAZ,1,2012,03/31/2012,Asset Management,  Assets,534.558
-LAZ,2,2012,06/30/2012,Asset Management,  Assets,491.239
-LAZ,3,2012,09/30/2012,Asset Management,  Assets,487.635
-LAZ,4,2012,12/31/2012,Asset Management,  Assets,566.677
-LAZ,1,2013,03/31/2013,Asset Management,  Assets,492.618
-LAZ,2,2013,06/30/2013,Asset Management,  Assets,539.662
-LAZ,3,2013,09/30/2013,Asset Management,  Assets,632.526
-LAZ,4,2013,12/31/2013,Asset Management,  Assets,612.018
-LAZ,1,2014,03/31/2014,Asset Management,  Assets,536.836
-LAZ,2,2014,06/30/2014,Asset Management,  Assets,596.955
-LAZ,3,2014,09/30/2014,Asset Management,  Assets,585.693
-LAZ,4,2014,12/31/2014,Asset Management,  Assets,—
-LAZ,1,2015,03/31/2015,Asset Management,  Assets,579.027
-LAZ,2,2015,06/30/2015,Asset Management,  Assets,486.851
-LAZ,3,2015,09/30/2015,Asset Management,  Assets,515.544
-LAZ,4,2015,12/31/2015,Asset Management,  Assets,640.034
-LAZ,1,2016,03/31/2016,Asset Management,  Assets,598.382
-LAZ,2,2016,06/30/2016,Asset Management,  Assets,583.487
-LAZ,3,2016,09/30/2016,Asset Management,  Assets,620.554
-LAZ,4,2016,12/31/2016,Asset Management,  Assets,645.653
-LAZ,2,2008,06/30/2008,Asset Management,  Net Revenues,180.372
-LAZ,3,2008,09/30/2008,Asset Management,  Net Revenues,147.78
-LAZ,4,2008,12/31/2008,Asset Management,  Net Revenues,121.598
-LAZ,1,2009,03/31/2009,Asset Management,  Net Revenues,101.523
-LAZ,2,2009,06/30/2009,Asset Management,  Net Revenues,131.543
-LAZ,3,2009,09/30/2009,Asset Management,  Net Revenues,160.744
-LAZ,4,2009,12/31/2009,Asset Management,  Net Revenues,207.842
-LAZ,1,2010,03/31/2010,Asset Management,  Net Revenues,187.753
-LAZ,2,2010,06/30/2010,Asset Management,  Net Revenues,189.414
-LAZ,3,2010,09/30/2010,Asset Management,  Net Revenues,210.132
-LAZ,4,2010,12/31/2010,Asset Management,  Net Revenues,262.363
-LAZ,1,2011,03/31/2011,Asset Management,  Net Revenues,226.853
-LAZ,2,2011,06/30/2011,Asset Management,  Net Revenues,244.855
-LAZ,3,2011,09/30/2011,Asset Management,  Net Revenues,219.077
-LAZ,4,2011,12/31/2011,Asset Management,  Net Revenues,206.616
-LAZ,1,2012,03/31/2012,Asset Management,  Net Revenues,486.039
-LAZ,2,2012,06/30/2012,Asset Management,  Net Revenues,211.053
-LAZ,3,2012,09/30/2012,Asset Management,  Net Revenues,221.516
-LAZ,4,2012,12/31/2012,Asset Management,  Net Revenues,245.207
-LAZ,1,2013,03/31/2013,Asset Management,  Net Revenues,244.025
-LAZ,2,2013,06/30/2013,Asset Management,  Net Revenues,245.499
-LAZ,3,2013,09/30/2013,Asset Management,  Net Revenues,252.094
-LAZ,4,2013,12/31/2013,Asset Management,  Net Revenues,293.173
-LAZ,1,2014,03/31/2014,Asset Management,  Net Revenues,268.564
-LAZ,2,2014,06/30/2014,Asset Management,  Net Revenues,288.164
-LAZ,3,2014,09/30/2014,Asset Management,  Net Revenues,291.967
-LAZ,4,2014,12/31/2014,Asset Management,  Net Revenues,283.757
-LAZ,1,2015,03/31/2015,Asset Management,  Net Revenues,279.807
-LAZ,2,2015,06/30/2015,Asset Management,  Net Revenues,305.838
-LAZ,3,2015,09/30/2015,Asset Management,  Net Revenues,264.581
-LAZ,4,2015,12/31/2015,Asset Management,  Net Revenues,260.606
-LAZ,1,2016,03/31/2016,Asset Management,  Net Revenues,245.759
-LAZ,2,2016,06/30/2016,Asset Management,  Net Revenues,254.126
-LAZ,3,2016,09/30/2016,Asset Management,  Net Revenues,267.725
-LAZ,4,2016,12/31/2016,Asset Management,  Net Revenues,275.365
-LAZ,2,2008,06/30/2008,Financial Advisory,  Net Revenues,288.696
-LAZ,3,2008,09/30/2008,Financial Advisory,  Net Revenues,269.74
-LAZ,4,2008,12/31/2008,Financial Advisory,  Net Revenues,252.214
-LAZ,1,2009,03/31/2009,Financial Advisory,  Net Revenues,162.977
-LAZ,2,2009,06/30/2009,Financial Advisory,  Net Revenues,252.024
-LAZ,3,2009,09/30/2009,Financial Advisory,  Net Revenues,259.221
-LAZ,4,2009,12/31/2009,Financial Advisory,  Net Revenues,312.598
-LAZ,1,2010,03/31/2010,Financial Advisory,  Net Revenues,268.496
-LAZ,2,2010,06/30/2010,Financial Advisory,  Net Revenues,245.973
-LAZ,3,2010,09/30/2010,Financial Advisory,  Net Revenues,254.012
-LAZ,4,2010,12/31/2010,Financial Advisory,  Net Revenues,351.386
-LAZ,1,2011,03/31/2011,Financial Advisory,  Net Revenues,228.845
-LAZ,2,2011,06/30/2011,Financial Advisory,  Net Revenues,249.191
-LAZ,3,2011,09/30/2011,Financial Advisory,  Net Revenues,253.585
-LAZ,4,2011,12/31/2011,Financial Advisory,  Net Revenues,260.486
-LAZ,1,2012,03/31/2012,Financial Advisory,  Net Revenues,277.196
-LAZ,2,2012,06/30/2012,Financial Advisory,  Net Revenues,242.624
-LAZ,3,2012,09/30/2012,Financial Advisory,  Net Revenues,219.973
-LAZ,4,2012,12/31/2012,Financial Advisory,  Net Revenues,309.297
-LAZ,1,2013,03/31/2013,Financial Advisory,  Net Revenues,168.462
-LAZ,2,2013,06/30/2013,Financial Advisory,  Net Revenues,263.307
-LAZ,3,2013,09/30/2013,Financial Advisory,  Net Revenues,233.842
-LAZ,4,2013,12/31/2013,Financial Advisory,  Net Revenues,314.966
-LAZ,1,2014,03/31/2014,Financial Advisory,  Net Revenues,275.496
-LAZ,2,2014,06/30/2014,Financial Advisory,  Net Revenues,280.769
-LAZ,3,2014,09/30/2014,Financial Advisory,  Net Revenues,291.089
-LAZ,4,2014,12/31/2014,Financial Advisory,  Net Revenues,359.38
-LAZ,1,2015,03/31/2015,Financial Advisory,  Net Revenues,301.519
-LAZ,2,2015,06/30/2015,Financial Advisory,  Net Revenues,316.384
-LAZ,3,2015,09/30/2015,Financial Advisory,  Net Revenues,330.832
-LAZ,4,2015,12/31/2015,Financial Advisory,  Net Revenues,330.893
-LAZ,1,2016,03/31/2016,Financial Advisory,  Net Revenues,266.014
-LAZ,2,2016,06/30/2016,Financial Advisory,  Net Revenues,286.965
-LAZ,3,2016,09/30/2016,Financial Advisory,  Net Revenues,343.488
-LAZ,4,2016,12/31/2016,Financial Advisory,  Net Revenues,404.577
-HLI,4,2014,03/31/2014,Corporate Finance,  Revenue,—
-HLI,4,2015,03/31/2015,Corporate Finance,  Revenue,—
-HLI,1,2016,06/30/2015,Corporate Finance,  Revenue,78.397
-HLI,2,2016,09/30/2015,Corporate Finance,  Revenue,89.931
-HLI,3,2016,12/31/2015,Corporate Finance,  Revenue,124.133
-HLI,4,2016,03/31/2016,Corporate Finance,  Revenue,79.329
-HLI,1,2017,06/30/2016,Corporate Finance,  Revenue,96.036
-HLI,2,2017,09/30/2016,Corporate Finance,  Revenue,100.207
-HLI,3,2017,12/31/2016,Corporate Finance,  Revenue,123.24
-HLI,4,2014,03/31/2014,Financial Restructuring,  Revenue,—
-HLI,4,2015,03/31/2015,Financial Restructuring,  Revenue,—
-HLI,1,2016,06/30/2015,Financial Restructuring,  Revenue,38.993
-HLI,2,2016,09/30/2015,Financial Restructuring,  Revenue,40.93
-HLI,3,2016,12/31/2015,Financial Restructuring,  Revenue,50.216
-HLI,4,2016,03/31/2016,Financial Restructuring,  Revenue,72.204
-HLI,1,2017,06/30/2016,Financial Restructuring,  Revenue,56.33
-HLI,2,2017,09/30/2016,Financial Restructuring,  Revenue,56.862
-HLI,3,2017,12/31/2016,Financial Restructuring,  Revenue,90.18
-HLI,4,2014,03/31/2014,Financial Advisory Services,  Revenue,—
-HLI,4,2015,03/31/2015,Financial Advisory Services,  Revenue,—
-HLI,1,2016,06/30/2015,Financial Advisory Services,  Revenue,28.876
-HLI,2,2016,09/30/2015,Financial Advisory Services,  Revenue,27.519
-HLI,3,2016,12/31/2015,Financial Advisory Services,  Revenue,31.174
-HLI,4,2016,03/31/2016,Financial Advisory Services,  Revenue,32.063
-HLI,1,2017,06/30/2016,Financial Advisory Services,  Revenue,28.408
-HLI,2,2017,09/30/2016,Financial Advisory Services,  Revenue,29.468
-HLI,3,2017,12/31/2016,Financial Advisory Services,  Revenue,34.26
-EVR,2,2008,06/30/2008,Investment Banking,  Net Revenues,58.458
-EVR,3,2008,09/30/2008,Investment Banking,  Net Revenues,52.518
-EVR,4,2008,12/31/2008,Investment Banking,  Net Revenues,34.178
-EVR,1,2009,03/31/2009,Investment Banking,  Net Revenues,49.66
-EVR,2,2009,06/30/2009,Investment Banking,  Net Revenues,69.313
-EVR,3,2009,09/30/2009,Investment Banking,  Net Revenues,73.49
-EVR,4,2009,12/31/2009,Investment Banking,  Net Revenues,100.171
-EVR,1,2010,03/31/2010,Investment Banking,  Net Revenues,76.515
-EVR,2,2010,06/30/2010,Investment Banking,  Net Revenues,48.025
-EVR,3,2010,09/30/2010,Investment Banking,  Net Revenues,100.76
-EVR,4,2010,12/31/2010,Investment Banking,  Net Revenues,77.137
-EVR,1,2011,03/31/2011,Investment Banking,  Net Revenues,82.379
-EVR,2,2011,06/30/2011,Investment Banking,  Net Revenues,113.976
-EVR,3,2011,09/30/2011,Investment Banking,  Net Revenues,139.166
-EVR,4,2011,12/31/2011,Investment Banking,  Net Revenues,92.854
-EVR,1,2012,03/31/2012,Investment Banking,  Net Revenues,83.785
-EVR,2,2012,06/30/2012,Investment Banking,  Net Revenues,153.164
-EVR,3,2012,09/30/2012,Investment Banking,  Net Revenues,133.415
-EVR,4,2012,12/31/2012,Investment Banking,  Net Revenues,194.855
-EVR,1,2013,03/31/2013,Investment Banking,  Net Revenues,131.596
-EVR,2,2013,06/30/2013,Investment Banking,  Net Revenues,182.605
-EVR,3,2013,09/30/2013,Investment Banking,  Net Revenues,163.645
-EVR,4,2013,12/31/2013,Investment Banking,  Net Revenues,192.939
-EVR,1,2014,03/31/2014,Investment Banking,  Net Revenues,127.851
-EVR,2,2014,06/30/2014,Investment Banking,  Net Revenues,191.323
-EVR,3,2014,09/30/2014,Investment Banking,  Net Revenues,203.028
-EVR,4,2014,12/31/2014,Investment Banking,  Net Revenues,297.435
-EVR,1,2015,03/31/2015,Investment Banking,  Net Revenues,216.58
-EVR,2,2015,06/30/2015,Investment Banking,  Net Revenues,244.377
-EVR,3,2015,09/30/2015,Investment Banking,  Net Revenues,285.918
-EVR,4,2015,12/31/2015,Investment Banking,  Net Revenues,384.04
-EVR,1,2016,03/31/2016,Investment Banking,  Net Revenues,239.713
-EVR,2,2016,06/30/2016,Investment Banking,  Net Revenues,328.157
-EVR,3,2016,09/30/2016,Investment Banking,  Net Revenues,368.634
-EVR,4,2016,12/31/2016,Investment Banking,  Net Revenues,427.355
-EVR,2,2008,06/30/2008,Investment Management,  Net Revenues,1.66
-EVR,3,2008,09/30/2008,Investment Management,  Net Revenues,4.295
-EVR,4,2008,12/31/2008,Investment Management,  Net Revenues,-0.942
-EVR,1,2009,03/31/2009,Investment Management,  Net Revenues,0.066
-EVR,2,2009,06/30/2009,Investment Management,  Net Revenues,1.73
-EVR,3,2009,09/30/2009,Investment Management,  Net Revenues,9.706
-EVR,4,2009,12/31/2009,Investment Management,  Net Revenues,9.003
-EVR,1,2010,03/31/2010,Investment Management,  Net Revenues,11.326
-EVR,2,2010,06/30/2010,Investment Management,  Net Revenues,16.815
-EVR,3,2010,09/30/2010,Investment Management,  Net Revenues,22.827
-EVR,4,2010,12/31/2010,Investment Management,  Net Revenues,25.646
-EVR,1,2011,03/31/2011,Investment Management,  Net Revenues,24.719
-EVR,2,2011,06/30/2011,Investment Management,  Net Revenues,27.228
-EVR,3,2011,09/30/2011,Investment Management,  Net Revenues,24.015
-EVR,4,2011,12/31/2011,Investment Management,  Net Revenues,21.007
-EVR,1,2012,03/31/2012,Investment Management,  Net Revenues,19.013
-EVR,2,2012,06/30/2012,Investment Management,  Net Revenues,19.333
-EVR,3,2012,09/30/2012,Investment Management,  Net Revenues,19.614
-EVR,4,2012,12/31/2012,Investment Management,  Net Revenues,19.194
-EVR,1,2013,03/31/2013,Investment Management,  Net Revenues,21.035
-EVR,2,2013,06/30/2013,Investment Management,  Net Revenues,24.192
-EVR,3,2013,09/30/2013,Investment Management,  Net Revenues,23.683
-EVR,4,2013,12/31/2013,Investment Management,  Net Revenues,25.733
-EVR,1,2014,03/31/2014,Investment Management,  Net Revenues,21.262
-EVR,2,2014,06/30/2014,Investment Management,  Net Revenues,26.373
-EVR,3,2014,09/30/2014,Investment Management,  Net Revenues,24.133
-EVR,4,2014,12/31/2014,Investment Management,  Net Revenues,24.453
-EVR,1,2015,03/31/2015,Investment Management,  Net Revenues,21.403
-EVR,2,2015,06/30/2015,Investment Management,  Net Revenues,23.719
-EVR,3,2015,09/30/2015,Investment Management,  Net Revenues,23.033
-EVR,4,2015,12/31/2015,Investment Management,  Net Revenues,24.203
-EVR,1,2016,03/31/2016,Investment Management,  Net Revenues,18
-EVR,2,2016,06/30/2016,Investment Management,  Net Revenues,22.499
-EVR,3,2016,09/30/2016,Investment Management,  Net Revenues,17.68
-EVR,4,2016,12/31/2016,Investment Management,  Net Revenues,18.014
-COWN,1,2009,03/31/2009,Broker-Dealer,  Revenue,—
-COWN,2,2009,06/30/2009,Broker-Dealer,  Revenue,—
-COWN,3,2009,09/30/2009,Broker-Dealer,  Revenue,—
-COWN,4,2009,12/31/2009,Broker-Dealer,  Revenue,—
-COWN,1,2010,03/31/2010,Broker-Dealer,  Revenue,35.961
-COWN,2,2010,06/30/2010,Broker-Dealer,  Revenue,39.198
-COWN,3,2010,09/30/2010,Broker-Dealer,  Revenue,33.041
-COWN,4,2010,12/31/2010,Broker-Dealer,  Revenue,42.768
-COWN,1,2011,03/31/2011,Broker-Dealer,  Revenue,41.763
-COWN,2,2011,06/30/2011,Broker-Dealer,  Revenue,38.626
-COWN,3,2011,09/30/2011,Broker-Dealer,  Revenue,32.819
-COWN,4,2011,12/31/2011,Broker-Dealer,  Revenue,21.743
-COWN,1,2012,03/31/2012,Broker-Dealer,  Revenue,44.205
-COWN,2,2012,06/30/2012,Broker-Dealer,  Revenue,42.127
-COWN,3,2012,09/30/2012,Broker-Dealer,  Revenue,43.868
-COWN,4,2012,12/31/2012,Broker-Dealer,  Revenue,19.885
-COWN,1,2013,03/31/2013,Broker-Dealer,  Revenue,47.198
-COWN,2,2013,06/30/2013,Broker-Dealer,  Revenue,58.764
-COWN,3,2013,09/30/2013,Broker-Dealer,  Revenue,61.987
-COWN,4,2013,12/31/2013,Broker-Dealer,  Revenue,66.406
-COWN,1,2014,03/31/2014,Broker-Dealer,  Revenue,83.653
-COWN,2,2014,06/30/2014,Broker-Dealer,  Revenue,70.385
-COWN,3,2014,09/30/2014,Broker-Dealer,  Revenue,85.119
-COWN,4,2014,12/31/2014,Broker-Dealer,  Revenue,98.086
-COWN,1,2015,03/31/2015,Broker-Dealer,  Revenue,107.836
-COWN,2,2015,06/30/2015,Broker-Dealer,  Revenue,106.388
-COWN,3,2015,09/30/2015,Broker-Dealer,  Revenue,90.481
-COWN,4,2015,12/31/2015,Broker-Dealer,  Revenue,93.78
-COWN,1,2016,03/31/2016,Broker-Dealer,  Revenue,80.515
-COWN,2,2016,06/30/2016,Broker-Dealer,  Revenue,79.332
-COWN,3,2016,09/30/2016,Broker-Dealer,  Revenue,93.996
-COWN,4,2016,12/31/2016,Broker-Dealer,  Revenue,91.21
-COWN,1,2009,03/31/2009,Alternative Investment Management,  Revenue,12.213
-COWN,2,2009,06/30/2009,Alternative Investment Management,  Revenue,11.823
-COWN,3,2009,09/30/2009,Alternative Investment Management,  Revenue,25.763
-COWN,4,2009,12/31/2009,Alternative Investment Management,  Revenue,22.639
-COWN,1,2010,03/31/2010,Alternative Investment Management,  Revenue,25.71
-COWN,2,2010,06/30/2010,Alternative Investment Management,  Revenue,9.413
-COWN,3,2010,09/30/2010,Alternative Investment Management,  Revenue,28.269
-COWN,4,2010,12/31/2010,Alternative Investment Management,  Revenue,58.233
-COWN,1,2011,03/31/2011,Alternative Investment Management,  Revenue,37.983
-COWN,2,2011,06/30/2011,Alternative Investment Management,  Revenue,43.779
-COWN,3,2011,09/30/2011,Alternative Investment Management,  Revenue,4.385
-COWN,4,2011,12/31/2011,Alternative Investment Management,  Revenue,11.135
-COWN,1,2012,03/31/2012,Alternative Investment Management,  Revenue,34.969
-COWN,2,2012,06/30/2012,Alternative Investment Management,  Revenue,24.079
-COWN,3,2012,09/30/2012,Alternative Investment Management,  Revenue,22.157
-COWN,4,2012,12/31/2012,Alternative Investment Management,  Revenue,21.212
-COWN,1,2013,03/31/2013,Alternative Investment Management,  Revenue,27.687
-COWN,2,2013,06/30/2013,Alternative Investment Management,  Revenue,22.319
-COWN,3,2013,09/30/2013,Alternative Investment Management,  Revenue,30.152
-COWN,4,2013,12/31/2013,Alternative Investment Management,  Revenue,29.996
-COWN,1,2014,03/31/2014,Alternative Investment Management,  Revenue,27.1
-COWN,2,2014,06/30/2014,Alternative Investment Management,  Revenue,41.156
-COWN,3,2014,09/30/2014,Alternative Investment Management,  Revenue,25.187
-COWN,4,2014,12/31/2014,Alternative Investment Management,  Revenue,66.932
-COWN,1,2015,03/31/2015,Alternative Investment Management,  Revenue,53.839
-COWN,2,2015,06/30/2015,Alternative Investment Management,  Revenue,18.061
-COWN,3,2015,09/30/2015,Alternative Investment Management,  Revenue,-7.662
-COWN,4,2015,12/31/2015,Alternative Investment Management,  Revenue,66.943
-COWN,1,2016,03/31/2016,Alternative Investment Management,  Revenue,25.125
-COWN,2,2016,06/30/2016,Alternative Investment Management,  Revenue,1.062
-COWN,3,2016,09/30/2016,Alternative Investment Management,  Revenue,59.514
-COWN,4,2016,12/31/2016,Alternative Investment Management,  Revenue,36.877
-GHL,3,2007,09/30/2007,Financial Advisory,  Revenue,116.457989
-GHL,1,2008,03/31/2008,Financial Advisory,  Revenue,69.5
-GHL,2,2008,06/30/2008,Financial Advisory,  Revenue,49.9
-GHL,3,2008,09/30/2008,Financial Advisory,  Revenue,37
-GHL,1,2009,03/31/2009,Financial Advisory,  Revenue,65.1
-GHL,2,2009,06/30/2009,Financial Advisory,  Revenue,45.5
-GHL,3,2009,09/30/2009,Financial Advisory,  Revenue,42.4
-GHL,4,2009,12/31/2009,Financial Advisory,  Revenue,63
-GHL,1,2010,03/31/2010,Financial Advisory,  Revenue,36.6
-GHL,2,2010,06/30/2010,Financial Advisory,  Revenue,61.9
-GHL,3,2010,09/30/2010,Financial Advisory,  Revenue,97
-GHL,4,2010,12/31/2010,Financial Advisory,  Revenue,56.678274
-GHL,1,2011,03/31/2011,Financial Advisory,  Revenue,48.5
-GHL,2,2011,06/30/2011,Financial Advisory,  Revenue,85.6
-GHL,3,2011,09/30/2011,Financial Advisory,  Revenue,83.2
-GHL,1,2012,03/31/2012,Financial Advisory,  Revenue,73.3
-GHL,2,2012,06/30/2012,Financial Advisory,  Revenue,45.1
-GHL,3,2012,09/30/2012,Financial Advisory,  Revenue,72.7
-GHL,4,2012,12/31/2012,Financial Advisory,  Revenue,100.4
-GHL,1,2013,03/31/2013,Financial Advisory,  Revenue,81.447
-GHL,2,2013,06/30/2013,Financial Advisory,  Revenue,83.066
-GHL,3,2013,09/30/2013,Financial Advisory,  Revenue,46.983
-GHL,4,2013,12/31/2013,Financial Advisory,  Revenue,75.412
-GHL,1,2014,03/31/2014,Financial Advisory,  Revenue,48.455
-GHL,2,2014,06/30/2014,Financial Advisory,  Revenue,64
-GHL,3,2014,09/30/2014,Financial Advisory,  Revenue,91.669
-GHL,4,2014,12/31/2014,Financial Advisory,  Revenue,76.341
-GHL,1,2015,03/31/2015,Financial Advisory,  Revenue,61.892
-GHL,2,2015,06/30/2015,Financial Advisory,  Revenue,72.962
-GHL,3,2015,09/30/2015,Financial Advisory,  Revenue,50.278
-GHL,4,2015,12/31/2015,Financial Advisory,  Revenue,75.1
-GHL,1,2016,03/31/2016,Financial Advisory,  Revenue,66.553
-GHL,2,2016,06/30/2016,Financial Advisory,  Revenue,90.265
-GHL,3,2016,09/30/2016,Financial Advisory,  Revenue,76.487
-GHL,4,2016,12/31/2016,Financial Advisory,  Revenue,101.482
-GHL,3,2007,09/30/2007,Merchant banking fund management,  Revenue,1.753447
-GHL,1,2008,03/31/2008,Merchant banking fund management,  Revenue,5.9
-GHL,2,2008,06/30/2008,Merchant banking fund management,  Revenue,58.8
-GHL,3,2008,09/30/2008,Merchant banking fund management,  Revenue,-51.9
-GHL,1,2009,03/31/2009,Merchant banking fund management,  Revenue,-3.3
-GHL,2,2009,06/30/2009,Merchant banking fund management,  Revenue,8.6
-GHL,3,2009,09/30/2009,Merchant banking fund management,  Revenue,73.9
-GHL,4,2009,12/31/2009,Merchant banking fund management,  Revenue,3.4
-GHL,1,2010,03/31/2010,Merchant banking fund management,  Revenue,12.3
-GHL,2,2010,06/30/2010,Merchant banking fund management,  Revenue,21.6
-GHL,3,2010,09/30/2010,Merchant banking fund management,  Revenue,-12.9
-GHL,4,2010,12/31/2010,Merchant banking fund management,  Revenue,5.00922
-GHL,1,2011,03/31/2011,Merchant banking fund management,  Revenue,-0.1
-GHL,2,2011,06/30/2011,Merchant banking fund management,  Revenue,5.2
-GHL,3,2011,09/30/2011,Merchant banking fund management,  Revenue,-22.8
-GHL,1,2012,03/31/2012,Merchant banking fund management,  Revenue,9.4
-GHL,2,2012,06/30/2012,Merchant banking fund management,  Revenue,2.2
-GHL,3,2012,09/30/2012,Merchant banking fund management,  Revenue,-10
-GHL,4,2012,12/31/2012,Merchant banking fund management,  Revenue,-8.1
-GHL,1,2013,03/31/2013,Merchant banking fund management,  Revenue,-1.856
-GHL,2,2013,06/30/2013,Merchant banking fund management,  Revenue,3.624
-GHL,3,2013,09/30/2013,Merchant banking fund management,  Revenue,-2.44
-GHL,4,2013,12/31/2013,Merchant banking fund management,  Revenue,0.916
-GHL,1,2014,03/31/2014,Merchant banking fund management,  Revenue,-4.886
-GHL,2,2014,06/30/2014,Merchant banking fund management,  Revenue,-1
-GHL,3,2014,09/30/2014,Merchant banking fund management,  Revenue,0.324
-GHL,4,2014,12/31/2014,Merchant banking fund management,  Revenue,0.308
-GHL,1,2015,03/31/2015,Merchant banking fund management,  Revenue,-0.009
-GHL,2,2015,06/30/2015,Merchant banking fund management,  Revenue,0.38
-GHL,3,2015,09/30/2015,Merchant banking fund management,  Revenue,0.354
-GHL,4,2015,12/31/2015,Merchant banking fund management,  Revenue,0.6
-GHL,1,2016,03/31/2016,Merchant banking fund management,  Revenue,0.312
-GHL,2,2016,06/30/2016,Merchant banking fund management,  Revenue,0.22
-GHL,3,2016,09/30/2016,Merchant banking fund management,  Revenue,0.091
-GHL,4,2016,12/31/2016,Merchant banking fund management,  Revenue,0.109
-MC,4,2012,12/31/2012,Investment Banking,  Revenue,—
-MC,4,2013,12/31/2013,Investment Banking,  Revenue,—
-MC,1,2014,03/31/2014,Investment Banking,  Revenue,—
-MC,4,2014,12/31/2014,Investment Banking,  Revenue,—
-MC,1,2015,03/31/2015,Investment Banking,  Revenue,—
-MC,4,2015,12/31/2015,Investment Banking,  Revenue,—
-MC,3,2016,09/30/2016,Investment Banking,  Revenue,150.676
-MC,4,2016,12/31/2016,Investment Banking,  Revenue,204.608
-PJC,2,2008,06/30/2008,Capital Markets,  Net Revenues,—
-PJC,3,2008,09/30/2008,Capital Markets,  Net Revenues,—
-PJC,4,2008,12/31/2008,Capital Markets,  Net Revenues,—
-PJC,1,2009,03/31/2009,Capital Markets,  Net Revenues,—
-PJC,2,2009,06/30/2009,Capital Markets,  Net Revenues,—
-PJC,3,2009,09/30/2009,Capital Markets,  Net Revenues,—
-PJC,4,2009,12/31/2009,Capital Markets,  Net Revenues,—
-PJC,1,2010,03/31/2010,Capital Markets,  Net Revenues,100.432
-PJC,2,2010,06/30/2010,Capital Markets,  Net Revenues,111.985
-PJC,3,2010,09/30/2010,Capital Markets,  Net Revenues,99.415
-PJC,4,2010,12/31/2010,Capital Markets,  Net Revenues,151.035
-PJC,1,2011,03/31/2011,Capital Markets,  Net Revenues,106.58
-PJC,2,2011,06/30/2011,Capital Markets,  Net Revenues,116.265
-PJC,3,2011,09/30/2011,Capital Markets,  Net Revenues,80.708
-PJC,4,2011,12/31/2011,Capital Markets,  Net Revenues,77.337
-PJC,1,2012,03/31/2012,Capital Markets,  Net Revenues,96.795
-PJC,2,2012,06/30/2012,Capital Markets,  Net Revenues,87.586
-PJC,3,2012,09/30/2012,Capital Markets,  Net Revenues,115.249
-PJC,4,2012,12/31/2012,Capital Markets,  Net Revenues,124.707
-PJC,1,2013,03/31/2013,Capital Markets,  Net Revenues,91.209
-PJC,2,2013,06/30/2013,Capital Markets,  Net Revenues,81.809
-PJC,3,2013,09/30/2013,Capital Markets,  Net Revenues,110.263
-PJC,4,2013,12/31/2013,Capital Markets,  Net Revenues,159.945
-PJC,1,2014,03/31/2014,Capital Markets,  Net Revenues,148.441
-PJC,2,2014,06/30/2014,Capital Markets,  Net Revenues,143.378
-PJC,3,2014,09/30/2014,Capital Markets,  Net Revenues,139.47
-PJC,4,2014,12/31/2014,Capital Markets,  Net Revenues,131.821
-PJC,1,2015,03/31/2015,Capital Markets,  Net Revenues,142.167
-PJC,2,2015,06/30/2015,Capital Markets,  Net Revenues,146.881
-PJC,3,2015,09/30/2015,Capital Markets,  Net Revenues,130.156
-PJC,4,2015,12/31/2015,Capital Markets,  Net Revenues,183.063
-PJC,1,2016,03/31/2016,Capital Markets,  Net Revenues,141.649
-PJC,2,2016,06/30/2016,Capital Markets,  Net Revenues,156.739
-PJC,3,2016,09/30/2016,Capital Markets,  Net Revenues,186.483
-PJC,4,2016,12/31/2016,Capital Markets,  Net Revenues,207.433
-PJC,2,2008,06/30/2008,Asset Management,  Net Revenues,—
-PJC,3,2008,09/30/2008,Asset Management,  Net Revenues,—
-PJC,4,2008,12/31/2008,Asset Management,  Net Revenues,—
-PJC,1,2009,03/31/2009,Asset Management,  Net Revenues,—
-PJC,2,2009,06/30/2009,Asset Management,  Net Revenues,—
-PJC,3,2009,09/30/2009,Asset Management,  Net Revenues,—
-PJC,4,2009,12/31/2009,Asset Management,  Net Revenues,—
-PJC,1,2010,03/31/2010,Asset Management,  Net Revenues,9.154
-PJC,2,2010,06/30/2010,Asset Management,  Net Revenues,15.873
-PJC,3,2010,09/30/2010,Asset Management,  Net Revenues,17.048
-PJC,4,2010,12/31/2010,Asset Management,  Net Revenues,16.384
-PJC,1,2011,03/31/2011,Asset Management,  Net Revenues,18.2
-PJC,2,2011,06/30/2011,Asset Management,  Net Revenues,19.614
-PJC,3,2011,09/30/2011,Asset Management,  Net Revenues,14.459
-PJC,4,2011,12/31/2011,Asset Management,  Net Revenues,15.716
-PJC,1,2012,03/31/2012,Asset Management,  Net Revenues,16.643
-PJC,2,2012,06/30/2012,Asset Management,  Net Revenues,15.512
-PJC,3,2012,09/30/2012,Asset Management,  Net Revenues,16.256
-PJC,4,2012,12/31/2012,Asset Management,  Net Revenues,16.403
-PJC,1,2013,03/31/2013,Asset Management,  Net Revenues,18.324
-PJC,2,2013,06/30/2013,Asset Management,  Net Revenues,17.963
-PJC,3,2013,09/30/2013,Asset Management,  Net Revenues,18.051
-PJC,4,2013,12/31/2013,Asset Management,  Net Revenues,27.631
-PJC,1,2014,03/31/2014,Asset Management,  Net Revenues,19.692
-PJC,2,2014,06/30/2014,Asset Management,  Net Revenues,21.972
-PJC,3,2014,09/30/2014,Asset Management,  Net Revenues,19.956
-PJC,4,2014,12/31/2014,Asset Management,  Net Revenues,18.727
-PJC,1,2015,03/31/2015,Asset Management,  Net Revenues,19.704
-PJC,2,2015,06/30/2015,Asset Management,  Net Revenues,17.902
-PJC,3,2015,09/30/2015,Asset Management,  Net Revenues,11.957
-PJC,4,2015,12/31/2015,Asset Management,  Net Revenues,14.024
-PJC,1,2016,03/31/2016,Asset Management,  Net Revenues,11.907
-PJC,2,2016,06/30/2016,Asset Management,  Net Revenues,13.744
-PJC,3,2016,09/30/2016,Asset Management,  Net Revenues,14.364
-PJC,4,2016,12/31/2016,Asset Management,  Net Revenues,15.03
-PJC,2,2008,06/30/2008,Investment Banking,  Net Revenues,35.258
-PJC,3,2008,09/30/2008,Investment Banking,  Net Revenues,50.526
-PJC,4,2008,12/31/2008,Investment Banking,  Net Revenues,25.496
-PJC,1,2009,03/31/2009,Investment Banking,  Net Revenues,—
-PJC,2,2009,06/30/2009,Investment Banking,  Net Revenues,—
-PJC,3,2009,09/30/2009,Investment Banking,  Net Revenues,—
-PJC,4,2009,12/31/2009,Investment Banking,  Net Revenues,—
-PJC,1,2010,03/31/2010,Investment Banking,  Net Revenues,—
-PJC,2,2010,06/30/2010,Investment Banking,  Net Revenues,—
-PJC,3,2010,09/30/2010,Investment Banking,  Net Revenues,—
-PJC,4,2010,12/31/2010,Investment Banking,  Net Revenues,—
-PJC,1,2011,03/31/2011,Investment Banking,  Net Revenues,—
-PJC,2,2011,06/30/2011,Investment Banking,  Net Revenues,—
-PJC,3,2011,09/30/2011,Investment Banking,  Net Revenues,—
-PJC,4,2011,12/31/2011,Investment Banking,  Net Revenues,—
-PJC,1,2012,03/31/2012,Investment Banking,  Net Revenues,—
-PJC,2,2012,06/30/2012,Investment Banking,  Net Revenues,—
-PJC,3,2012,09/30/2012,Investment Banking,  Net Revenues,—
-PJC,4,2012,12/31/2012,Investment Banking,  Net Revenues,—
-PJC,1,2013,03/31/2013,Investment Banking,  Net Revenues,—
-PJC,2,2013,06/30/2013,Investment Banking,  Net Revenues,—
-PJC,3,2013,09/30/2013,Investment Banking,  Net Revenues,—
-PJC,4,2013,12/31/2013,Investment Banking,  Net Revenues,—
-PJC,1,2014,03/31/2014,Investment Banking,  Net Revenues,—
-PJC,2,2014,06/30/2014,Investment Banking,  Net Revenues,—
-PJC,3,2014,09/30/2014,Investment Banking,  Net Revenues,—
-PJC,4,2014,12/31/2014,Investment Banking,  Net Revenues,—
-PJC,1,2015,03/31/2015,Investment Banking,  Net Revenues,—
-PJC,2,2015,06/30/2015,Investment Banking,  Net Revenues,—
-PJC,3,2015,09/30/2015,Investment Banking,  Net Revenues,—
-PJC,4,2015,12/31/2015,Investment Banking,  Net Revenues,—
-PJC,1,2016,03/31/2016,Investment Banking,  Net Revenues,—
-PJC,2,2016,06/30/2016,Investment Banking,  Net Revenues,—
-PJC,3,2016,09/30/2016,Investment Banking,  Net Revenues,—
-PJC,4,2016,12/31/2016,Investment Banking,  Net Revenues,—
-OPY,2,2009,06/30/2009,Private Client,  Revenue,133.123
-OPY,3,2009,09/30/2009,Private Client,  Revenue,147.169
-OPY,1,2010,03/31/2010,Private Client,  Revenue,136.822
-OPY,2,2010,06/30/2010,Private Client,  Revenue,146.191
-OPY,3,2010,09/30/2010,Private Client,  Revenue,134.182
-OPY,4,2010,12/31/2010,Private Client,  Revenue,167.368
-OPY,1,2011,03/31/2011,Private Client,  Revenue,145.399
-OPY,2,2011,06/30/2011,Private Client,  Revenue,136.092
-OPY,3,2011,09/30/2011,Private Client,  Revenue,128.154
-OPY,4,2011,12/31/2011,Private Client,  Revenue,126.353
-OPY,1,2012,03/31/2012,Private Client,  Revenue,144.263
-OPY,3,2012,09/30/2012,Private Client,  Revenue,132.847
-OPY,4,2012,12/31/2012,Private Client,  Revenue,144.276
-OPY,1,2013,03/31/2013,Private Client,  Revenue,143.369
-OPY,2,2013,06/30/2013,Private Client,  Revenue,143.278
-OPY,3,2013,09/30/2013,Private Client,  Revenue,144.316
-OPY,4,2013,12/31/2013,Private Client,  Revenue,169.108
-OPY,1,2014,03/31/2014,Private Client,  Revenue,147.82
-OPY,2,2014,06/30/2014,Private Client,  Revenue,145.344
-OPY,3,2014,09/30/2014,Private Client,  Revenue,142.606
-OPY,4,2014,12/31/2014,Private Client,  Revenue,146.594
-OPY,1,2015,03/31/2015,Private Client,  Revenue,139.932
-OPY,2,2015,06/30/2015,Private Client,  Revenue,133.783
-OPY,3,2015,09/30/2015,Private Client,  Revenue,122.324
-OPY,4,2015,12/31/2015,Private Client,  Revenue,125.487
-OPY,1,2016,03/31/2016,Private Client,  Revenue,127.544
-OPY,2,2016,06/30/2016,Private Client,  Revenue,121.358
-OPY,3,2016,09/30/2016,Private Client,  Revenue,127.835
-OPY,4,2016,12/31/2016,Private Client,  Revenue,127.455
-OPY,2,2009,06/30/2009,Capital Markets,  Revenue,101.544
-OPY,3,2009,09/30/2009,Capital Markets,  Revenue,97.31
-OPY,1,2010,03/31/2010,Capital Markets,  Revenue,92.444
-OPY,2,2010,06/30/2010,Capital Markets,  Revenue,91.498
-OPY,3,2010,09/30/2010,Capital Markets,  Revenue,84.396
-OPY,4,2010,12/31/2010,Capital Markets,  Revenue,103.243
-OPY,1,2011,03/31/2011,Capital Markets,  Revenue,89.753
-OPY,2,2011,06/30/2011,Capital Markets,  Revenue,88.929
-OPY,3,2011,09/30/2011,Capital Markets,  Revenue,87.682
-OPY,4,2011,12/31/2011,Capital Markets,  Revenue,82.887
-OPY,1,2012,03/31/2012,Capital Markets,  Revenue,69.329
-OPY,3,2012,09/30/2012,Capital Markets,  Revenue,77.082
-OPY,4,2012,12/31/2012,Capital Markets,  Revenue,77.657
-OPY,1,2013,03/31/2013,Capital Markets,  Revenue,65.131
-OPY,2,2013,06/30/2013,Capital Markets,  Revenue,67.904
-OPY,3,2013,09/30/2013,Capital Markets,  Revenue,68.46
-OPY,4,2013,12/31/2013,Capital Markets,  Revenue,79.882
-OPY,1,2014,03/31/2014,Capital Markets,  Revenue,77.881
-OPY,2,2014,06/30/2014,Capital Markets,  Revenue,72.217
-OPY,3,2014,09/30/2014,Capital Markets,  Revenue,71.226
-OPY,4,2014,12/31/2014,Capital Markets,  Revenue,77.273
-OPY,1,2015,03/31/2015,Capital Markets,  Revenue,72.166
-OPY,2,2015,06/30/2015,Capital Markets,  Revenue,69.531
-OPY,3,2015,09/30/2015,Capital Markets,  Revenue,60.585
-OPY,4,2015,12/31/2015,Capital Markets,  Revenue,77.307
-OPY,1,2016,03/31/2016,Capital Markets,  Revenue,61.065
-OPY,2,2016,06/30/2016,Capital Markets,  Revenue,65.524
-OPY,3,2016,09/30/2016,Capital Markets,  Revenue,60.703
-OPY,4,2016,12/31/2016,Capital Markets,  Revenue,67.641
-OPY,2,2009,06/30/2009,Asset Management,  Revenue,12.659
-OPY,3,2009,09/30/2009,Asset Management,  Revenue,14.787
-OPY,1,2010,03/31/2010,Asset Management,  Revenue,16.909
-OPY,2,2010,06/30/2010,Asset Management,  Revenue,15.265
-OPY,3,2010,09/30/2010,Asset Management,  Revenue,16.565
-OPY,4,2010,12/31/2010,Asset Management,  Revenue,22.842
-OPY,1,2011,03/31/2011,Asset Management,  Revenue,18.265
-OPY,2,2011,06/30/2011,Asset Management,  Revenue,19.497
-OPY,3,2011,09/30/2011,Asset Management,  Revenue,15.783
-OPY,4,2011,12/31/2011,Asset Management,  Revenue,20.198
-OPY,1,2012,03/31/2012,Asset Management,  Revenue,19.044
-OPY,3,2012,09/30/2012,Asset Management,  Revenue,21.909
-OPY,4,2012,12/31/2012,Asset Management,  Revenue,27.482
-OPY,1,2013,03/31/2013,Asset Management,  Revenue,20.956
-OPY,2,2013,06/30/2013,Asset Management,  Revenue,22.006
-OPY,3,2013,09/30/2013,Asset Management,  Revenue,21.488
-OPY,4,2013,12/31/2013,Asset Management,  Revenue,37.764
-OPY,1,2014,03/31/2014,Asset Management,  Revenue,24.61
-OPY,2,2014,06/30/2014,Asset Management,  Revenue,6.958
-OPY,3,2014,09/30/2014,Asset Management,  Revenue,24.801
-OPY,4,2014,12/31/2014,Asset Management,  Revenue,25.521
-OPY,1,2015,03/31/2015,Asset Management,  Revenue,24.461
-OPY,2,2015,06/30/2015,Asset Management,  Revenue,25.344
-OPY,3,2015,09/30/2015,Asset Management,  Revenue,23.849
-OPY,4,2015,12/31/2015,Asset Management,  Revenue,23.467
-OPY,1,2016,03/31/2016,Asset Management,  Revenue,22.974
-OPY,2,2016,06/30/2016,Asset Management,  Revenue,22.77
-OPY,3,2016,09/30/2016,Asset Management,  Revenue,23.234
-OPY,4,2016,12/31/2016,Asset Management,  Revenue,23.874
-SF,2,2008,06/30/2008,Global Wealth Management,  Net Revenues,120.999
-SF,3,2008,09/30/2008,Global Wealth Management,  Net Revenues,113.976
-SF,4,2008,12/31/2008,Global Wealth Management,  Net Revenues,111.603
-SF,1,2009,03/31/2009,Global Wealth Management,  Net Revenues,114.164
-SF,2,2009,06/30/2009,Global Wealth Management,  Net Revenues,136.2
-SF,3,2009,09/30/2009,Global Wealth Management,  Net Revenues,157.145
-SF,4,2009,12/31/2009,Global Wealth Management,  Net Revenues,184.704
-SF,1,2010,03/31/2010,Global Wealth Management,  Net Revenues,199.421
-SF,2,2010,06/30/2010,Global Wealth Management,  Net Revenues,199.94
-SF,3,2010,09/30/2010,Global Wealth Management,  Net Revenues,207.484
-SF,4,2010,12/31/2010,Global Wealth Management,  Net Revenues,236.424
-SF,1,2011,03/31/2011,Global Wealth Management,  Net Revenues,238.446
-SF,2,2011,06/30/2011,Global Wealth Management,  Net Revenues,225.645
-SF,3,2011,09/30/2011,Global Wealth Management,  Net Revenues,219.498
-SF,4,2011,12/31/2011,Global Wealth Management,  Net Revenues,224.569
-SF,1,2012,03/31/2012,Global Wealth Management,  Net Revenues,248.348
-SF,2,2012,06/30/2012,Global Wealth Management,  Net Revenues,240.029
-SF,3,2012,09/30/2012,Global Wealth Management,  Net Revenues,250.914
-SF,4,2012,12/31/2012,Global Wealth Management,  Net Revenues,253.775
-SF,1,2013,03/31/2013,Global Wealth Management,  Net Revenues,266.957
-SF,2,2013,06/30/2013,Global Wealth Management,  Net Revenues,282.717
-SF,3,2013,09/30/2013,Global Wealth Management,  Net Revenues,274.669
-SF,4,2013,12/31/2013,Global Wealth Management,  Net Revenues,292.836
-SF,1,2014,03/31/2014,Global Wealth Management,  Net Revenues,297.183
-SF,2,2014,06/30/2014,Global Wealth Management,  Net Revenues,307.247
-SF,3,2014,09/30/2014,Global Wealth Management,  Net Revenues,317.241
-SF,4,2014,12/31/2014,Global Wealth Management,  Net Revenues,310.98
-SF,1,2015,03/31/2015,Global Wealth Management,  Net Revenues,329.41
-SF,2,2015,06/30/2015,Global Wealth Management,  Net Revenues,343.382
-SF,3,2015,09/30/2015,Global Wealth Management,  Net Revenues,357.306
-SF,4,2015,12/31/2015,Global Wealth Management,  Net Revenues,347.216
-SF,1,2016,03/31/2016,Global Wealth Management,  Net Revenues,379.805
-SF,2,2016,06/30/2016,Global Wealth Management,  Net Revenues,386.039
-SF,3,2016,09/30/2016,Global Wealth Management,  Net Revenues,390.032
-SF,4,2016,12/31/2016,Global Wealth Management,  Net Revenues,407.535
-SF,2,2008,06/30/2008,Institutional Group,  Net Revenues,—
-SF,3,2008,09/30/2008,Institutional Group,  Net Revenues,—
-SF,4,2008,12/31/2008,Institutional Group,  Net Revenues,—
-SF,1,2009,03/31/2009,Institutional Group,  Net Revenues,105.472
-SF,2,2009,06/30/2009,Institutional Group,  Net Revenues,125.136
-SF,3,2009,09/30/2009,Institutional Group,  Net Revenues,130.179
-SF,4,2009,12/31/2009,Institutional Group,  Net Revenues,133.305
-SF,1,2010,03/31/2010,Institutional Group,  Net Revenues,113.292
-SF,2,2010,06/30/2010,Institutional Group,  Net Revenues,124.602
-SF,3,2010,09/30/2010,Institutional Group,  Net Revenues,138.043
-SF,4,2010,12/31/2010,Institutional Group,  Net Revenues,165.902
-SF,1,2011,03/31/2011,Institutional Group,  Net Revenues,126.994
-SF,2,2011,06/30/2011,Institutional Group,  Net Revenues,132.915
-SF,3,2011,09/30/2011,Institutional Group,  Net Revenues,113.259
-SF,4,2011,12/31/2011,Institutional Group,  Net Revenues,134.229
-SF,1,2012,03/31/2012,Institutional Group,  Net Revenues,148.504
-SF,2,2012,06/30/2012,Institutional Group,  Net Revenues,135.297
-SF,3,2012,09/30/2012,Institutional Group,  Net Revenues,164.611
-SF,4,2012,12/31/2012,Institutional Group,  Net Revenues,160.693
-SF,1,2013,03/31/2013,Institutional Group,  Net Revenues,173.3
-SF,2,2013,06/30/2013,Institutional Group,  Net Revenues,215.444
-SF,3,2013,09/30/2013,Institutional Group,  Net Revenues,205.132
-SF,4,2013,12/31/2013,Institutional Group,  Net Revenues,267.282
-SF,1,2014,03/31/2014,Institutional Group,  Net Revenues,249.987
-SF,2,2014,06/30/2014,Institutional Group,  Net Revenues,255.67
-SF,3,2014,09/30/2014,Institutional Group,  Net Revenues,215.16
-SF,4,2014,12/31/2014,Institutional Group,  Net Revenues,272.732
-SF,1,2015,03/31/2015,Institutional Group,  Net Revenues,238.607
-SF,2,2015,06/30/2015,Institutional Group,  Net Revenues,258.538
-SF,3,2015,09/30/2015,Institutional Group,  Net Revenues,232.125
-SF,4,2015,12/31/2015,Institutional Group,  Net Revenues,220.987
-SF,1,2016,03/31/2016,Institutional Group,  Net Revenues,241.276
-SF,2,2016,06/30/2016,Institutional Group,  Net Revenues,260.92
-SF,3,2016,09/30/2016,Institutional Group,  Net Revenues,276.806
-SF,4,2016,12/31/2016,Institutional Group,  Net Revenues,264.171
-PJT,4,2015,12/31/2015,Financial Advisory,  Revenue,103.822
-PJT,1,2016,03/31/2016,Financial Advisory,  Revenue,115.304
-PJT,2,2016,06/30/2016,Financial Advisory,  Revenue,89.284
-PJT,3,2016,09/30/2016,Financial Advisory,  Revenue,121.346
-PJT,4,2016,12/31/2016,Financial Advisory,  Revenue,173.496
-GS,2,2008,05/30/2008,Investing and Lending,  Net Revenues,—
-GS,3,2008,08/29/2008,Investing and Lending,  Net Revenues,—
-GS,4,2008,11/28/2008,Investing and Lending,  Net Revenues,—
-GS,1,2009,03/27/2009,Investing and Lending,  Net Revenues,—
-GS,2,2009,06/26/2009,Investing and Lending,  Net Revenues,—
-GS,3,2009,09/25/2009,Investing and Lending,  Net Revenues,—
-GS,4,2009,12/31/2009,Investing and Lending,  Net Revenues,—
-GS,1,2010,03/31/2010,Investing and Lending,  Net Revenues,1970
-GS,2,2010,06/30/2010,Investing and Lending,  Net Revenues,1786
-GS,3,2010,09/30/2010,Investing and Lending,  Net Revenues,1797
-GS,4,2010,12/31/2010,Investing and Lending,  Net Revenues,1988
-GS,1,2011,03/31/2011,Investing and Lending,  Net Revenues,2705
-GS,2,2011,06/30/2011,Investing and Lending,  Net Revenues,1044
-GS,3,2011,09/30/2011,Investing and Lending,  Net Revenues,-2479
-GS,4,2011,12/31/2011,Investing and Lending,  Net Revenues,872
-GS,1,2012,03/31/2012,Investing and Lending,  Net Revenues,1911
-GS,2,2012,06/30/2012,Investing and Lending,  Net Revenues,203
-GS,3,2012,09/30/2012,Investing and Lending,  Net Revenues,1804
-GS,4,2012,12/31/2012,Investing and Lending,  Net Revenues,1973
-GS,1,2013,03/31/2013,Investing and Lending,  Net Revenues,2068
-GS,2,2013,06/30/2013,Investing and Lending,  Net Revenues,1415
-GS,3,2013,09/30/2013,Investing and Lending,  Net Revenues,1475
-GS,4,2013,12/31/2013,Investing and Lending,  Net Revenues,2060
-GS,1,2014,03/31/2014,Investing and Lending,  Net Revenues,1529
-GS,2,2014,06/30/2014,Investing and Lending,  Net Revenues,2072
-GS,3,2014,09/30/2014,Investing and Lending,  Net Revenues,1692
-GS,4,2014,12/31/2014,Investing and Lending,  Net Revenues,1532
-GS,1,2015,03/31/2015,Investing and Lending,  Net Revenues,1669
-GS,2,2015,06/30/2015,Investing and Lending,  Net Revenues,1801
-GS,3,2015,09/30/2015,Investing and Lending,  Net Revenues,670
-GS,4,2015,12/31/2015,Investing and Lending,  Net Revenues,1296
-GS,1,2016,03/31/2016,Investing and Lending,  Net Revenues,87
-GS,2,2016,06/30/2016,Investing and Lending,  Net Revenues,1111
-GS,3,2016,09/30/2016,Investing and Lending,  Net Revenues,1398
-GS,4,2016,12/31/2016,Investing and Lending,  Net Revenues,1484
-GS,2,2008,05/30/2008,Institutional Client Services,  Net Revenues,—
-GS,3,2008,08/29/2008,Institutional Client Services,  Net Revenues,—
-GS,4,2008,11/28/2008,Institutional Client Services,  Net Revenues,—
-GS,1,2009,03/27/2009,Institutional Client Services,  Net Revenues,—
-GS,2,2009,06/26/2009,Institutional Client Services,  Net Revenues,—
-GS,3,2009,09/25/2009,Institutional Client Services,  Net Revenues,—
-GS,4,2009,12/31/2009,Institutional Client Services,  Net Revenues,—
-GS,1,2010,03/31/2010,Institutional Client Services,  Net Revenues,8507
-GS,2,2010,06/30/2010,Institutional Client Services,  Net Revenues,4981
-GS,3,2010,09/30/2010,Institutional Client Services,  Net Revenues,4669
-GS,4,2010,12/31/2010,Institutional Client Services,  Net Revenues,3639
-GS,1,2011,03/31/2011,Institutional Client Services,  Net Revenues,6647
-GS,2,2011,06/30/2011,Institutional Client Services,  Net Revenues,3515
-GS,3,2011,09/30/2011,Institutional Client Services,  Net Revenues,4062
-GS,4,2011,12/31/2011,Institutional Client Services,  Net Revenues,3056
-GS,1,2012,03/31/2012,Institutional Client Services,  Net Revenues,5709
-GS,2,2012,06/30/2012,Institutional Client Services,  Net Revenues,3889
-GS,3,2012,09/30/2012,Institutional Client Services,  Net Revenues,4184
-GS,4,2012,12/31/2012,Institutional Client Services,  Net Revenues,4342
-GS,1,2013,03/31/2013,Institutional Client Services,  Net Revenues,5139
-GS,2,2013,06/30/2013,Institutional Client Services,  Net Revenues,4313
-GS,3,2013,09/30/2013,Institutional Client Services,  Net Revenues,2863
-GS,4,2013,12/31/2013,Institutional Client Services,  Net Revenues,3406
-GS,1,2014,03/31/2014,Institutional Client Services,  Net Revenues,4446
-GS,2,2014,06/30/2014,Institutional Client Services,  Net Revenues,3830
-GS,3,2014,09/30/2014,Institutional Client Services,  Net Revenues,3772
-GS,4,2014,12/31/2014,Institutional Client Services,  Net Revenues,3149
-GS,1,2015,03/31/2015,Institutional Client Services,  Net Revenues,5459
-GS,2,2015,06/30/2015,Institutional Client Services,  Net Revenues,3601
-GS,3,2015,09/30/2015,Institutional Client Services,  Net Revenues,3213
-GS,4,2015,12/31/2015,Institutional Client Services,  Net Revenues,2878
-GS,1,2016,03/31/2016,Institutional Client Services,  Net Revenues,3443
-GS,2,2016,06/30/2016,Institutional Client Services,  Net Revenues,3681
-GS,3,2016,09/30/2016,Institutional Client Services,  Net Revenues,3748
-GS,4,2016,12/31/2016,Institutional Client Services,  Net Revenues,3595
-GS,2,2008,05/30/2008,Investment Banking,  Net Revenues,1685
-GS,3,2008,08/29/2008,Investment Banking,  Net Revenues,1294
-GS,4,2008,11/28/2008,Investment Banking,  Net Revenues,1034
-GS,1,2009,03/27/2009,Investment Banking,  Net Revenues,823
-GS,2,2009,06/26/2009,Investment Banking,  Net Revenues,1440
-GS,3,2009,09/25/2009,Investment Banking,  Net Revenues,899
-GS,4,2009,12/31/2009,Investment Banking,  Net Revenues,1635
-GS,1,2010,03/31/2010,Investment Banking,  Net Revenues,1203
-GS,2,2010,06/30/2010,Investment Banking,  Net Revenues,941
-GS,3,2010,09/30/2010,Investment Banking,  Net Revenues,1159
-GS,4,2010,12/31/2010,Investment Banking,  Net Revenues,1507
-GS,1,2011,03/31/2011,Investment Banking,  Net Revenues,1269
-GS,2,2011,06/30/2011,Investment Banking,  Net Revenues,1448
-GS,3,2011,09/30/2011,Investment Banking,  Net Revenues,781
-GS,4,2011,12/31/2011,Investment Banking,  Net Revenues,857
-GS,1,2012,03/31/2012,Investment Banking,  Net Revenues,1154
-GS,2,2012,06/30/2012,Investment Banking,  Net Revenues,1203
-GS,3,2012,09/30/2012,Investment Banking,  Net Revenues,1164
-GS,4,2012,12/31/2012,Investment Banking,  Net Revenues,1405
-GS,1,2013,03/31/2013,Investment Banking,  Net Revenues,1568
-GS,2,2013,06/30/2013,Investment Banking,  Net Revenues,1552
-GS,3,2013,09/30/2013,Investment Banking,  Net Revenues,1166
-GS,4,2013,12/31/2013,Investment Banking,  Net Revenues,1718
-GS,1,2014,03/31/2014,Investment Banking,  Net Revenues,1779
-GS,2,2014,06/30/2014,Investment Banking,  Net Revenues,1781
-GS,3,2014,09/30/2014,Investment Banking,  Net Revenues,1464
-GS,4,2014,12/31/2014,Investment Banking,  Net Revenues,1440
-GS,1,2015,03/31/2015,Investment Banking,  Net Revenues,1905
-GS,2,2015,06/30/2015,Investment Banking,  Net Revenues,2019
-GS,3,2015,09/30/2015,Investment Banking,  Net Revenues,1556
-GS,4,2015,12/31/2015,Investment Banking,  Net Revenues,1547
-GS,1,2016,03/31/2016,Investment Banking,  Net Revenues,1463
-GS,2,2016,06/30/2016,Investment Banking,  Net Revenues,1787
-GS,3,2016,09/30/2016,Investment Banking,  Net Revenues,1537
-GS,4,2016,12/31/2016,Investment Banking,  Net Revenues,1486
-GS,2,2008,05/30/2008,Investment Management,  Net Revenues,—
-GS,3,2008,08/29/2008,Investment Management,  Net Revenues,—
-GS,4,2008,11/28/2008,Investment Management,  Net Revenues,—
-GS,1,2009,03/27/2009,Investment Management,  Net Revenues,—
-GS,2,2009,06/26/2009,Investment Management,  Net Revenues,—
-GS,3,2009,09/25/2009,Investment Management,  Net Revenues,—
-GS,4,2009,12/31/2009,Investment Management,  Net Revenues,—
-GS,1,2010,03/31/2010,Investment Management,  Net Revenues,1095
-GS,2,2010,06/30/2010,Investment Management,  Net Revenues,1133
-GS,3,2010,09/30/2010,Investment Management,  Net Revenues,1278
-GS,4,2010,12/31/2010,Investment Management,  Net Revenues,1508
-GS,1,2011,03/31/2011,Investment Management,  Net Revenues,1273
-GS,2,2011,06/30/2011,Investment Management,  Net Revenues,1274
-GS,3,2011,09/30/2011,Investment Management,  Net Revenues,1223
-GS,4,2011,12/31/2011,Investment Management,  Net Revenues,1264
-GS,1,2012,03/31/2012,Investment Management,  Net Revenues,1175
-GS,2,2012,06/30/2012,Investment Management,  Net Revenues,1332
-GS,3,2012,09/30/2012,Investment Management,  Net Revenues,1199
-GS,4,2012,12/31/2012,Investment Management,  Net Revenues,1516
-GS,1,2013,03/31/2013,Investment Management,  Net Revenues,1315
-GS,2,2013,06/30/2013,Investment Management,  Net Revenues,1332
-GS,3,2013,09/30/2013,Investment Management,  Net Revenues,1218
-GS,4,2013,12/31/2013,Investment Management,  Net Revenues,1598
-GS,1,2014,03/31/2014,Investment Management,  Net Revenues,1574
-GS,2,2014,06/30/2014,Investment Management,  Net Revenues,1442
-GS,3,2014,09/30/2014,Investment Management,  Net Revenues,1459
-GS,4,2014,12/31/2014,Investment Management,  Net Revenues,1567
-GS,1,2015,03/31/2015,Investment Management,  Net Revenues,1584
-GS,2,2015,06/30/2015,Investment Management,  Net Revenues,1648
-GS,3,2015,09/30/2015,Investment Management,  Net Revenues,1422
-GS,4,2015,12/31/2015,Investment Management,  Net Revenues,1552
-GS,1,2016,03/31/2016,Investment Management,  Net Revenues,1345
-GS,2,2016,06/30/2016,Investment Management,  Net Revenues,1353
-GS,3,2016,09/30/2016,Investment Management,  Net Revenues,1485
-GS,4,2016,12/31/2016,Investment Management,  Net Revenues,1605
-JPM,2,2008,06/30/2008,Asset Management,  Net Revenues,2064
-JPM,3,2008,09/30/2008,Asset Management,  Net Revenues,1961
-JPM,4,2008,12/31/2008,Asset Management,  Net Revenues,1658
-JPM,1,2009,03/31/2009,Asset Management,  Net Revenues,1703
-JPM,2,2009,06/30/2009,Asset Management,  Net Revenues,1982
-JPM,3,2009,09/30/2009,Asset Management,  Net Revenues,2085
-JPM,4,2009,12/31/2009,Asset Management,  Net Revenues,2195
-JPM,1,2010,03/31/2010,Asset Management,  Net Revenues,2131
-JPM,2,2010,06/30/2010,Asset Management,  Net Revenues,2068
-JPM,3,2010,09/30/2010,Asset Management,  Net Revenues,2172
-JPM,4,2010,12/31/2010,Asset Management,  Net Revenues,2613
-JPM,1,2011,03/31/2011,Asset Management,  Net Revenues,2406
-JPM,2,2011,06/30/2011,Asset Management,  Net Revenues,2537
-JPM,3,2011,09/30/2011,Asset Management,  Net Revenues,2316
-JPM,4,2011,12/31/2011,Asset Management,  Net Revenues,2284
-JPM,1,2012,03/31/2012,Asset Management,  Net Revenues,2370
-JPM,2,2012,06/30/2012,Asset Management,  Net Revenues,2364
-JPM,3,2012,09/30/2012,Asset Management,  Net Revenues,2459
-JPM,4,2012,12/31/2012,Asset Management,  Net Revenues,2753
-JPM,1,2013,03/31/2013,Asset Management,  Net Revenues,2653
-JPM,2,2013,06/30/2013,Asset Management,  Net Revenues,2725
-JPM,3,2013,09/30/2013,Asset Management,  Net Revenues,2763
-JPM,4,2013,12/31/2013,Asset Management,  Net Revenues,3179
-JPM,1,2014,03/31/2014,Asset Management,  Net Revenues,2800
-JPM,2,2014,06/30/2014,Asset Management,  Net Revenues,2982
-JPM,3,2014,09/30/2014,Asset Management,  Net Revenues,3046
-JPM,4,2014,12/31/2014,Asset Management,  Net Revenues,3200
-JPM,1,2015,03/31/2015,Asset Management,  Net Revenues,3005
-JPM,2,2015,06/30/2015,Asset Management,  Net Revenues,3175
-JPM,3,2015,09/30/2015,Asset Management,  Net Revenues,2894
-JPM,4,2015,12/31/2015,Asset Management,  Net Revenues,3045
-JPM,1,2016,03/31/2016,Asset Management,  Net Revenues,2972
-JPM,2,2016,06/30/2016,Asset Management,  Net Revenues,2939
-JPM,3,2016,09/30/2016,Asset Management,  Net Revenues,3047
-JPM,4,2016,12/31/2016,Asset Management,  Net Revenues,3087
-JPM,2,2008,06/30/2008,Investment Bank,  Net Revenues,5470
-JPM,3,2008,09/30/2008,Investment Bank,  Net Revenues,4035
-JPM,4,2008,12/31/2008,Investment Bank,  Net Revenues,-302
-JPM,1,2009,03/31/2009,Investment Bank,  Net Revenues,8341
-JPM,2,2009,06/30/2009,Investment Bank,  Net Revenues,7301
-JPM,3,2009,09/30/2009,Investment Bank,  Net Revenues,7508
-JPM,4,2009,12/31/2009,Investment Bank,  Net Revenues,4929
-JPM,1,2010,03/31/2010,Investment Bank,  Net Revenues,8319
-JPM,2,2010,06/30/2010,Investment Bank,  Net Revenues,6332
-JPM,3,2010,09/30/2010,Investment Bank,  Net Revenues,5353
-JPM,4,2010,12/31/2010,Investment Bank,  Net Revenues,6213
-JPM,1,2011,03/31/2011,Investment Bank,  Net Revenues,8233
-JPM,2,2011,06/30/2011,Investment Bank,  Net Revenues,7314
-JPM,3,2011,09/30/2011,Investment Bank,  Net Revenues,6369
-JPM,4,2011,12/31/2011,Investment Bank,  Net Revenues,4358
-JPM,1,2012,03/31/2012,Investment Bank,  Net Revenues,—
-JPM,2,2012,06/30/2012,Investment Bank,  Net Revenues,—
-JPM,3,2012,09/30/2012,Investment Bank,  Net Revenues,—
-JPM,4,2012,12/31/2012,Investment Bank,  Net Revenues,—
-JPM,1,2013,03/31/2013,Investment Bank,  Net Revenues,—
-JPM,2,2013,06/30/2013,Investment Bank,  Net Revenues,—
-JPM,3,2013,09/30/2013,Investment Bank,  Net Revenues,—
-JPM,4,2013,12/31/2013,Investment Bank,  Net Revenues,—
-JPM,1,2014,03/31/2014,Investment Bank,  Net Revenues,—
-JPM,2,2014,06/30/2014,Investment Bank,  Net Revenues,—
-JPM,3,2014,09/30/2014,Investment Bank,  Net Revenues,—
-JPM,4,2014,12/31/2014,Investment Bank,  Net Revenues,—
-JPM,1,2015,03/31/2015,Investment Bank,  Net Revenues,—
-JPM,2,2015,06/30/2015,Investment Bank,  Net Revenues,—
-JPM,3,2015,09/30/2015,Investment Bank,  Net Revenues,—
-JPM,4,2015,12/31/2015,Investment Bank,  Net Revenues,—
-JPM,1,2016,03/31/2016,Investment Bank,  Net Revenues,—
-JPM,2,2016,06/30/2016,Investment Bank,  Net Revenues,—
-JPM,3,2016,09/30/2016,Investment Bank,  Net Revenues,—
-JPM,4,2016,12/31/2016,Investment Bank,  Net Revenues,—
-JPM,2,2008,06/30/2008,Corporate & Investment Bank,  Net Revenues,—
-JPM,3,2008,09/30/2008,Corporate & Investment Bank,  Net Revenues,—
-JPM,4,2008,12/31/2008,Corporate & Investment Bank,  Net Revenues,—
-JPM,1,2009,03/31/2009,Corporate & Investment Bank,  Net Revenues,—
-JPM,2,2009,06/30/2009,Corporate & Investment Bank,  Net Revenues,—
-JPM,3,2009,09/30/2009,Corporate & Investment Bank,  Net Revenues,—
-JPM,4,2009,12/31/2009,Corporate & Investment Bank,  Net Revenues,—
-JPM,1,2010,03/31/2010,Corporate & Investment Bank,  Net Revenues,—
-JPM,2,2010,06/30/2010,Corporate & Investment Bank,  Net Revenues,—
-JPM,3,2010,09/30/2010,Corporate & Investment Bank,  Net Revenues,—
-JPM,4,2010,12/31/2010,Corporate & Investment Bank,  Net Revenues,—
-JPM,1,2011,03/31/2011,Corporate & Investment Bank,  Net Revenues,—
-JPM,2,2011,06/30/2011,Corporate & Investment Bank,  Net Revenues,—
-JPM,3,2011,09/30/2011,Corporate & Investment Bank,  Net Revenues,—
-JPM,4,2011,12/31/2011,Corporate & Investment Bank,  Net Revenues,—
-JPM,1,2012,03/31/2012,Corporate & Investment Bank,  Net Revenues,9557
-JPM,2,2012,06/30/2012,Corporate & Investment Bank,  Net Revenues,8847
-JPM,3,2012,09/30/2012,Corporate & Investment Bank,  Net Revenues,8348
-JPM,4,2012,12/31/2012,Corporate & Investment Bank,  Net Revenues,7642
-JPM,1,2013,03/31/2013,Corporate & Investment Bank,  Net Revenues,10140
-JPM,2,2013,06/30/2013,Corporate & Investment Bank,  Net Revenues,9876
-JPM,3,2013,09/30/2013,Corporate & Investment Bank,  Net Revenues,8189
-JPM,4,2013,12/31/2013,Corporate & Investment Bank,  Net Revenues,6020
-JPM,1,2014,03/31/2014,Corporate & Investment Bank,  Net Revenues,8842
-JPM,2,2014,06/30/2014,Corporate & Investment Bank,  Net Revenues,9265
-JPM,3,2014,09/30/2014,Corporate & Investment Bank,  Net Revenues,9105
-JPM,4,2014,12/31/2014,Corporate & Investment Bank,  Net Revenues,7383
-JPM,1,2015,03/31/2015,Corporate & Investment Bank,  Net Revenues,9582
-JPM,2,2015,06/30/2015,Corporate & Investment Bank,  Net Revenues,8723
-JPM,3,2015,09/30/2015,Corporate & Investment Bank,  Net Revenues,8168
-JPM,4,2015,12/31/2015,Corporate & Investment Bank,  Net Revenues,7069
-JPM,1,2016,03/31/2016,Corporate & Investment Bank,  Net Revenues,8135
-JPM,2,2016,06/30/2016,Corporate & Investment Bank,  Net Revenues,9165
-JPM,3,2016,09/30/2016,Corporate & Investment Bank,  Net Revenues,9455
-JPM,4,2016,12/31/2016,Corporate & Investment Bank,  Net Revenues,8461
-MS,2,2008,05/31/2008,Investment Management,  Net Revenues,488
-MS,3,2008,08/31/2008,Investment Management,  Net Revenues,647
-MS,4,2008,11/30/2008,Investment Management,  Net Revenues,-386
-MS,1,2009,03/31/2009,Investment Management,  Net Revenues,22
-MS,2,2009,06/30/2009,Investment Management,  Net Revenues,575
-MS,3,2009,09/30/2009,Investment Management,  Net Revenues,698
-MS,4,2009,12/31/2009,Investment Management,  Net Revenues,510
-MS,1,2010,03/31/2010,Investment Management,  Net Revenues,653
-MS,2,2010,06/30/2010,Investment Management,  Net Revenues,410
-MS,3,2010,09/30/2010,Investment Management,  Net Revenues,802
-MS,4,2010,12/31/2010,Investment Management,  Net Revenues,846
-MS,1,2011,03/31/2011,Investment Management,  Net Revenues,622
-MS,2,2011,06/30/2011,Investment Management,  Net Revenues,636
-MS,3,2011,09/30/2011,Investment Management,  Net Revenues,205
-MS,4,2011,12/31/2011,Investment Management,  Net Revenues,424
-MS,1,2012,03/31/2012,Investment Management,  Net Revenues,533
-MS,2,2012,06/30/2012,Investment Management,  Net Revenues,456
-MS,3,2012,09/30/2012,Investment Management,  Net Revenues,631
-MS,4,2012,12/31/2012,Investment Management,  Net Revenues,599
-MS,1,2013,03/31/2013,Investment Management,  Net Revenues,645
-MS,2,2013,06/30/2013,Investment Management,  Net Revenues,673
-MS,3,2013,09/30/2013,Investment Management,  Net Revenues,828
-MS,4,2013,12/31/2013,Investment Management,  Net Revenues,858
-MS,1,2014,03/31/2014,Investment Management,  Net Revenues,752
-MS,2,2014,06/30/2014,Investment Management,  Net Revenues,692
-MS,3,2014,09/30/2014,Investment Management,  Net Revenues,655
-MS,4,2014,12/31/2014,Investment Management,  Net Revenues,588
-MS,1,2015,03/31/2015,Investment Management,  Net Revenues,669
-MS,2,2015,06/30/2015,Investment Management,  Net Revenues,751
-MS,3,2015,09/30/2015,Investment Management,  Net Revenues,274
-MS,4,2015,12/31/2015,Investment Management,  Net Revenues,621
-MS,1,2016,03/31/2016,Investment Management,  Net Revenues,477
-MS,2,2016,06/30/2016,Investment Management,  Net Revenues,583
-MS,3,2016,09/30/2016,Investment Management,  Net Revenues,552
-MS,4,2016,12/31/2016,Investment Management,  Net Revenues,500
-MS,2,2008,05/31/2008,Institutional Securities,  Net Revenues,3625
-MS,3,2008,08/31/2008,Institutional Securities,  Net Revenues,5911
-MS,4,2008,11/30/2008,Institutional Securities,  Net Revenues,844
-MS,1,2009,03/31/2009,Institutional Securities,  Net Revenues,1601
-MS,2,2009,06/30/2009,Institutional Securities,  Net Revenues,2964
-MS,3,2009,09/30/2009,Institutional Securities,  Net Revenues,4974
-MS,4,2009,12/31/2009,Institutional Securities,  Net Revenues,3231
-MS,1,2010,03/31/2010,Institutional Securities,  Net Revenues,4706
-MS,2,2010,06/30/2010,Institutional Securities,  Net Revenues,4515
-MS,3,2010,09/30/2010,Institutional Securities,  Net Revenues,2895
-MS,4,2010,12/31/2010,Institutional Securities,  Net Revenues,3566
-MS,1,2011,03/31/2011,Institutional Securities,  Net Revenues,3568
-MS,2,2011,06/30/2011,Institutional Securities,  Net Revenues,5159
-MS,3,2011,09/30/2011,Institutional Securities,  Net Revenues,6411
-MS,4,2011,12/31/2011,Institutional Securities,  Net Revenues,2068
-MS,1,2012,03/31/2012,Institutional Securities,  Net Revenues,3135
-MS,2,2012,06/30/2012,Institutional Securities,  Net Revenues,3332
-MS,3,2012,09/30/2012,Institutional Securities,  Net Revenues,1481
-MS,4,2012,12/31/2012,Institutional Securities,  Net Revenues,3084
-MS,1,2013,03/31/2013,Institutional Securities,  Net Revenues,4081
-MS,2,2013,06/30/2013,Institutional Securities,  Net Revenues,4358
-MS,3,2013,09/30/2013,Institutional Securities,  Net Revenues,3710
-MS,4,2013,12/31/2013,Institutional Securities,  Net Revenues,3343
-MS,1,2014,03/31/2014,Institutional Securities,  Net Revenues,4677
-MS,2,2014,06/30/2014,Institutional Securities,  Net Revenues,4248
-MS,3,2014,09/30/2014,Institutional Securities,  Net Revenues,4516
-MS,4,2014,12/31/2014,Institutional Securities,  Net Revenues,3430
-MS,1,2015,03/31/2015,Institutional Securities,  Net Revenues,5458
-MS,2,2015,06/30/2015,Institutional Securities,  Net Revenues,5172
-MS,3,2015,09/30/2015,Institutional Securities,  Net Revenues,3904
-MS,4,2015,12/31/2015,Institutional Securities,  Net Revenues,3419
-MS,1,2016,03/31/2016,Institutional Securities,  Net Revenues,3714
-MS,2,2016,06/30/2016,Institutional Securities,  Net Revenues,4578
-MS,3,2016,09/30/2016,Institutional Securities,  Net Revenues,4553
-MS,4,2016,12/31/2016,Institutional Securities,  Net Revenues,4614
-UBS,2,2008,06/30/2008,Investment Bank,  Net Revenues,-2231.517803
-UBS,3,2008,09/30/2008,Investment Bank,  Net Revenues,-705.3359572
-UBS,4,2008,12/31/2008,Investment Bank,  Net Revenues,—
-UBS,1,2009,03/31/2009,Investment Bank,  Net Revenues,-576.334036
-UBS,2,2009,06/30/2009,Investment Bank,  Net Revenues,480.7244941
-UBS,3,2009,09/30/2009,Investment Bank,  Net Revenues,1097.261925
-UBS,4,2009,12/31/2009,Investment Bank,  Net Revenues,2177.734611
-UBS,1,2010,03/31/2010,Investment Bank,  Net Revenues,3679.321577
-UBS,2,2010,06/30/2010,Investment Bank,  Net Revenues,3704.640571
-UBS,3,2010,09/30/2010,Investment Bank,  Net Revenues,1787.071124
-UBS,4,2010,12/31/2010,Investment Bank,  Net Revenues,2237.390859
-UBS,1,2011,03/31/2011,Investment Bank,  Net Revenues,3663.559221
-UBS,2,2011,06/30/2011,Investment Bank,  Net Revenues,2997.489945
-UBS,3,2011,09/30/2011,Investment Bank,  Net Revenues,4292.296366
-UBS,4,2011,12/31/2011,Investment Bank,  Net Revenues,2139.492519
-UBS,1,2012,03/31/2012,Investment Bank,  Net Revenues,2494.280418
-UBS,2,2012,06/30/2012,Investment Bank,  Net Revenues,1504.878322
-UBS,3,2012,09/30/2012,Investment Bank,  Net Revenues,1903.077979
-UBS,4,2012,12/31/2012,Investment Bank,  Net Revenues,1726.363068
-UBS,1,2013,03/31/2013,Investment Bank,  Net Revenues,2990.795606
-UBS,2,2013,06/30/2013,Investment Bank,  Net Revenues,2387.883914
-UBS,3,2013,09/30/2013,Investment Bank,  Net Revenues,1831.086869
-UBS,4,2013,12/31/2013,Investment Bank,  Net Revenues,2144.398575
-UBS,1,2014,03/31/2014,Investment Bank,  Net Revenues,2453.428398
-UBS,2,2014,06/30/2014,Investment Bank,  Net Revenues,2551.204825
-UBS,3,2014,09/30/2014,Investment Bank,  Net Revenues,2101.329322
-UBS,4,2014,12/31/2014,Investment Bank,  Net Revenues,2000.011318
-UBS,1,2015,03/31/2015,Investment Bank,  Net Revenues,2799.055565
-UBS,2,2015,06/30/2015,Investment Bank,  Net Revenues,2502.056311
-UBS,3,2015,09/30/2015,Investment Bank,  Net Revenues,2164.265001
-UBS,4,2015,12/31/2015,Investment Bank,  Net Revenues,1737.584292
-UBS,1,2016,03/31/2016,Investment Bank,  Net Revenues,1892.506792
-UBS,2,2016,06/30/2016,Investment Bank,  Net Revenues,2061.144575
-UBS,3,2016,09/30/2016,Investment Bank,  Net Revenues,1841.952678
-UBS,4,2016,12/31/2016,Investment Bank,  Net Revenues,2010.540218
-UBS,2,2008,06/30/2008,Global Asset Management,  Net Revenues,783.2608101
-UBS,3,2008,09/30/2008,Global Asset Management,  Net Revenues,771.5778262
-UBS,4,2008,12/31/2008,Global Asset Management,  Net Revenues,—
-UBS,1,2009,03/31/2009,Global Asset Management,  Net Revenues,437.6999789
-UBS,2,2009,06/30/2009,Global Asset Management,  Net Revenues,478.0237947
-UBS,3,2009,09/30/2009,Global Asset Management,  Net Revenues,534.0321985
-UBS,4,2009,12/31/2009,Global Asset Management,  Net Revenues,-485.4635357
-UBS,1,2010,03/31/2010,Global Asset Management,  Net Revenues,492.9098847
-UBS,2,2010,06/30/2010,Global Asset Management,  Net Revenues,471.5489827
-UBS,3,2010,09/30/2010,Global Asset Management,  Net Revenues,459.8652079
-UBS,4,2010,12/31/2010,Global Asset Management,  Net Revenues,555.7522748
-UBS,1,2011,03/31/2011,Global Asset Management,  Net Revenues,527.4674525
-UBS,2,2011,06/30/2011,Global Asset Management,  Net Revenues,510.8965587
-UBS,3,2011,09/30/2011,Global Asset Management,  Net Revenues,485.3007225
-UBS,4,2011,12/31/2011,Global Asset Management,  Net Revenues,508.5678938
-UBS,1,2012,03/31/2012,Global Asset Management,  Net Revenues,517.9676794
-UBS,2,2012,06/30/2012,Global Asset Management,  Net Revenues,477.4170406
-UBS,3,2012,09/30/2012,Global Asset Management,  Net Revenues,486.4229897
-UBS,4,2012,12/31/2012,Global Asset Management,  Net Revenues,527.4699854
-UBS,1,2013,03/31/2013,Global Asset Management,  Net Revenues,555.802059
-UBS,2,2013,06/30/2013,Global Asset Management,  Net Revenues,518.9667705
-UBS,3,2013,09/30/2013,Global Asset Management,  Net Revenues,479.7748127
-UBS,4,2013,12/31/2013,Global Asset Management,  Net Revenues,541.6378632
-UBS,1,2014,03/31/2014,Global Asset Management,  Net Revenues,505.2494098
-UBS,2,2014,06/30/2014,Global Asset Management,  Net Revenues,523.0644813
-UBS,3,2014,09/30/2014,Global Asset Management,  Net Revenues,534.9037161
-UBS,4,2014,12/31/2014,Global Asset Management,  Net Revenues,515.295814
-UBS,1,2015,03/31/2015,Global Asset Management,  Net Revenues,536.7044629
-UBS,2,2015,06/30/2015,Global Asset Management,  Net Revenues,505.7234836
-UBS,3,2015,09/30/2015,Global Asset Management,  Net Revenues,520.3357426
-UBS,4,2015,12/31/2015,Global Asset Management,  Net Revenues,573.4734908
-UBS,1,2016,03/31/2016,Global Asset Management,  Net Revenues,472.3713068
-UBS,2,2016,06/30/2016,Global Asset Management,  Net Revenues,497.7664148
-UBS,3,2016,09/30/2016,Global Asset Management,  Net Revenues,493.0324085
-UBS,4,2016,12/31/2016,Global Asset Management,  Net Revenues,498.3902478
-BCS,1,2009,03/31/2009,Investment Banking,  Net Revenues,—
-BCS,2,2009,06/30/2009,Investment Banking,  Net Revenues,—
-BCS,3,2009,09/30/2009,Investment Banking,  Net Revenues,—
-BCS,4,2009,12/31/2009,Investment Banking,  Net Revenues,—
-BCS,1,2010,03/31/2010,Investment Banking,  Net Revenues,—
-BCS,2,2010,06/30/2010,Investment Banking,  Net Revenues,—
-BCS,3,2010,09/30/2010,Investment Banking,  Net Revenues,—
-BCS,4,2010,12/31/2010,Investment Banking,  Net Revenues,—
-BCS,1,2011,03/31/2011,Investment Banking,  Net Revenues,—
-BCS,2,2011,06/30/2011,Investment Banking,  Net Revenues,—
-BCS,3,2011,09/30/2011,Investment Banking,  Net Revenues,—
-BCS,4,2011,12/31/2011,Investment Banking,  Net Revenues,—
-BCS,1,2012,03/31/2012,Investment Banking,  Net Revenues,—
-BCS,2,2012,06/30/2012,Investment Banking,  Net Revenues,—
-BCS,3,2012,09/30/2012,Investment Banking,  Net Revenues,—
-BCS,4,2012,12/31/2012,Investment Banking,  Net Revenues,—
-BCS,1,2013,03/31/2013,Investment Banking,  Net Revenues,4134.270054
-BCS,2,2013,06/30/2013,Investment Banking,  Net Revenues,3930.726347
-BCS,3,2013,09/30/2013,Investment Banking,  Net Revenues,2870.079281
-BCS,4,2013,12/31/2013,Investment Banking,  Net Revenues,2885.489994
-BCS,1,2014,03/31/2014,Investment Banking,  Net Revenues,3480.534018
-BCS,2,2014,06/30/2014,Investment Banking,  Net Revenues,3625.125684
-BCS,3,2014,09/30/2014,Investment Banking,  Net Revenues,2779.962224
-BCS,4,2014,12/31/2014,Investment Banking,  Net Revenues,—
-BCS,1,2015,03/31/2015,Investment Banking,  Net Revenues,—
-BCS,2,2015,06/30/2015,Investment Banking,  Net Revenues,—
-BCS,3,2015,09/30/2015,Investment Banking,  Net Revenues,—
-BCS,4,2015,12/31/2015,Investment Banking,  Net Revenues,—
-BCS,1,2016,03/31/2016,Investment Banking,  Net Revenues,—
-BCS,2,2016,06/30/2016,Investment Banking,  Net Revenues,—
-BCS,3,2016,09/30/2016,Investment Banking,  Net Revenues,—
-BCS,4,2016,12/31/2016,Investment Banking,  Net Revenues,—
-BAC,2,2008,06/30/2008,Global Banking,  Net Revenues,—
-BAC,3,2008,09/30/2008,Global Banking,  Net Revenues,4284
-BAC,4,2008,12/31/2008,Global Banking,  Net Revenues,—
-BAC,1,2009,03/31/2009,Global Banking,  Net Revenues,4641
-BAC,2,2009,06/30/2009,Global Banking,  Net Revenues,8658
-BAC,3,2009,09/30/2009,Global Banking,  Net Revenues,—
-BAC,4,2009,12/31/2009,Global Banking,  Net Revenues,—
-BAC,1,2010,03/31/2010,Global Banking,  Net Revenues,—
-BAC,2,2010,06/30/2010,Global Banking,  Net Revenues,—
-BAC,3,2010,09/30/2010,Global Banking,  Net Revenues,—
-BAC,4,2010,12/31/2010,Global Banking,  Net Revenues,—
-BAC,1,2011,03/31/2011,Global Banking,  Net Revenues,4702
-BAC,2,2011,06/30/2011,Global Banking,  Net Revenues,4661
-BAC,3,2011,09/30/2011,Global Banking,  Net Revenues,3952
-BAC,4,2011,12/31/2011,Global Banking,  Net Revenues,4002
-BAC,1,2012,03/31/2012,Global Banking,  Net Revenues,4236
-BAC,2,2012,06/30/2012,Global Banking,  Net Revenues,4070
-BAC,3,2012,09/30/2012,Global Banking,  Net Revenues,3969
-BAC,4,2012,12/31/2012,Global Banking,  Net Revenues,4138
-BAC,1,2013,03/31/2013,Global Banking,  Net Revenues,4225
-BAC,2,2013,06/30/2013,Global Banking,  Net Revenues,4139
-BAC,3,2013,09/30/2013,Global Banking,  Net Revenues,4009
-BAC,4,2013,12/31/2013,Global Banking,  Net Revenues,4305
-BAC,1,2014,03/31/2014,Global Banking,  Net Revenues,4535
-BAC,2,2014,06/30/2014,Global Banking,  Net Revenues,4179
-BAC,3,2014,09/30/2014,Global Banking,  Net Revenues,4363
-BAC,4,2014,12/31/2014,Global Banking,  Net Revenues,4314
-BAC,1,2015,03/31/2015,Global Banking,  Net Revenues,4386
-BAC,2,2015,06/30/2015,Global Banking,  Net Revenues,4236
-BAC,3,2015,09/30/2015,Global Banking,  Net Revenues,4336
-BAC,4,2015,12/31/2015,Global Banking,  Net Revenues,4561
-BAC,1,2016,03/31/2016,Global Banking,  Net Revenues,4390
-BAC,2,2016,06/30/2016,Global Banking,  Net Revenues,4690
-BAC,3,2016,09/30/2016,Global Banking,  Net Revenues,4748
-BAC,4,2016,12/31/2016,Global Banking,  Net Revenues,4534
-BAC,2,2008,06/30/2008,Global Markets,  Net Revenues,—
-BAC,3,2008,09/30/2008,Global Markets,  Net Revenues,161
-BAC,4,2008,12/31/2008,Global Markets,  Net Revenues,—
-BAC,1,2009,03/31/2009,Global Markets,  Net Revenues,6791
-BAC,2,2009,06/30/2009,Global Markets,  Net Revenues,4452
-BAC,3,2009,09/30/2009,Global Markets,  Net Revenues,—
-BAC,4,2009,12/31/2009,Global Markets,  Net Revenues,—
-BAC,1,2010,03/31/2010,Global Markets,  Net Revenues,—
-BAC,2,2010,06/30/2010,Global Markets,  Net Revenues,—
-BAC,3,2010,09/30/2010,Global Markets,  Net Revenues,—
-BAC,4,2010,12/31/2010,Global Markets,  Net Revenues,—
-BAC,1,2011,03/31/2011,Global Markets,  Net Revenues,5272
-BAC,2,2011,06/30/2011,Global Markets,  Net Revenues,4413
-BAC,3,2011,09/30/2011,Global Markets,  Net Revenues,3295
-BAC,4,2011,12/31/2011,Global Markets,  Net Revenues,1807
-BAC,1,2012,03/31/2012,Global Markets,  Net Revenues,4411
-BAC,2,2012,06/30/2012,Global Markets,  Net Revenues,3581
-BAC,3,2012,09/30/2012,Global Markets,  Net Revenues,3282
-BAC,4,2012,12/31/2012,Global Markets,  Net Revenues,3023
-BAC,1,2013,03/31/2013,Global Markets,  Net Revenues,4872
-BAC,2,2013,06/30/2013,Global Markets,  Net Revenues,4189
-BAC,3,2013,09/30/2013,Global Markets,  Net Revenues,3376
-BAC,4,2013,12/31/2013,Global Markets,  Net Revenues,4522
-BAC,1,2014,03/31/2014,Global Markets,  Net Revenues,5017
-BAC,2,2014,06/30/2014,Global Markets,  Net Revenues,4583
-BAC,3,2014,09/30/2014,Global Markets,  Net Revenues,4142
-BAC,4,2014,12/31/2014,Global Markets,  Net Revenues,2387
-BAC,1,2015,03/31/2015,Global Markets,  Net Revenues,4191
-BAC,2,2015,06/30/2015,Global Markets,  Net Revenues,3950
-BAC,3,2015,09/30/2015,Global Markets,  Net Revenues,3750
-BAC,4,2015,12/31/2015,Global Markets,  Net Revenues,3117
-BAC,1,2016,03/31/2016,Global Markets,  Net Revenues,3947
-BAC,2,2016,06/30/2016,Global Markets,  Net Revenues,4313
-BAC,3,2016,09/30/2016,Global Markets,  Net Revenues,4359
-BAC,4,2016,12/31/2016,Global Markets,  Net Revenues,3472
-C,2,2008,06/30/2008,Citicorp,  Net Revenues,16768
-C,3,2008,09/30/2008,Citicorp,  Net Revenues,16020
-C,4,2008,12/31/2008,Citicorp,  Net Revenues,10660
-C,1,2009,03/31/2009,Citicorp,  Net Revenues,20927
-C,2,2009,06/30/2009,Citicorp,  Net Revenues,15385
-C,3,2009,09/30/2009,Citicorp,  Net Revenues,13025
-C,4,2009,12/31/2009,Citicorp,  Net Revenues,11932
-C,1,2010,03/31/2010,Citicorp,  Net Revenues,18522
-C,2,2010,06/30/2010,Citicorp,  Net Revenues,16489
-C,3,2010,09/30/2010,Citicorp,  Net Revenues,16289
-C,4,2010,12/31/2010,Citicorp,  Net Revenues,14260
-C,1,2011,03/31/2011,Citicorp,  Net Revenues,18138
-C,2,2011,06/30/2011,Citicorp,  Net Revenues,16348
-C,3,2011,09/30/2011,Citicorp,  Net Revenues,17705
-C,4,2011,12/31/2011,Citicorp,  Net Revenues,14014
-C,1,2012,03/31/2012,Citicorp,  Net Revenues,18099
-C,2,2012,06/30/2012,Citicorp,  Net Revenues,17745
-C,3,2012,09/30/2012,Citicorp,  Net Revenues,17685
-C,4,2012,12/31/2012,Citicorp,  Net Revenues,16956
-C,1,2013,03/31/2013,Citicorp,  Net Revenues,19597
-C,2,2013,06/30/2013,Citicorp,  Net Revenues,19278
-C,3,2013,09/30/2013,Citicorp,  Net Revenues,16597
-C,4,2013,12/31/2013,Citicorp,  Net Revenues,16513
-C,1,2014,03/31/2014,Citicorp,  Net Revenues,18527
-C,2,2014,06/30/2014,Citicorp,  Net Revenues,17346
-C,3,2014,09/30/2014,Citicorp,  Net Revenues,17537
-C,4,2014,12/31/2014,Citicorp,  Net Revenues,16187
-C,1,2015,03/31/2015,Citicorp,  Net Revenues,17690
-C,2,2015,06/30/2015,Citicorp,  Net Revenues,17427
-C,3,2015,09/30/2015,Citicorp,  Net Revenues,16793
-C,4,2015,12/31/2015,Citicorp,  Net Revenues,15436
-C,1,2016,03/31/2016,Citicorp,  Net Revenues,15806
-C,2,2016,06/30/2016,Citicorp,  Net Revenues,16579
-C,3,2016,09/30/2016,Citicorp,  Net Revenues,16855
-C,4,2016,12/31/2016,Citicorp,  Net Revenues,16373
-CS,2,2008,06/30/2008,Investment Banking,  Net Revenues,3591.561016
-CS,3,2008,09/30/2008,Investment Banking,  Net Revenues,-517.8061591
-CS,4,2008,12/31/2008,Investment Banking,  Net Revenues,-1563.976274
-CS,1,2009,03/31/2009,Investment Banking,  Net Revenues,5616.859092
-CS,2,2009,06/30/2009,Investment Banking,  Net Revenues,5411.301374
-CS,3,2009,09/30/2009,Investment Banking,  Net Revenues,4752.60401
-CS,4,2009,12/31/2009,Investment Banking,  Net Revenues,3204.450839
-CS,1,2010,03/31/2010,Investment Banking,  Net Revenues,4934.775352
-CS,2,2010,06/30/2010,Investment Banking,  Net Revenues,3702.83387
-CS,3,2010,09/30/2010,Investment Banking,  Net Revenues,3318.984971
-CS,4,2010,12/31/2010,Investment Banking,  Net Revenues,3530.721938
-CS,1,2011,03/31/2011,Investment Banking,  Net Revenues,5409.731715
-CS,2,2011,06/30/2011,Investment Banking,  Net Revenues,3247.184885
-CS,3,2011,09/30/2011,Investment Banking,  Net Revenues,2409.475517
-CS,4,2011,12/31/2011,Investment Banking,  Net Revenues,1148.661967
-CS,1,2012,03/31/2012,Investment Banking,  Net Revenues,4299.02315
-CS,2,2012,06/30/2012,Investment Banking,  Net Revenues,2938.197491
-CS,3,2012,09/30/2012,Investment Banking,  Net Revenues,3309.339315
-CS,4,2012,12/31/2012,Investment Banking,  Net Revenues,2861.873811
-CS,1,2013,03/31/2013,Investment Banking,  Net Revenues,—
-CS,2,2013,06/30/2013,Investment Banking,  Net Revenues,—
-CS,3,2013,09/30/2013,Investment Banking,  Net Revenues,—
-CS,4,2013,12/31/2013,Investment Banking,  Net Revenues,—
-CS,1,2014,03/31/2014,Investment Banking,  Net Revenues,—
-CS,2,2014,06/30/2014,Investment Banking,  Net Revenues,—
-CS,3,2014,09/30/2014,Investment Banking,  Net Revenues,—
-CS,4,2014,12/31/2014,Investment Banking,  Net Revenues,—
-CS,1,2015,03/31/2015,Investment Banking,  Net Revenues,—
-CS,2,2015,06/30/2015,Investment Banking,  Net Revenues,—
-CS,3,2015,09/30/2015,Investment Banking,  Net Revenues,—
-CS,4,2015,12/31/2015,Investment Banking,  Net Revenues,—
-CS,1,2016,03/31/2016,Investment Banking,  Net Revenues,—
-CS,2,2016,06/30/2016,Investment Banking,  Net Revenues,—
-CS,3,2016,09/30/2016,Investment Banking,  Net Revenues,—
-CS,4,2016,12/31/2016,Investment Banking,  Net Revenues,—
-DB,2,2008,06/30/2008,Corporate and Investment Bank,  Net Revenues,4459.636684
-DB,3,2008,09/30/2008,Corporate and Investment Bank,  Net Revenues,2567.730863
-DB,4,2008,12/31/2008,Corporate and Investment Bank,  Net Revenues,-3991.316569
-DB,1,2009,03/31/2009,Corporate and Investment Bank,  Net Revenues,6379.153224
-DB,2,2009,06/30/2009,Corporate and Investment Bank,  Net Revenues,7221.712015
-DB,3,2009,09/30/2009,Corporate and Investment Bank,  Net Revenues,7292.882119
-DB,4,2009,12/31/2009,Corporate and Investment Bank,  Net Revenues,5194.443629
-DB,1,2010,03/31/2010,Corporate and Investment Bank,  Net Revenues,9172.453483
-DB,2,2010,06/30/2010,Corporate and Investment Bank,  Net Revenues,5988.196823
-DB,3,2010,09/30/2010,Corporate and Investment Bank,  Net Revenues,6490.470635
-DB,4,2010,12/31/2010,Corporate and Investment Bank,  Net Revenues,6620.727428
-DB,1,2011,03/31/2011,Corporate and Investment Bank,  Net Revenues,9167.741554
-DB,2,2011,06/30/2011,Corporate and Investment Bank,  Net Revenues,7000.702255
-DB,3,2011,09/30/2011,Corporate and Investment Bank,  Net Revenues,5005.25165
-DB,4,2011,12/31/2011,Corporate and Investment Bank,  Net Revenues,4481.785999
-DB,1,2012,03/31/2012,Corporate and Investment Bank,  Net Revenues,7580.985685
-DB,2,2012,06/30/2012,Corporate and Investment Bank,  Net Revenues,5614.013449
-DB,3,2012,09/30/2012,Corporate and Investment Bank,  Net Revenues,6243.779337
-DB,4,2012,12/31/2012,Corporate and Investment Bank,  Net Revenues,6089.27413
-DB,1,2013,03/31/2013,Corporate and Investment Bank,  Net Revenues,7388.075278
-DB,2,2013,06/30/2013,Corporate and Investment Bank,  Net Revenues,6144.531267
-DB,3,2013,09/30/2013,Corporate and Investment Bank,  Net Revenues,5196.69112
-DB,4,2013,12/31/2013,Corporate and Investment Bank,  Net Revenues,4671.400051
-DB,1,2014,03/31/2014,Corporate and Investment Bank,  Net Revenues,6994.489711
-DB,2,2014,06/30/2014,Corporate and Investment Bank,  Net Revenues,6263.401643
-DB,3,2014,09/30/2014,Corporate and Investment Bank,  Net Revenues,5547.699434
-DB,4,2014,12/31/2014,Corporate and Investment Bank,  Net Revenues,4992.435878
-DB,1,2015,03/31/2015,Corporate and Investment Bank,  Net Revenues,6536.997879
-DB,2,2015,06/30/2015,Corporate and Investment Bank,  Net Revenues,6085.490936
-DB,3,2015,09/30/2015,Corporate and Investment Bank,  Net Revenues,4817.072377
-DB,4,2015,12/31/2015,Corporate and Investment Bank,  Net Revenues,3583.395275
-DB,1,2016,03/31/2016,Corporate and Investment Bank,  Net Revenues,5122.197072
-DB,2,2016,06/30/2016,Corporate and Investment Bank,  Net Revenues,4866.144504
-DB,3,2016,09/30/2016,Corporate and Investment Bank,  Net Revenues,5079.833123
-DB,4,2016,12/31/2016,Corporate and Investment Bank,  Net Revenues,3528.228525
-RY,3,2008,07/31/2008,Capital Markets,  Net Revenues,1122.086453
-RY,4,2008,10/31/2008,Capital Markets,  Net Revenues,1086.031714
-RY,1,2009,01/31/2009,Capital Markets,  Net Revenues,1149.65851
-RY,2,2009,04/30/2009,Capital Markets,  Net Revenues,1258.452394
-RY,3,2009,07/31/2009,Capital Markets,  Net Revenues,1866.279971
-RY,4,2009,10/31/2009,Capital Markets,  Net Revenues,1707.694503
-RY,1,2010,01/31/2010,Capital Markets,  Net Revenues,1748.353834
-RY,2,2010,04/30/2010,Capital Markets,  Net Revenues,1558.090501
-RY,3,2010,07/31/2010,Capital Markets,  Net Revenues,1005.961822
-RY,4,2010,10/31/2010,Capital Markets,  Net Revenues,1013.650099
-RY,1,2011,01/31/2011,Capital Markets,  Net Revenues,2041.136879
-RY,2,2011,04/30/2011,Capital Markets,  Net Revenues,1539.306479
-RY,3,2011,07/31/2011,Capital Markets,  Net Revenues,1171.370984
-RY,4,2011,10/31/2011,Capital Markets,  Net Revenues,685.7640248
-RY,1,2012,01/31/2012,Capital Markets,  Net Revenues,1433.684243
-RY,2,2012,04/30/2012,Capital Markets,  Net Revenues,1609.08547
-RY,3,2012,07/31/2012,Capital Markets,  Net Revenues,1586.095512
-RY,4,2012,10/31/2012,Capital Markets,  Net Revenues,1300.978707
-RY,1,2013,01/31/2013,Capital Markets,  Net Revenues,1920.577509
-RY,2,2013,04/30/2013,Capital Markets,  Net Revenues,1534.79947
-RY,3,2013,07/31/2013,Capital Markets,  Net Revenues,1385.782048
-RY,4,2013,10/31/2013,Capital Markets,  Net Revenues,1622.357055
-RY,1,2014,01/31/2014,Capital Markets,  Net Revenues,1693.367695
-RY,2,2014,04/30/2014,Capital Markets,  Net Revenues,1694.578662
-RY,3,2014,07/31/2014,Capital Markets,  Net Revenues,2020.110417
-RY,4,2014,10/31/2014,Capital Markets,  Net Revenues,1356.317283
-RY,1,2015,01/31/2015,Capital Markets,  Net Revenues,1744.696409
-RY,2,2015,04/30/2015,Capital Markets,  Net Revenues,1800.052119
-RY,3,2015,07/31/2015,Capital Markets,  Net Revenues,1640.641537
-RY,4,2015,10/31/2015,Capital Markets,  Net Revenues,1320.075205
-RY,1,2016,01/31/2016,Capital Markets,  Net Revenues,1442.947728
-RY,2,2016,04/30/2016,Capital Markets,  Net Revenues,1500.12026
-RY,3,2016,07/31/2016,Capital Markets,  Net Revenues,1610.601165
-RY,4,2016,10/31/2016,Capital Markets,  Net Revenues,1444.026905
-RY,1,2017,01/31/2017,Capital Markets,  Net Revenues,—
-RY,3,2008,07/31/2008,Wealth Management,  Net Revenues,1009.18455
-RY,4,2008,10/31/2008,Wealth Management,  Net Revenues,935.447485
-RY,1,2009,01/31/2009,Wealth Management,  Net Revenues,813.4915081
-RY,2,2009,04/30/2009,Wealth Management,  Net Revenues,796.376962
-RY,3,2009,07/31/2009,Wealth Management,  Net Revenues,898.7100332
-RY,4,2009,10/31/2009,Wealth Management,  Net Revenues,1000.03484
-RY,1,2010,01/31/2010,Wealth Management,  Net Revenues,1011.004608
-RY,2,2010,04/30/2010,Wealth Management,  Net Revenues,949.4613989
-RY,3,2010,07/31/2010,Wealth Management,  Net Revenues,1163.533683
-RY,4,2010,10/31/2010,Wealth Management,  Net Revenues,1071.850104
-RY,1,2011,01/31/2011,Wealth Management,  Net Revenues,1179.301415
-RY,2,2011,04/30/2011,Wealth Management,  Net Revenues,1248.696917
-RY,3,2011,07/31/2011,Wealth Management,  Net Revenues,1195.149919
-RY,4,2011,10/31/2011,Wealth Management,  Net Revenues,1150.604071
-RY,1,2012,01/31/2012,Wealth Management,  Net Revenues,1164.194724
-RY,2,2012,04/30/2012,Wealth Management,  Net Revenues,1225.921993
-RY,3,2012,07/31/2012,Wealth Management,  Net Revenues,1147.534695
-RY,4,2012,10/31/2012,Wealth Management,  Net Revenues,1278.670421
-RY,1,2013,01/31/2013,Wealth Management,  Net Revenues,1349.540567
-RY,2,2013,04/30/2013,Wealth Management,  Net Revenues,1321.578288
-RY,3,2013,07/31/2013,Wealth Management,  Net Revenues,1345.994188
-RY,4,2013,10/31/2013,Wealth Management,  Net Revenues,1364.013805
-RY,1,2014,01/31/2014,Wealth Management,  Net Revenues,1436.088073
-RY,2,2014,04/30/2014,Wealth Management,  Net Revenues,1406.717543
-RY,3,2014,07/31/2014,Wealth Management,  Net Revenues,1465.389021
-RY,4,2014,10/31/2014,Wealth Management,  Net Revenues,1482.991345
-RY,1,2015,01/31/2015,Wealth Management,  Net Revenues,1429.741376
-RY,2,2015,04/30/2015,Wealth Management,  Net Revenues,1400.307568
-RY,3,2015,07/31/2015,Wealth Management,  Net Revenues,1369.606914
-RY,4,2015,10/31/2015,Wealth Management,  Net Revenues,1256.237371
-RY,1,2016,01/31/2016,Wealth Management,  Net Revenues,1520.925206
-RY,2,2016,04/30/2016,Wealth Management,  Net Revenues,1643.347822
-RY,3,2016,07/31/2016,Wealth Management,  Net Revenues,1724.817252
-RY,4,2016,10/31/2016,Wealth Management,  Net Revenues,1744.579785
-RY,1,2017,01/31/2017,Wealth Management,  Net Revenues,—
-NMR,1,2009,06/30/2008,Fees from Investing Banking,  Fee & Commission Income,—
-NMR,2,2009,09/30/2008,Fees from Investing Banking,  Fee & Commission Income,—
-NMR,3,2009,12/31/2008,Fees from Investing Banking,  Fee & Commission Income,—
-NMR,4,2009,03/31/2009,Fees from Investing Banking,  Fee & Commission Income,—
-NMR,1,2010,06/30/2009,Fees from Investing Banking,  Fee & Commission Income,305.197378
-NMR,2,2010,09/30/2009,Fees from Investing Banking,  Fee & Commission Income,166.8273757
-NMR,3,2010,12/31/2009,Fees from Investing Banking,  Fee & Commission Income,495.4182492
-NMR,4,2010,03/31/2010,Fees from Investing Banking,  Fee & Commission Income,346.3190008
-NMR,1,2011,06/30/2010,Fees from Investing Banking,  Fee & Commission Income,221.632022
-NMR,2,2011,09/30/2010,Fees from Investing Banking,  Fee & Commission Income,290.4416813
-NMR,3,2011,12/31/2010,Fees from Investing Banking,  Fee & Commission Income,411.9538565
-NMR,4,2011,03/31/2011,Fees from Investing Banking,  Fee & Commission Income,338.085752
-NMR,1,2012,06/30/2011,Fees from Investing Banking,  Fee & Commission Income,169.2751235
-NMR,2,2012,09/30/2011,Fees from Investing Banking,  Fee & Commission Income,177.715371
-NMR,3,2012,12/31/2011,Fees from Investing Banking,  Fee & Commission Income,222.3894847
-NMR,4,2012,03/31/2012,Fees from Investing Banking,  Fee & Commission Income,186.7483942
-NMR,1,2013,06/30/2012,Fees from Investing Banking,  Fee & Commission Income,129.895218
-NMR,2,2013,09/30/2012,Fees from Investing Banking,  Fee & Commission Income,217.471532
-NMR,3,2013,12/31/2012,Fees from Investing Banking,  Fee & Commission Income,160.1915145
-NMR,4,2013,03/31/2013,Fees from Investing Banking,  Fee & Commission Income,236.6687558
-NMR,1,2014,06/30/2013,Fees from Investing Banking,  Fee & Commission Income,257.4657203
-NMR,2,2014,09/30/2013,Fees from Investing Banking,  Fee & Commission Income,232.5088636
-NMR,3,2014,12/31/2013,Fees from Investing Banking,  Fee & Commission Income,157.3953577
-NMR,4,2014,03/31/2014,Fees from Investing Banking,  Fee & Commission Income,264.6114682
-NMR,1,2015,06/30/2014,Fees from Investing Banking,  Fee & Commission Income,193.9089974
-NMR,2,2015,09/30/2014,Fees from Investing Banking,  Fee & Commission Income,198.2105043
-NMR,3,2015,12/31/2014,Fees from Investing Banking,  Fee & Commission Income,251.9637478
-NMR,4,2015,03/31/2015,Fees from Investing Banking,  Fee & Commission Income,216.5090157
-NMR,1,2016,06/30/2015,Fees from Investing Banking,  Fee & Commission Income,201.9292115
-NMR,2,2016,09/30/2015,Fees from Investing Banking,  Fee & Commission Income,367.6449272
-NMR,3,2016,12/31/2015,Fees from Investing Banking,  Fee & Commission Income,164.7432637
-NMR,4,2016,03/31/2016,Fees from Investing Banking,  Fee & Commission Income,250.9392234
-NMR,1,2017,06/30/2016,Fees from Investing Banking,  Fee & Commission Income,160.3476969
-NMR,2,2017,09/30/2016,Fees from Investing Banking,  Fee & Commission Income,228.6554706
-NMR,3,2017,12/31/2016,Fees from Investing Banking,  Fee & Commission Income,—
-BMO,3,2008,07/31/2008,Investment Banking,  Net Revenues,745.7467777
-BMO,4,2008,10/31/2008,Investment Banking,  Net Revenues,652.5316603
-BMO,1,2009,01/31/2009,Investment Banking,  Net Revenues,593.18789
-BMO,2,2009,04/30/2009,Investment Banking,  Net Revenues,652.530871
-BMO,3,2009,07/31/2009,Investment Banking,  Net Revenues,911.9523225
-BMO,4,2009,10/31/2009,Investment Banking,  Net Revenues,832.4312355
-BMO,1,2010,01/31/2010,Investment Banking,  Net Revenues,874.1769171
-BMO,2,2010,04/30/2010,Investment Banking,  Net Revenues,841.3688704
-BMO,3,2010,07/31/2010,Investment Banking,  Net Revenues,652.3859377
-BMO,4,2010,10/31/2010,Investment Banking,  Net Revenues,808.9800786
-BMO,1,2011,01/31/2011,Investment Banking,  Net Revenues,954.3882334
-BMO,2,2011,04/30/2011,Investment Banking,  Net Revenues,847.1833523
-BMO,3,2011,07/31/2011,Investment Banking,  Net Revenues,849.8384369
-BMO,4,2011,10/31/2011,Investment Banking,  Net Revenues,704.757489
-BMO,1,2012,01/31/2012,Investment Banking,  Net Revenues,756.5305782
-BMO,2,2012,04/30/2012,Investment Banking,  Net Revenues,793.4802726
-BMO,3,2012,07/31/2012,Investment Banking,  Net Revenues,792.5560959
-BMO,4,2012,10/31/2012,Investment Banking,  Net Revenues,910.5836939
-BMO,1,2013,01/31/2013,Investment Banking,  Net Revenues,910.4363231
-BMO,2,2013,04/30/2013,Investment Banking,  Net Revenues,835.1981749
-BMO,3,2013,07/31/2013,Investment Banking,  Net Revenues,841.3676719
-BMO,4,2013,10/31/2013,Investment Banking,  Net Revenues,768.2819805
-BMO,1,2014,01/31/2014,Investment Banking,  Net Revenues,911.2376435
-BMO,2,2014,04/30/2014,Investment Banking,  Net Revenues,860.8676856
-BMO,3,2014,07/31/2014,Investment Banking,  Net Revenues,913.4412322
-BMO,4,2014,10/31/2014,Investment Banking,  Net Revenues,733.8047474
-BMO,1,2015,01/31/2015,Investment Banking,  Net Revenues,789.5330527
-BMO,2,2015,04/30/2015,Investment Banking,  Net Revenues,809.9032901
-BMO,3,2015,07/31/2015,Investment Banking,  Net Revenues,803.4813394
-BMO,4,2015,10/31/2015,Investment Banking,  Net Revenues,711.3358616
-BMO,1,2016,01/31/2016,Investment Banking,  Net Revenues,743.3367082
-BMO,2,2016,04/30/2016,Investment Banking,  Net Revenues,806.5973255
-BMO,3,2016,07/31/2016,Investment Banking,  Net Revenues,838.8708514
-BMO,4,2016,10/31/2016,Investment Banking,  Net Revenues,903.9471118
-BMO,1,2017,01/31/2017,Investment Banking,  Net Revenues,921.310504
+﻿ticker,quarter,year,date,segment,IB,item,amnt
+LAZ,2,2008,6/30/2008,Asset Management,no,  Operating Income,38.08
+LAZ,3,2008,9/30/2008,Asset Management,no,  Operating Income,-170.135
+LAZ,4,2008,12/31/2008,Asset Management,no,  Operating Income,18.278
+LAZ,1,2009,3/31/2009,Asset Management,no,  Operating Income,11.083
+LAZ,2,2009,6/30/2009,Asset Management,no,  Operating Income,27.57
+LAZ,3,2009,9/30/2009,Asset Management,no,  Operating Income,43.016
+LAZ,4,2009,12/31/2009,Asset Management,no,  Operating Income,15.531
+LAZ,1,2010,3/31/2010,Asset Management,no,  Operating Income,58.313
+LAZ,2,2010,6/30/2010,Asset Management,no,  Operating Income,52.528
+LAZ,3,2010,9/30/2010,Asset Management,no,  Operating Income,59.617
+LAZ,4,2010,12/31/2010,Asset Management,no,  Operating Income,94.856
+LAZ,1,2011,3/31/2011,Asset Management,no,  Operating Income,77.649
+LAZ,2,2011,6/30/2011,Asset Management,no,  Operating Income,83.941
+LAZ,3,2011,9/30/2011,Asset Management,no,  Operating Income,62.368
+LAZ,4,2011,12/31/2011,Asset Management,no,  Operating Income,44.498
+LAZ,1,2012,3/31/2012,Asset Management,no,  Operating Income,54.026
+LAZ,2,2012,6/30/2012,Asset Management,no,  Operating Income,54.434
+LAZ,3,2012,9/30/2012,Asset Management,no,  Operating Income,60.647
+LAZ,4,2012,12/31/2012,Asset Management,no,  Operating Income,67.65
+LAZ,1,2013,3/31/2013,Asset Management,no,  Operating Income,88.948
+LAZ,2,2013,6/30/2013,Asset Management,no,  Operating Income,57.945
+LAZ,3,2013,9/30/2013,Asset Management,no,  Operating Income,83.199
+LAZ,4,2013,12/31/2013,Asset Management,no,  Operating Income,104.993
+LAZ,1,2014,3/31/2014,Asset Management,no,  Operating Income,92.803
+LAZ,2,2014,6/30/2014,Asset Management,no,  Operating Income,102.927
+LAZ,3,2014,9/30/2014,Asset Management,no,  Operating Income,100.466
+LAZ,4,2014,12/31/2014,Asset Management,no,  Operating Income,—
+LAZ,1,2015,3/31/2015,Asset Management,no,  Operating Income,98.015
+LAZ,2,2015,6/30/2015,Asset Management,no,  Operating Income,112.047
+LAZ,3,2015,9/30/2015,Asset Management,no,  Operating Income,85.426
+LAZ,4,2015,12/31/2015,Asset Management,no,  Operating Income,78.819
+LAZ,1,2016,3/31/2016,Asset Management,no,  Operating Income,70.598
+LAZ,2,2016,6/30/2016,Asset Management,no,  Operating Income,71.424
+LAZ,3,2016,9/30/2016,Asset Management,no,  Operating Income,81.972
+LAZ,4,2016,12/31/2016,Asset Management,no,  Operating Income,57.585
+LAZ,2,2008,6/30/2008,Asset Management,no,  Assets,469.322
+LAZ,3,2008,9/30/2008,Asset Management,no,  Assets,459.424
+LAZ,4,2008,12/31/2008,Asset Management,no,  Assets,419.858
+LAZ,1,2009,3/31/2009,Asset Management,no,  Assets,376.209
+LAZ,2,2009,6/30/2009,Asset Management,no,  Assets,390.704
+LAZ,3,2009,9/30/2009,Asset Management,no,  Assets,627.953
+LAZ,4,2009,12/31/2009,Asset Management,no,  Assets,702.775
+LAZ,1,2010,3/31/2010,Asset Management,no,  Assets,651.094
+LAZ,2,2010,6/30/2010,Asset Management,no,  Assets,679.5
+LAZ,3,2010,9/30/2010,Asset Management,no,  Assets,768.029
+LAZ,4,2010,12/31/2010,Asset Management,no,  Assets,687.323
+LAZ,1,2011,3/31/2011,Asset Management,no,  Assets,650.956
+LAZ,2,2011,6/30/2011,Asset Management,no,  Assets,689.118
+LAZ,3,2011,9/30/2011,Asset Management,no,  Assets,617.04
+LAZ,4,2011,12/31/2011,Asset Management,no,  Assets,583.524
+LAZ,1,2012,3/31/2012,Asset Management,no,  Assets,534.558
+LAZ,2,2012,6/30/2012,Asset Management,no,  Assets,491.239
+LAZ,3,2012,9/30/2012,Asset Management,no,  Assets,487.635
+LAZ,4,2012,12/31/2012,Asset Management,no,  Assets,566.677
+LAZ,1,2013,3/31/2013,Asset Management,no,  Assets,492.618
+LAZ,2,2013,6/30/2013,Asset Management,no,  Assets,539.662
+LAZ,3,2013,9/30/2013,Asset Management,no,  Assets,632.526
+LAZ,4,2013,12/31/2013,Asset Management,no,  Assets,612.018
+LAZ,1,2014,3/31/2014,Asset Management,no,  Assets,536.836
+LAZ,2,2014,6/30/2014,Asset Management,no,  Assets,596.955
+LAZ,3,2014,9/30/2014,Asset Management,no,  Assets,585.693
+LAZ,4,2014,12/31/2014,Asset Management,no,  Assets,—
+LAZ,1,2015,3/31/2015,Asset Management,no,  Assets,579.027
+LAZ,2,2015,6/30/2015,Asset Management,no,  Assets,486.851
+LAZ,3,2015,9/30/2015,Asset Management,no,  Assets,515.544
+LAZ,4,2015,12/31/2015,Asset Management,no,  Assets,640.034
+LAZ,1,2016,3/31/2016,Asset Management,no,  Assets,598.382
+LAZ,2,2016,6/30/2016,Asset Management,no,  Assets,583.487
+LAZ,3,2016,9/30/2016,Asset Management,no,  Assets,620.554
+LAZ,4,2016,12/31/2016,Asset Management,no,  Assets,645.653
+LAZ,2,2008,6/30/2008,Asset Management,no,  Net Revenues,180.372
+LAZ,3,2008,9/30/2008,Asset Management,no,  Net Revenues,147.78
+LAZ,4,2008,12/31/2008,Asset Management,no,  Net Revenues,121.598
+LAZ,1,2009,3/31/2009,Asset Management,no,  Net Revenues,101.523
+LAZ,2,2009,6/30/2009,Asset Management,no,  Net Revenues,131.543
+LAZ,3,2009,9/30/2009,Asset Management,no,  Net Revenues,160.744
+LAZ,4,2009,12/31/2009,Asset Management,no,  Net Revenues,207.842
+LAZ,1,2010,3/31/2010,Asset Management,no,  Net Revenues,187.753
+LAZ,2,2010,6/30/2010,Asset Management,no,  Net Revenues,189.414
+LAZ,3,2010,9/30/2010,Asset Management,no,  Net Revenues,210.132
+LAZ,4,2010,12/31/2010,Asset Management,no,  Net Revenues,262.363
+LAZ,1,2011,3/31/2011,Asset Management,no,  Net Revenues,226.853
+LAZ,2,2011,6/30/2011,Asset Management,no,  Net Revenues,244.855
+LAZ,3,2011,9/30/2011,Asset Management,no,  Net Revenues,219.077
+LAZ,4,2011,12/31/2011,Asset Management,no,  Net Revenues,206.616
+LAZ,1,2012,3/31/2012,Asset Management,no,  Net Revenues,486.039
+LAZ,2,2012,6/30/2012,Asset Management,no,  Net Revenues,211.053
+LAZ,3,2012,9/30/2012,Asset Management,no,  Net Revenues,221.516
+LAZ,4,2012,12/31/2012,Asset Management,no,  Net Revenues,245.207
+LAZ,1,2013,3/31/2013,Asset Management,no,  Net Revenues,244.025
+LAZ,2,2013,6/30/2013,Asset Management,no,  Net Revenues,245.499
+LAZ,3,2013,9/30/2013,Asset Management,no,  Net Revenues,252.094
+LAZ,4,2013,12/31/2013,Asset Management,no,  Net Revenues,293.173
+LAZ,1,2014,3/31/2014,Asset Management,no,  Net Revenues,268.564
+LAZ,2,2014,6/30/2014,Asset Management,no,  Net Revenues,288.164
+LAZ,3,2014,9/30/2014,Asset Management,no,  Net Revenues,291.967
+LAZ,4,2014,12/31/2014,Asset Management,no,  Net Revenues,283.757
+LAZ,1,2015,3/31/2015,Asset Management,no,  Net Revenues,279.807
+LAZ,2,2015,6/30/2015,Asset Management,no,  Net Revenues,305.838
+LAZ,3,2015,9/30/2015,Asset Management,no,  Net Revenues,264.581
+LAZ,4,2015,12/31/2015,Asset Management,no,  Net Revenues,260.606
+LAZ,1,2016,3/31/2016,Asset Management,no,  Net Revenues,245.759
+LAZ,2,2016,6/30/2016,Asset Management,no,  Net Revenues,254.126
+LAZ,3,2016,9/30/2016,Asset Management,no,  Net Revenues,267.725
+LAZ,4,2016,12/31/2016,Asset Management,no,  Net Revenues,275.365
+LAZ,2,2008,6/30/2008,Financial Advisory,yes,  Net Revenues,288.696
+LAZ,3,2008,9/30/2008,Financial Advisory,yes,  Net Revenues,269.74
+LAZ,4,2008,12/31/2008,Financial Advisory,yes,  Net Revenues,252.214
+LAZ,1,2009,3/31/2009,Financial Advisory,yes,  Net Revenues,162.977
+LAZ,2,2009,6/30/2009,Financial Advisory,yes,  Net Revenues,252.024
+LAZ,3,2009,9/30/2009,Financial Advisory,yes,  Net Revenues,259.221
+LAZ,4,2009,12/31/2009,Financial Advisory,yes,  Net Revenues,312.598
+LAZ,1,2010,3/31/2010,Financial Advisory,yes,  Net Revenues,268.496
+LAZ,2,2010,6/30/2010,Financial Advisory,yes,  Net Revenues,245.973
+LAZ,3,2010,9/30/2010,Financial Advisory,yes,  Net Revenues,254.012
+LAZ,4,2010,12/31/2010,Financial Advisory,yes,  Net Revenues,351.386
+LAZ,1,2011,3/31/2011,Financial Advisory,yes,  Net Revenues,228.845
+LAZ,2,2011,6/30/2011,Financial Advisory,yes,  Net Revenues,249.191
+LAZ,3,2011,9/30/2011,Financial Advisory,yes,  Net Revenues,253.585
+LAZ,4,2011,12/31/2011,Financial Advisory,yes,  Net Revenues,260.486
+LAZ,1,2012,3/31/2012,Financial Advisory,yes,  Net Revenues,277.196
+LAZ,2,2012,6/30/2012,Financial Advisory,yes,  Net Revenues,242.624
+LAZ,3,2012,9/30/2012,Financial Advisory,yes,  Net Revenues,219.973
+LAZ,4,2012,12/31/2012,Financial Advisory,yes,  Net Revenues,309.297
+LAZ,1,2013,3/31/2013,Financial Advisory,yes,  Net Revenues,168.462
+LAZ,2,2013,6/30/2013,Financial Advisory,yes,  Net Revenues,263.307
+LAZ,3,2013,9/30/2013,Financial Advisory,yes,  Net Revenues,233.842
+LAZ,4,2013,12/31/2013,Financial Advisory,yes,  Net Revenues,314.966
+LAZ,1,2014,3/31/2014,Financial Advisory,yes,  Net Revenues,275.496
+LAZ,2,2014,6/30/2014,Financial Advisory,yes,  Net Revenues,280.769
+LAZ,3,2014,9/30/2014,Financial Advisory,yes,  Net Revenues,291.089
+LAZ,4,2014,12/31/2014,Financial Advisory,yes,  Net Revenues,359.38
+LAZ,1,2015,3/31/2015,Financial Advisory,yes,  Net Revenues,301.519
+LAZ,2,2015,6/30/2015,Financial Advisory,yes,  Net Revenues,316.384
+LAZ,3,2015,9/30/2015,Financial Advisory,yes,  Net Revenues,330.832
+LAZ,4,2015,12/31/2015,Financial Advisory,yes,  Net Revenues,330.893
+LAZ,1,2016,3/31/2016,Financial Advisory,yes,  Net Revenues,266.014
+LAZ,2,2016,6/30/2016,Financial Advisory,yes,  Net Revenues,286.965
+LAZ,3,2016,9/30/2016,Financial Advisory,yes,  Net Revenues,343.488
+LAZ,4,2016,12/31/2016,Financial Advisory,yes,  Net Revenues,404.577
+HLI,4,2014,3/31/2014,Corporate Finance,yes,  Revenue,—
+HLI,4,2015,3/31/2015,Corporate Finance,yes,  Revenue,—
+HLI,1,2016,6/30/2015,Corporate Finance,yes,  Revenue,78.397
+HLI,2,2016,9/30/2015,Corporate Finance,yes,  Revenue,89.931
+HLI,3,2016,12/31/2015,Corporate Finance,yes,  Revenue,124.133
+HLI,4,2016,3/31/2016,Corporate Finance,yes,  Revenue,79.329
+HLI,1,2017,6/30/2016,Corporate Finance,yes,  Revenue,96.036
+HLI,2,2017,9/30/2016,Corporate Finance,yes,  Revenue,100.207
+HLI,3,2017,12/31/2016,Corporate Finance,yes,  Revenue,123.24
+HLI,4,2014,3/31/2014,Financial Restructuring,no,  Revenue,—
+HLI,4,2015,3/31/2015,Financial Restructuring,no,  Revenue,—
+HLI,1,2016,6/30/2015,Financial Restructuring,no,  Revenue,38.993
+HLI,2,2016,9/30/2015,Financial Restructuring,no,  Revenue,40.93
+HLI,3,2016,12/31/2015,Financial Restructuring,no,  Revenue,50.216
+HLI,4,2016,3/31/2016,Financial Restructuring,no,  Revenue,72.204
+HLI,1,2017,6/30/2016,Financial Restructuring,no,  Revenue,56.33
+HLI,2,2017,9/30/2016,Financial Restructuring,no,  Revenue,56.862
+HLI,3,2017,12/31/2016,Financial Restructuring,no,  Revenue,90.18
+HLI,4,2014,3/31/2014,Financial Advisory Services,no,  Revenue,—
+HLI,4,2015,3/31/2015,Financial Advisory Services,no,  Revenue,—
+HLI,1,2016,6/30/2015,Financial Advisory Services,no,  Revenue,28.876
+HLI,2,2016,9/30/2015,Financial Advisory Services,no,  Revenue,27.519
+HLI,3,2016,12/31/2015,Financial Advisory Services,no,  Revenue,31.174
+HLI,4,2016,3/31/2016,Financial Advisory Services,no,  Revenue,32.063
+HLI,1,2017,6/30/2016,Financial Advisory Services,no,  Revenue,28.408
+HLI,2,2017,9/30/2016,Financial Advisory Services,no,  Revenue,29.468
+HLI,3,2017,12/31/2016,Financial Advisory Services,no,  Revenue,34.26
+EVR,2,2008,6/30/2008,Investment Banking,yes,  Net Revenues,58.458
+EVR,3,2008,9/30/2008,Investment Banking,yes,  Net Revenues,52.518
+EVR,4,2008,12/31/2008,Investment Banking,yes,  Net Revenues,34.178
+EVR,1,2009,3/31/2009,Investment Banking,yes,  Net Revenues,49.66
+EVR,2,2009,6/30/2009,Investment Banking,yes,  Net Revenues,69.313
+EVR,3,2009,9/30/2009,Investment Banking,yes,  Net Revenues,73.49
+EVR,4,2009,12/31/2009,Investment Banking,yes,  Net Revenues,100.171
+EVR,1,2010,3/31/2010,Investment Banking,yes,  Net Revenues,76.515
+EVR,2,2010,6/30/2010,Investment Banking,yes,  Net Revenues,48.025
+EVR,3,2010,9/30/2010,Investment Banking,yes,  Net Revenues,100.76
+EVR,4,2010,12/31/2010,Investment Banking,yes,  Net Revenues,77.137
+EVR,1,2011,3/31/2011,Investment Banking,yes,  Net Revenues,82.379
+EVR,2,2011,6/30/2011,Investment Banking,yes,  Net Revenues,113.976
+EVR,3,2011,9/30/2011,Investment Banking,yes,  Net Revenues,139.166
+EVR,4,2011,12/31/2011,Investment Banking,yes,  Net Revenues,92.854
+EVR,1,2012,3/31/2012,Investment Banking,yes,  Net Revenues,83.785
+EVR,2,2012,6/30/2012,Investment Banking,yes,  Net Revenues,153.164
+EVR,3,2012,9/30/2012,Investment Banking,yes,  Net Revenues,133.415
+EVR,4,2012,12/31/2012,Investment Banking,yes,  Net Revenues,194.855
+EVR,1,2013,3/31/2013,Investment Banking,yes,  Net Revenues,131.596
+EVR,2,2013,6/30/2013,Investment Banking,yes,  Net Revenues,182.605
+EVR,3,2013,9/30/2013,Investment Banking,yes,  Net Revenues,163.645
+EVR,4,2013,12/31/2013,Investment Banking,yes,  Net Revenues,192.939
+EVR,1,2014,3/31/2014,Investment Banking,yes,  Net Revenues,127.851
+EVR,2,2014,6/30/2014,Investment Banking,yes,  Net Revenues,191.323
+EVR,3,2014,9/30/2014,Investment Banking,yes,  Net Revenues,203.028
+EVR,4,2014,12/31/2014,Investment Banking,yes,  Net Revenues,297.435
+EVR,1,2015,3/31/2015,Investment Banking,yes,  Net Revenues,216.58
+EVR,2,2015,6/30/2015,Investment Banking,yes,  Net Revenues,244.377
+EVR,3,2015,9/30/2015,Investment Banking,yes,  Net Revenues,285.918
+EVR,4,2015,12/31/2015,Investment Banking,yes,  Net Revenues,384.04
+EVR,1,2016,3/31/2016,Investment Banking,yes,  Net Revenues,239.713
+EVR,2,2016,6/30/2016,Investment Banking,yes,  Net Revenues,328.157
+EVR,3,2016,9/30/2016,Investment Banking,yes,  Net Revenues,368.634
+EVR,4,2016,12/31/2016,Investment Banking,yes,  Net Revenues,427.355
+EVR,2,2008,6/30/2008,Investment Management,no,  Net Revenues,1.66
+EVR,3,2008,9/30/2008,Investment Management,no,  Net Revenues,4.295
+EVR,4,2008,12/31/2008,Investment Management,no,  Net Revenues,-0.942
+EVR,1,2009,3/31/2009,Investment Management,no,  Net Revenues,0.066
+EVR,2,2009,6/30/2009,Investment Management,no,  Net Revenues,1.73
+EVR,3,2009,9/30/2009,Investment Management,no,  Net Revenues,9.706
+EVR,4,2009,12/31/2009,Investment Management,no,  Net Revenues,9.003
+EVR,1,2010,3/31/2010,Investment Management,no,  Net Revenues,11.326
+EVR,2,2010,6/30/2010,Investment Management,no,  Net Revenues,16.815
+EVR,3,2010,9/30/2010,Investment Management,no,  Net Revenues,22.827
+EVR,4,2010,12/31/2010,Investment Management,no,  Net Revenues,25.646
+EVR,1,2011,3/31/2011,Investment Management,no,  Net Revenues,24.719
+EVR,2,2011,6/30/2011,Investment Management,no,  Net Revenues,27.228
+EVR,3,2011,9/30/2011,Investment Management,no,  Net Revenues,24.015
+EVR,4,2011,12/31/2011,Investment Management,no,  Net Revenues,21.007
+EVR,1,2012,3/31/2012,Investment Management,no,  Net Revenues,19.013
+EVR,2,2012,6/30/2012,Investment Management,no,  Net Revenues,19.333
+EVR,3,2012,9/30/2012,Investment Management,no,  Net Revenues,19.614
+EVR,4,2012,12/31/2012,Investment Management,no,  Net Revenues,19.194
+EVR,1,2013,3/31/2013,Investment Management,no,  Net Revenues,21.035
+EVR,2,2013,6/30/2013,Investment Management,no,  Net Revenues,24.192
+EVR,3,2013,9/30/2013,Investment Management,no,  Net Revenues,23.683
+EVR,4,2013,12/31/2013,Investment Management,no,  Net Revenues,25.733
+EVR,1,2014,3/31/2014,Investment Management,no,  Net Revenues,21.262
+EVR,2,2014,6/30/2014,Investment Management,no,  Net Revenues,26.373
+EVR,3,2014,9/30/2014,Investment Management,no,  Net Revenues,24.133
+EVR,4,2014,12/31/2014,Investment Management,no,  Net Revenues,24.453
+EVR,1,2015,3/31/2015,Investment Management,no,  Net Revenues,21.403
+EVR,2,2015,6/30/2015,Investment Management,no,  Net Revenues,23.719
+EVR,3,2015,9/30/2015,Investment Management,no,  Net Revenues,23.033
+EVR,4,2015,12/31/2015,Investment Management,no,  Net Revenues,24.203
+EVR,1,2016,3/31/2016,Investment Management,no,  Net Revenues,18
+EVR,2,2016,6/30/2016,Investment Management,no,  Net Revenues,22.499
+EVR,3,2016,9/30/2016,Investment Management,no,  Net Revenues,17.68
+EVR,4,2016,12/31/2016,Investment Management,no,  Net Revenues,18.014
+COWN,1,2009,3/31/2009,Broker-Dealer,yes,  Revenue,—
+COWN,2,2009,6/30/2009,Broker-Dealer,yes,  Revenue,—
+COWN,3,2009,9/30/2009,Broker-Dealer,yes,  Revenue,—
+COWN,4,2009,12/31/2009,Broker-Dealer,yes,  Revenue,—
+COWN,1,2010,3/31/2010,Broker-Dealer,yes,  Revenue,35.961
+COWN,2,2010,6/30/2010,Broker-Dealer,yes,  Revenue,39.198
+COWN,3,2010,9/30/2010,Broker-Dealer,yes,  Revenue,33.041
+COWN,4,2010,12/31/2010,Broker-Dealer,yes,  Revenue,42.768
+COWN,1,2011,3/31/2011,Broker-Dealer,yes,  Revenue,41.763
+COWN,2,2011,6/30/2011,Broker-Dealer,yes,  Revenue,38.626
+COWN,3,2011,9/30/2011,Broker-Dealer,yes,  Revenue,32.819
+COWN,4,2011,12/31/2011,Broker-Dealer,yes,  Revenue,21.743
+COWN,1,2012,3/31/2012,Broker-Dealer,yes,  Revenue,44.205
+COWN,2,2012,6/30/2012,Broker-Dealer,yes,  Revenue,42.127
+COWN,3,2012,9/30/2012,Broker-Dealer,yes,  Revenue,43.868
+COWN,4,2012,12/31/2012,Broker-Dealer,yes,  Revenue,19.885
+COWN,1,2013,3/31/2013,Broker-Dealer,yes,  Revenue,47.198
+COWN,2,2013,6/30/2013,Broker-Dealer,yes,  Revenue,58.764
+COWN,3,2013,9/30/2013,Broker-Dealer,yes,  Revenue,61.987
+COWN,4,2013,12/31/2013,Broker-Dealer,yes,  Revenue,66.406
+COWN,1,2014,3/31/2014,Broker-Dealer,yes,  Revenue,83.653
+COWN,2,2014,6/30/2014,Broker-Dealer,yes,  Revenue,70.385
+COWN,3,2014,9/30/2014,Broker-Dealer,yes,  Revenue,85.119
+COWN,4,2014,12/31/2014,Broker-Dealer,yes,  Revenue,98.086
+COWN,1,2015,3/31/2015,Broker-Dealer,yes,  Revenue,107.836
+COWN,2,2015,6/30/2015,Broker-Dealer,yes,  Revenue,106.388
+COWN,3,2015,9/30/2015,Broker-Dealer,yes,  Revenue,90.481
+COWN,4,2015,12/31/2015,Broker-Dealer,yes,  Revenue,93.78
+COWN,1,2016,3/31/2016,Broker-Dealer,yes,  Revenue,80.515
+COWN,2,2016,6/30/2016,Broker-Dealer,yes,  Revenue,79.332
+COWN,3,2016,9/30/2016,Broker-Dealer,yes,  Revenue,93.996
+COWN,4,2016,12/31/2016,Broker-Dealer,yes,  Revenue,91.21
+COWN,1,2009,3/31/2009,Alternative Investment Management,no,  Revenue,12.213
+COWN,2,2009,6/30/2009,Alternative Investment Management,no,  Revenue,11.823
+COWN,3,2009,9/30/2009,Alternative Investment Management,no,  Revenue,25.763
+COWN,4,2009,12/31/2009,Alternative Investment Management,no,  Revenue,22.639
+COWN,1,2010,3/31/2010,Alternative Investment Management,no,  Revenue,25.71
+COWN,2,2010,6/30/2010,Alternative Investment Management,no,  Revenue,9.413
+COWN,3,2010,9/30/2010,Alternative Investment Management,no,  Revenue,28.269
+COWN,4,2010,12/31/2010,Alternative Investment Management,no,  Revenue,58.233
+COWN,1,2011,3/31/2011,Alternative Investment Management,no,  Revenue,37.983
+COWN,2,2011,6/30/2011,Alternative Investment Management,no,  Revenue,43.779
+COWN,3,2011,9/30/2011,Alternative Investment Management,no,  Revenue,4.385
+COWN,4,2011,12/31/2011,Alternative Investment Management,no,  Revenue,11.135
+COWN,1,2012,3/31/2012,Alternative Investment Management,no,  Revenue,34.969
+COWN,2,2012,6/30/2012,Alternative Investment Management,no,  Revenue,24.079
+COWN,3,2012,9/30/2012,Alternative Investment Management,no,  Revenue,22.157
+COWN,4,2012,12/31/2012,Alternative Investment Management,no,  Revenue,21.212
+COWN,1,2013,3/31/2013,Alternative Investment Management,no,  Revenue,27.687
+COWN,2,2013,6/30/2013,Alternative Investment Management,no,  Revenue,22.319
+COWN,3,2013,9/30/2013,Alternative Investment Management,no,  Revenue,30.152
+COWN,4,2013,12/31/2013,Alternative Investment Management,no,  Revenue,29.996
+COWN,1,2014,3/31/2014,Alternative Investment Management,no,  Revenue,27.1
+COWN,2,2014,6/30/2014,Alternative Investment Management,no,  Revenue,41.156
+COWN,3,2014,9/30/2014,Alternative Investment Management,no,  Revenue,25.187
+COWN,4,2014,12/31/2014,Alternative Investment Management,no,  Revenue,66.932
+COWN,1,2015,3/31/2015,Alternative Investment Management,no,  Revenue,53.839
+COWN,2,2015,6/30/2015,Alternative Investment Management,no,  Revenue,18.061
+COWN,3,2015,9/30/2015,Alternative Investment Management,no,  Revenue,-7.662
+COWN,4,2015,12/31/2015,Alternative Investment Management,no,  Revenue,66.943
+COWN,1,2016,3/31/2016,Alternative Investment Management,no,  Revenue,25.125
+COWN,2,2016,6/30/2016,Alternative Investment Management,no,  Revenue,1.062
+COWN,3,2016,9/30/2016,Alternative Investment Management,no,  Revenue,59.514
+COWN,4,2016,12/31/2016,Alternative Investment Management,no,  Revenue,36.877
+GHL,3,2007,9/30/2007,Financial Advisory,yes,  Revenue,116.457989
+GHL,1,2008,3/31/2008,Financial Advisory,yes,  Revenue,69.5
+GHL,2,2008,6/30/2008,Financial Advisory,yes,  Revenue,49.9
+GHL,3,2008,9/30/2008,Financial Advisory,yes,  Revenue,37
+GHL,1,2009,3/31/2009,Financial Advisory,yes,  Revenue,65.1
+GHL,2,2009,6/30/2009,Financial Advisory,yes,  Revenue,45.5
+GHL,3,2009,9/30/2009,Financial Advisory,yes,  Revenue,42.4
+GHL,4,2009,12/31/2009,Financial Advisory,yes,  Revenue,63
+GHL,1,2010,3/31/2010,Financial Advisory,yes,  Revenue,36.6
+GHL,2,2010,6/30/2010,Financial Advisory,yes,  Revenue,61.9
+GHL,3,2010,9/30/2010,Financial Advisory,yes,  Revenue,97
+GHL,4,2010,12/31/2010,Financial Advisory,yes,  Revenue,56.678274
+GHL,1,2011,3/31/2011,Financial Advisory,yes,  Revenue,48.5
+GHL,2,2011,6/30/2011,Financial Advisory,yes,  Revenue,85.6
+GHL,3,2011,9/30/2011,Financial Advisory,yes,  Revenue,83.2
+GHL,1,2012,3/31/2012,Financial Advisory,yes,  Revenue,73.3
+GHL,2,2012,6/30/2012,Financial Advisory,yes,  Revenue,45.1
+GHL,3,2012,9/30/2012,Financial Advisory,yes,  Revenue,72.7
+GHL,4,2012,12/31/2012,Financial Advisory,yes,  Revenue,100.4
+GHL,1,2013,3/31/2013,Financial Advisory,yes,  Revenue,81.447
+GHL,2,2013,6/30/2013,Financial Advisory,yes,  Revenue,83.066
+GHL,3,2013,9/30/2013,Financial Advisory,yes,  Revenue,46.983
+GHL,4,2013,12/31/2013,Financial Advisory,yes,  Revenue,75.412
+GHL,1,2014,3/31/2014,Financial Advisory,yes,  Revenue,48.455
+GHL,2,2014,6/30/2014,Financial Advisory,yes,  Revenue,64
+GHL,3,2014,9/30/2014,Financial Advisory,yes,  Revenue,91.669
+GHL,4,2014,12/31/2014,Financial Advisory,yes,  Revenue,76.341
+GHL,1,2015,3/31/2015,Financial Advisory,yes,  Revenue,61.892
+GHL,2,2015,6/30/2015,Financial Advisory,yes,  Revenue,72.962
+GHL,3,2015,9/30/2015,Financial Advisory,yes,  Revenue,50.278
+GHL,4,2015,12/31/2015,Financial Advisory,yes,  Revenue,75.1
+GHL,1,2016,3/31/2016,Financial Advisory,yes,  Revenue,66.553
+GHL,2,2016,6/30/2016,Financial Advisory,yes,  Revenue,90.265
+GHL,3,2016,9/30/2016,Financial Advisory,yes,  Revenue,76.487
+GHL,4,2016,12/31/2016,Financial Advisory,yes,  Revenue,101.482
+GHL,3,2007,9/30/2007,Merchant banking fund management,no,  Revenue,1.753447
+GHL,1,2008,3/31/2008,Merchant banking fund management,no,  Revenue,5.9
+GHL,2,2008,6/30/2008,Merchant banking fund management,no,  Revenue,58.8
+GHL,3,2008,9/30/2008,Merchant banking fund management,no,  Revenue,-51.9
+GHL,1,2009,3/31/2009,Merchant banking fund management,no,  Revenue,-3.3
+GHL,2,2009,6/30/2009,Merchant banking fund management,no,  Revenue,8.6
+GHL,3,2009,9/30/2009,Merchant banking fund management,no,  Revenue,73.9
+GHL,4,2009,12/31/2009,Merchant banking fund management,no,  Revenue,3.4
+GHL,1,2010,3/31/2010,Merchant banking fund management,no,  Revenue,12.3
+GHL,2,2010,6/30/2010,Merchant banking fund management,no,  Revenue,21.6
+GHL,3,2010,9/30/2010,Merchant banking fund management,no,  Revenue,-12.9
+GHL,4,2010,12/31/2010,Merchant banking fund management,no,  Revenue,5.00922
+GHL,1,2011,3/31/2011,Merchant banking fund management,no,  Revenue,-0.1
+GHL,2,2011,6/30/2011,Merchant banking fund management,no,  Revenue,5.2
+GHL,3,2011,9/30/2011,Merchant banking fund management,no,  Revenue,-22.8
+GHL,1,2012,3/31/2012,Merchant banking fund management,no,  Revenue,9.4
+GHL,2,2012,6/30/2012,Merchant banking fund management,no,  Revenue,2.2
+GHL,3,2012,9/30/2012,Merchant banking fund management,no,  Revenue,-10
+GHL,4,2012,12/31/2012,Merchant banking fund management,no,  Revenue,-8.1
+GHL,1,2013,3/31/2013,Merchant banking fund management,no,  Revenue,-1.856
+GHL,2,2013,6/30/2013,Merchant banking fund management,no,  Revenue,3.624
+GHL,3,2013,9/30/2013,Merchant banking fund management,no,  Revenue,-2.44
+GHL,4,2013,12/31/2013,Merchant banking fund management,no,  Revenue,0.916
+GHL,1,2014,3/31/2014,Merchant banking fund management,no,  Revenue,-4.886
+GHL,2,2014,6/30/2014,Merchant banking fund management,no,  Revenue,-1
+GHL,3,2014,9/30/2014,Merchant banking fund management,no,  Revenue,0.324
+GHL,4,2014,12/31/2014,Merchant banking fund management,no,  Revenue,0.308
+GHL,1,2015,3/31/2015,Merchant banking fund management,no,  Revenue,-0.009
+GHL,2,2015,6/30/2015,Merchant banking fund management,no,  Revenue,0.38
+GHL,3,2015,9/30/2015,Merchant banking fund management,no,  Revenue,0.354
+GHL,4,2015,12/31/2015,Merchant banking fund management,no,  Revenue,0.6
+GHL,1,2016,3/31/2016,Merchant banking fund management,no,  Revenue,0.312
+GHL,2,2016,6/30/2016,Merchant banking fund management,no,  Revenue,0.22
+GHL,3,2016,9/30/2016,Merchant banking fund management,no,  Revenue,0.091
+GHL,4,2016,12/31/2016,Merchant banking fund management,no,  Revenue,0.109
+MC,4,2012,12/31/2012,Investment Banking,yes,  Revenue,—
+MC,4,2013,12/31/2013,Investment Banking,yes,  Revenue,—
+MC,1,2014,3/31/2014,Investment Banking,yes,  Revenue,—
+MC,4,2014,12/31/2014,Investment Banking,yes,  Revenue,—
+MC,1,2015,3/31/2015,Investment Banking,yes,  Revenue,—
+MC,4,2015,12/31/2015,Investment Banking,yes,  Revenue,—
+MC,3,2016,9/30/2016,Investment Banking,yes,  Revenue,150.676
+MC,4,2016,12/31/2016,Investment Banking,yes,  Revenue,204.608
+PJC,2,2008,6/30/2008,Capital Markets,no,  Net Revenues,—
+PJC,3,2008,9/30/2008,Capital Markets,no,  Net Revenues,—
+PJC,4,2008,12/31/2008,Capital Markets,no,  Net Revenues,—
+PJC,1,2009,3/31/2009,Capital Markets,no,  Net Revenues,—
+PJC,2,2009,6/30/2009,Capital Markets,no,  Net Revenues,—
+PJC,3,2009,9/30/2009,Capital Markets,no,  Net Revenues,—
+PJC,4,2009,12/31/2009,Capital Markets,no,  Net Revenues,—
+PJC,1,2010,3/31/2010,Capital Markets,no,  Net Revenues,100.432
+PJC,2,2010,6/30/2010,Capital Markets,no,  Net Revenues,111.985
+PJC,3,2010,9/30/2010,Capital Markets,no,  Net Revenues,99.415
+PJC,4,2010,12/31/2010,Capital Markets,no,  Net Revenues,151.035
+PJC,1,2011,3/31/2011,Capital Markets,no,  Net Revenues,106.58
+PJC,2,2011,6/30/2011,Capital Markets,no,  Net Revenues,116.265
+PJC,3,2011,9/30/2011,Capital Markets,no,  Net Revenues,80.708
+PJC,4,2011,12/31/2011,Capital Markets,no,  Net Revenues,77.337
+PJC,1,2012,3/31/2012,Capital Markets,no,  Net Revenues,96.795
+PJC,2,2012,6/30/2012,Capital Markets,no,  Net Revenues,87.586
+PJC,3,2012,9/30/2012,Capital Markets,no,  Net Revenues,115.249
+PJC,4,2012,12/31/2012,Capital Markets,no,  Net Revenues,124.707
+PJC,1,2013,3/31/2013,Capital Markets,no,  Net Revenues,91.209
+PJC,2,2013,6/30/2013,Capital Markets,no,  Net Revenues,81.809
+PJC,3,2013,9/30/2013,Capital Markets,no,  Net Revenues,110.263
+PJC,4,2013,12/31/2013,Capital Markets,no,  Net Revenues,159.945
+PJC,1,2014,3/31/2014,Capital Markets,no,  Net Revenues,148.441
+PJC,2,2014,6/30/2014,Capital Markets,no,  Net Revenues,143.378
+PJC,3,2014,9/30/2014,Capital Markets,no,  Net Revenues,139.47
+PJC,4,2014,12/31/2014,Capital Markets,no,  Net Revenues,131.821
+PJC,1,2015,3/31/2015,Capital Markets,no,  Net Revenues,142.167
+PJC,2,2015,6/30/2015,Capital Markets,no,  Net Revenues,146.881
+PJC,3,2015,9/30/2015,Capital Markets,no,  Net Revenues,130.156
+PJC,4,2015,12/31/2015,Capital Markets,no,  Net Revenues,183.063
+PJC,1,2016,3/31/2016,Capital Markets,no,  Net Revenues,141.649
+PJC,2,2016,6/30/2016,Capital Markets,no,  Net Revenues,156.739
+PJC,3,2016,9/30/2016,Capital Markets,no,  Net Revenues,186.483
+PJC,4,2016,12/31/2016,Capital Markets,no,  Net Revenues,207.433
+PJC,2,2008,6/30/2008,Asset Management,no,  Net Revenues,—
+PJC,3,2008,9/30/2008,Asset Management,no,  Net Revenues,—
+PJC,4,2008,12/31/2008,Asset Management,no,  Net Revenues,—
+PJC,1,2009,3/31/2009,Asset Management,no,  Net Revenues,—
+PJC,2,2009,6/30/2009,Asset Management,no,  Net Revenues,—
+PJC,3,2009,9/30/2009,Asset Management,no,  Net Revenues,—
+PJC,4,2009,12/31/2009,Asset Management,no,  Net Revenues,—
+PJC,1,2010,3/31/2010,Asset Management,no,  Net Revenues,9.154
+PJC,2,2010,6/30/2010,Asset Management,no,  Net Revenues,15.873
+PJC,3,2010,9/30/2010,Asset Management,no,  Net Revenues,17.048
+PJC,4,2010,12/31/2010,Asset Management,no,  Net Revenues,16.384
+PJC,1,2011,3/31/2011,Asset Management,no,  Net Revenues,18.2
+PJC,2,2011,6/30/2011,Asset Management,no,  Net Revenues,19.614
+PJC,3,2011,9/30/2011,Asset Management,no,  Net Revenues,14.459
+PJC,4,2011,12/31/2011,Asset Management,no,  Net Revenues,15.716
+PJC,1,2012,3/31/2012,Asset Management,no,  Net Revenues,16.643
+PJC,2,2012,6/30/2012,Asset Management,no,  Net Revenues,15.512
+PJC,3,2012,9/30/2012,Asset Management,no,  Net Revenues,16.256
+PJC,4,2012,12/31/2012,Asset Management,no,  Net Revenues,16.403
+PJC,1,2013,3/31/2013,Asset Management,no,  Net Revenues,18.324
+PJC,2,2013,6/30/2013,Asset Management,no,  Net Revenues,17.963
+PJC,3,2013,9/30/2013,Asset Management,no,  Net Revenues,18.051
+PJC,4,2013,12/31/2013,Asset Management,no,  Net Revenues,27.631
+PJC,1,2014,3/31/2014,Asset Management,no,  Net Revenues,19.692
+PJC,2,2014,6/30/2014,Asset Management,no,  Net Revenues,21.972
+PJC,3,2014,9/30/2014,Asset Management,no,  Net Revenues,19.956
+PJC,4,2014,12/31/2014,Asset Management,no,  Net Revenues,18.727
+PJC,1,2015,3/31/2015,Asset Management,no,  Net Revenues,19.704
+PJC,2,2015,6/30/2015,Asset Management,no,  Net Revenues,17.902
+PJC,3,2015,9/30/2015,Asset Management,no,  Net Revenues,11.957
+PJC,4,2015,12/31/2015,Asset Management,no,  Net Revenues,14.024
+PJC,1,2016,3/31/2016,Asset Management,no,  Net Revenues,11.907
+PJC,2,2016,6/30/2016,Asset Management,no,  Net Revenues,13.744
+PJC,3,2016,9/30/2016,Asset Management,no,  Net Revenues,14.364
+PJC,4,2016,12/31/2016,Asset Management,no,  Net Revenues,15.03
+PJC,2,2008,6/30/2008,Investment Banking,yes,  Net Revenues,35.258
+PJC,3,2008,9/30/2008,Investment Banking,yes,  Net Revenues,50.526
+PJC,4,2008,12/31/2008,Investment Banking,yes,  Net Revenues,25.496
+PJC,1,2009,3/31/2009,Investment Banking,yes,  Net Revenues,—
+PJC,2,2009,6/30/2009,Investment Banking,yes,  Net Revenues,—
+PJC,3,2009,9/30/2009,Investment Banking,yes,  Net Revenues,—
+PJC,4,2009,12/31/2009,Investment Banking,yes,  Net Revenues,—
+PJC,1,2010,3/31/2010,Investment Banking,yes,  Net Revenues,—
+PJC,2,2010,6/30/2010,Investment Banking,yes,  Net Revenues,—
+PJC,3,2010,9/30/2010,Investment Banking,yes,  Net Revenues,—
+PJC,4,2010,12/31/2010,Investment Banking,yes,  Net Revenues,—
+PJC,1,2011,3/31/2011,Investment Banking,yes,  Net Revenues,—
+PJC,2,2011,6/30/2011,Investment Banking,yes,  Net Revenues,—
+PJC,3,2011,9/30/2011,Investment Banking,yes,  Net Revenues,—
+PJC,4,2011,12/31/2011,Investment Banking,yes,  Net Revenues,—
+PJC,1,2012,3/31/2012,Investment Banking,yes,  Net Revenues,—
+PJC,2,2012,6/30/2012,Investment Banking,yes,  Net Revenues,—
+PJC,3,2012,9/30/2012,Investment Banking,yes,  Net Revenues,—
+PJC,4,2012,12/31/2012,Investment Banking,yes,  Net Revenues,—
+PJC,1,2013,3/31/2013,Investment Banking,yes,  Net Revenues,—
+PJC,2,2013,6/30/2013,Investment Banking,yes,  Net Revenues,—
+PJC,3,2013,9/30/2013,Investment Banking,yes,  Net Revenues,—
+PJC,4,2013,12/31/2013,Investment Banking,yes,  Net Revenues,—
+PJC,1,2014,3/31/2014,Investment Banking,yes,  Net Revenues,—
+PJC,2,2014,6/30/2014,Investment Banking,yes,  Net Revenues,—
+PJC,3,2014,9/30/2014,Investment Banking,yes,  Net Revenues,—
+PJC,4,2014,12/31/2014,Investment Banking,yes,  Net Revenues,—
+PJC,1,2015,3/31/2015,Investment Banking,yes,  Net Revenues,—
+PJC,2,2015,6/30/2015,Investment Banking,yes,  Net Revenues,—
+PJC,3,2015,9/30/2015,Investment Banking,yes,  Net Revenues,—
+PJC,4,2015,12/31/2015,Investment Banking,yes,  Net Revenues,—
+PJC,1,2016,3/31/2016,Investment Banking,yes,  Net Revenues,—
+PJC,2,2016,6/30/2016,Investment Banking,yes,  Net Revenues,—
+PJC,3,2016,9/30/2016,Investment Banking,yes,  Net Revenues,—
+PJC,4,2016,12/31/2016,Investment Banking,yes,  Net Revenues,—
+OPY,2,2009,6/30/2009,Private Client,yes,  Revenue,133.123
+OPY,3,2009,9/30/2009,Private Client,yes,  Revenue,147.169
+OPY,1,2010,3/31/2010,Private Client,yes,  Revenue,136.822
+OPY,2,2010,6/30/2010,Private Client,yes,  Revenue,146.191
+OPY,3,2010,9/30/2010,Private Client,yes,  Revenue,134.182
+OPY,4,2010,12/31/2010,Private Client,yes,  Revenue,167.368
+OPY,1,2011,3/31/2011,Private Client,yes,  Revenue,145.399
+OPY,2,2011,6/30/2011,Private Client,yes,  Revenue,136.092
+OPY,3,2011,9/30/2011,Private Client,yes,  Revenue,128.154
+OPY,4,2011,12/31/2011,Private Client,yes,  Revenue,126.353
+OPY,1,2012,3/31/2012,Private Client,yes,  Revenue,144.263
+OPY,3,2012,9/30/2012,Private Client,yes,  Revenue,132.847
+OPY,4,2012,12/31/2012,Private Client,yes,  Revenue,144.276
+OPY,1,2013,3/31/2013,Private Client,yes,  Revenue,143.369
+OPY,2,2013,6/30/2013,Private Client,yes,  Revenue,143.278
+OPY,3,2013,9/30/2013,Private Client,yes,  Revenue,144.316
+OPY,4,2013,12/31/2013,Private Client,yes,  Revenue,169.108
+OPY,1,2014,3/31/2014,Private Client,yes,  Revenue,147.82
+OPY,2,2014,6/30/2014,Private Client,yes,  Revenue,145.344
+OPY,3,2014,9/30/2014,Private Client,yes,  Revenue,142.606
+OPY,4,2014,12/31/2014,Private Client,yes,  Revenue,146.594
+OPY,1,2015,3/31/2015,Private Client,yes,  Revenue,139.932
+OPY,2,2015,6/30/2015,Private Client,yes,  Revenue,133.783
+OPY,3,2015,9/30/2015,Private Client,yes,  Revenue,122.324
+OPY,4,2015,12/31/2015,Private Client,yes,  Revenue,125.487
+OPY,1,2016,3/31/2016,Private Client,yes,  Revenue,127.544
+OPY,2,2016,6/30/2016,Private Client,yes,  Revenue,121.358
+OPY,3,2016,9/30/2016,Private Client,yes,  Revenue,127.835
+OPY,4,2016,12/31/2016,Private Client,yes,  Revenue,127.455
+OPY,2,2009,6/30/2009,Capital Markets,no,  Revenue,101.544
+OPY,3,2009,9/30/2009,Capital Markets,no,  Revenue,97.31
+OPY,1,2010,3/31/2010,Capital Markets,no,  Revenue,92.444
+OPY,2,2010,6/30/2010,Capital Markets,no,  Revenue,91.498
+OPY,3,2010,9/30/2010,Capital Markets,no,  Revenue,84.396
+OPY,4,2010,12/31/2010,Capital Markets,no,  Revenue,103.243
+OPY,1,2011,3/31/2011,Capital Markets,no,  Revenue,89.753
+OPY,2,2011,6/30/2011,Capital Markets,no,  Revenue,88.929
+OPY,3,2011,9/30/2011,Capital Markets,no,  Revenue,87.682
+OPY,4,2011,12/31/2011,Capital Markets,no,  Revenue,82.887
+OPY,1,2012,3/31/2012,Capital Markets,no,  Revenue,69.329
+OPY,3,2012,9/30/2012,Capital Markets,no,  Revenue,77.082
+OPY,4,2012,12/31/2012,Capital Markets,no,  Revenue,77.657
+OPY,1,2013,3/31/2013,Capital Markets,no,  Revenue,65.131
+OPY,2,2013,6/30/2013,Capital Markets,no,  Revenue,67.904
+OPY,3,2013,9/30/2013,Capital Markets,no,  Revenue,68.46
+OPY,4,2013,12/31/2013,Capital Markets,no,  Revenue,79.882
+OPY,1,2014,3/31/2014,Capital Markets,no,  Revenue,77.881
+OPY,2,2014,6/30/2014,Capital Markets,no,  Revenue,72.217
+OPY,3,2014,9/30/2014,Capital Markets,no,  Revenue,71.226
+OPY,4,2014,12/31/2014,Capital Markets,no,  Revenue,77.273
+OPY,1,2015,3/31/2015,Capital Markets,no,  Revenue,72.166
+OPY,2,2015,6/30/2015,Capital Markets,no,  Revenue,69.531
+OPY,3,2015,9/30/2015,Capital Markets,no,  Revenue,60.585
+OPY,4,2015,12/31/2015,Capital Markets,no,  Revenue,77.307
+OPY,1,2016,3/31/2016,Capital Markets,no,  Revenue,61.065
+OPY,2,2016,6/30/2016,Capital Markets,no,  Revenue,65.524
+OPY,3,2016,9/30/2016,Capital Markets,no,  Revenue,60.703
+OPY,4,2016,12/31/2016,Capital Markets,no,  Revenue,67.641
+OPY,2,2009,6/30/2009,Asset Management,no,  Revenue,12.659
+OPY,3,2009,9/30/2009,Asset Management,no,  Revenue,14.787
+OPY,1,2010,3/31/2010,Asset Management,no,  Revenue,16.909
+OPY,2,2010,6/30/2010,Asset Management,no,  Revenue,15.265
+OPY,3,2010,9/30/2010,Asset Management,no,  Revenue,16.565
+OPY,4,2010,12/31/2010,Asset Management,no,  Revenue,22.842
+OPY,1,2011,3/31/2011,Asset Management,no,  Revenue,18.265
+OPY,2,2011,6/30/2011,Asset Management,no,  Revenue,19.497
+OPY,3,2011,9/30/2011,Asset Management,no,  Revenue,15.783
+OPY,4,2011,12/31/2011,Asset Management,no,  Revenue,20.198
+OPY,1,2012,3/31/2012,Asset Management,no,  Revenue,19.044
+OPY,3,2012,9/30/2012,Asset Management,no,  Revenue,21.909
+OPY,4,2012,12/31/2012,Asset Management,no,  Revenue,27.482
+OPY,1,2013,3/31/2013,Asset Management,no,  Revenue,20.956
+OPY,2,2013,6/30/2013,Asset Management,no,  Revenue,22.006
+OPY,3,2013,9/30/2013,Asset Management,no,  Revenue,21.488
+OPY,4,2013,12/31/2013,Asset Management,no,  Revenue,37.764
+OPY,1,2014,3/31/2014,Asset Management,no,  Revenue,24.61
+OPY,2,2014,6/30/2014,Asset Management,no,  Revenue,6.958
+OPY,3,2014,9/30/2014,Asset Management,no,  Revenue,24.801
+OPY,4,2014,12/31/2014,Asset Management,no,  Revenue,25.521
+OPY,1,2015,3/31/2015,Asset Management,no,  Revenue,24.461
+OPY,2,2015,6/30/2015,Asset Management,no,  Revenue,25.344
+OPY,3,2015,9/30/2015,Asset Management,no,  Revenue,23.849
+OPY,4,2015,12/31/2015,Asset Management,no,  Revenue,23.467
+OPY,1,2016,3/31/2016,Asset Management,no,  Revenue,22.974
+OPY,2,2016,6/30/2016,Asset Management,no,  Revenue,22.77
+OPY,3,2016,9/30/2016,Asset Management,no,  Revenue,23.234
+OPY,4,2016,12/31/2016,Asset Management,no,  Revenue,23.874
+SF,2,2008,6/30/2008,Global Wealth Management,no,  Net Revenues,120.999
+SF,3,2008,9/30/2008,Global Wealth Management,no,  Net Revenues,113.976
+SF,4,2008,12/31/2008,Global Wealth Management,no,  Net Revenues,111.603
+SF,1,2009,3/31/2009,Global Wealth Management,no,  Net Revenues,114.164
+SF,2,2009,6/30/2009,Global Wealth Management,no,  Net Revenues,136.2
+SF,3,2009,9/30/2009,Global Wealth Management,no,  Net Revenues,157.145
+SF,4,2009,12/31/2009,Global Wealth Management,no,  Net Revenues,184.704
+SF,1,2010,3/31/2010,Global Wealth Management,no,  Net Revenues,199.421
+SF,2,2010,6/30/2010,Global Wealth Management,no,  Net Revenues,199.94
+SF,3,2010,9/30/2010,Global Wealth Management,no,  Net Revenues,207.484
+SF,4,2010,12/31/2010,Global Wealth Management,no,  Net Revenues,236.424
+SF,1,2011,3/31/2011,Global Wealth Management,no,  Net Revenues,238.446
+SF,2,2011,6/30/2011,Global Wealth Management,no,  Net Revenues,225.645
+SF,3,2011,9/30/2011,Global Wealth Management,no,  Net Revenues,219.498
+SF,4,2011,12/31/2011,Global Wealth Management,no,  Net Revenues,224.569
+SF,1,2012,3/31/2012,Global Wealth Management,no,  Net Revenues,248.348
+SF,2,2012,6/30/2012,Global Wealth Management,no,  Net Revenues,240.029
+SF,3,2012,9/30/2012,Global Wealth Management,no,  Net Revenues,250.914
+SF,4,2012,12/31/2012,Global Wealth Management,no,  Net Revenues,253.775
+SF,1,2013,3/31/2013,Global Wealth Management,no,  Net Revenues,266.957
+SF,2,2013,6/30/2013,Global Wealth Management,no,  Net Revenues,282.717
+SF,3,2013,9/30/2013,Global Wealth Management,no,  Net Revenues,274.669
+SF,4,2013,12/31/2013,Global Wealth Management,no,  Net Revenues,292.836
+SF,1,2014,3/31/2014,Global Wealth Management,no,  Net Revenues,297.183
+SF,2,2014,6/30/2014,Global Wealth Management,no,  Net Revenues,307.247
+SF,3,2014,9/30/2014,Global Wealth Management,no,  Net Revenues,317.241
+SF,4,2014,12/31/2014,Global Wealth Management,no,  Net Revenues,310.98
+SF,1,2015,3/31/2015,Global Wealth Management,no,  Net Revenues,329.41
+SF,2,2015,6/30/2015,Global Wealth Management,no,  Net Revenues,343.382
+SF,3,2015,9/30/2015,Global Wealth Management,no,  Net Revenues,357.306
+SF,4,2015,12/31/2015,Global Wealth Management,no,  Net Revenues,347.216
+SF,1,2016,3/31/2016,Global Wealth Management,no,  Net Revenues,379.805
+SF,2,2016,6/30/2016,Global Wealth Management,no,  Net Revenues,386.039
+SF,3,2016,9/30/2016,Global Wealth Management,no,  Net Revenues,390.032
+SF,4,2016,12/31/2016,Global Wealth Management,no,  Net Revenues,407.535
+SF,2,2008,6/30/2008,Institutional Group,yes,  Net Revenues,—
+SF,3,2008,9/30/2008,Institutional Group,yes,  Net Revenues,—
+SF,4,2008,12/31/2008,Institutional Group,yes,  Net Revenues,—
+SF,1,2009,3/31/2009,Institutional Group,yes,  Net Revenues,105.472
+SF,2,2009,6/30/2009,Institutional Group,yes,  Net Revenues,125.136
+SF,3,2009,9/30/2009,Institutional Group,yes,  Net Revenues,130.179
+SF,4,2009,12/31/2009,Institutional Group,yes,  Net Revenues,133.305
+SF,1,2010,3/31/2010,Institutional Group,yes,  Net Revenues,113.292
+SF,2,2010,6/30/2010,Institutional Group,yes,  Net Revenues,124.602
+SF,3,2010,9/30/2010,Institutional Group,yes,  Net Revenues,138.043
+SF,4,2010,12/31/2010,Institutional Group,yes,  Net Revenues,165.902
+SF,1,2011,3/31/2011,Institutional Group,yes,  Net Revenues,126.994
+SF,2,2011,6/30/2011,Institutional Group,yes,  Net Revenues,132.915
+SF,3,2011,9/30/2011,Institutional Group,yes,  Net Revenues,113.259
+SF,4,2011,12/31/2011,Institutional Group,yes,  Net Revenues,134.229
+SF,1,2012,3/31/2012,Institutional Group,yes,  Net Revenues,148.504
+SF,2,2012,6/30/2012,Institutional Group,yes,  Net Revenues,135.297
+SF,3,2012,9/30/2012,Institutional Group,yes,  Net Revenues,164.611
+SF,4,2012,12/31/2012,Institutional Group,yes,  Net Revenues,160.693
+SF,1,2013,3/31/2013,Institutional Group,yes,  Net Revenues,173.3
+SF,2,2013,6/30/2013,Institutional Group,yes,  Net Revenues,215.444
+SF,3,2013,9/30/2013,Institutional Group,yes,  Net Revenues,205.132
+SF,4,2013,12/31/2013,Institutional Group,yes,  Net Revenues,267.282
+SF,1,2014,3/31/2014,Institutional Group,yes,  Net Revenues,249.987
+SF,2,2014,6/30/2014,Institutional Group,yes,  Net Revenues,255.67
+SF,3,2014,9/30/2014,Institutional Group,yes,  Net Revenues,215.16
+SF,4,2014,12/31/2014,Institutional Group,yes,  Net Revenues,272.732
+SF,1,2015,3/31/2015,Institutional Group,yes,  Net Revenues,238.607
+SF,2,2015,6/30/2015,Institutional Group,yes,  Net Revenues,258.538
+SF,3,2015,9/30/2015,Institutional Group,yes,  Net Revenues,232.125
+SF,4,2015,12/31/2015,Institutional Group,yes,  Net Revenues,220.987
+SF,1,2016,3/31/2016,Institutional Group,yes,  Net Revenues,241.276
+SF,2,2016,6/30/2016,Institutional Group,yes,  Net Revenues,260.92
+SF,3,2016,9/30/2016,Institutional Group,yes,  Net Revenues,276.806
+SF,4,2016,12/31/2016,Institutional Group,yes,  Net Revenues,264.171
+PJT,4,2015,12/31/2015,Financial Advisory,yes,  Revenue,103.822
+PJT,1,2016,3/31/2016,Financial Advisory,yes,  Revenue,115.304
+PJT,2,2016,6/30/2016,Financial Advisory,yes,  Revenue,89.284
+PJT,3,2016,9/30/2016,Financial Advisory,yes,  Revenue,121.346
+PJT,4,2016,12/31/2016,Financial Advisory,yes,  Revenue,173.496
+GS,2,2008,5/30/2008,Investing and Lending,no,  Net Revenues,—
+GS,3,2008,8/29/2008,Investing and Lending,no,  Net Revenues,—
+GS,4,2008,11/28/2008,Investing and Lending,no,  Net Revenues,—
+GS,1,2009,3/27/2009,Investing and Lending,no,  Net Revenues,—
+GS,2,2009,6/26/2009,Investing and Lending,no,  Net Revenues,—
+GS,3,2009,9/25/2009,Investing and Lending,no,  Net Revenues,—
+GS,4,2009,12/31/2009,Investing and Lending,no,  Net Revenues,—
+GS,1,2010,3/31/2010,Investing and Lending,no,  Net Revenues,1970
+GS,2,2010,6/30/2010,Investing and Lending,no,  Net Revenues,1786
+GS,3,2010,9/30/2010,Investing and Lending,no,  Net Revenues,1797
+GS,4,2010,12/31/2010,Investing and Lending,no,  Net Revenues,1988
+GS,1,2011,3/31/2011,Investing and Lending,no,  Net Revenues,2705
+GS,2,2011,6/30/2011,Investing and Lending,no,  Net Revenues,1044
+GS,3,2011,9/30/2011,Investing and Lending,no,  Net Revenues,-2479
+GS,4,2011,12/31/2011,Investing and Lending,no,  Net Revenues,872
+GS,1,2012,3/31/2012,Investing and Lending,no,  Net Revenues,1911
+GS,2,2012,6/30/2012,Investing and Lending,no,  Net Revenues,203
+GS,3,2012,9/30/2012,Investing and Lending,no,  Net Revenues,1804
+GS,4,2012,12/31/2012,Investing and Lending,no,  Net Revenues,1973
+GS,1,2013,3/31/2013,Investing and Lending,no,  Net Revenues,2068
+GS,2,2013,6/30/2013,Investing and Lending,no,  Net Revenues,1415
+GS,3,2013,9/30/2013,Investing and Lending,no,  Net Revenues,1475
+GS,4,2013,12/31/2013,Investing and Lending,no,  Net Revenues,2060
+GS,1,2014,3/31/2014,Investing and Lending,no,  Net Revenues,1529
+GS,2,2014,6/30/2014,Investing and Lending,no,  Net Revenues,2072
+GS,3,2014,9/30/2014,Investing and Lending,no,  Net Revenues,1692
+GS,4,2014,12/31/2014,Investing and Lending,no,  Net Revenues,1532
+GS,1,2015,3/31/2015,Investing and Lending,no,  Net Revenues,1669
+GS,2,2015,6/30/2015,Investing and Lending,no,  Net Revenues,1801
+GS,3,2015,9/30/2015,Investing and Lending,no,  Net Revenues,670
+GS,4,2015,12/31/2015,Investing and Lending,no,  Net Revenues,1296
+GS,1,2016,3/31/2016,Investing and Lending,no,  Net Revenues,87
+GS,2,2016,6/30/2016,Investing and Lending,no,  Net Revenues,1111
+GS,3,2016,9/30/2016,Investing and Lending,no,  Net Revenues,1398
+GS,4,2016,12/31/2016,Investing and Lending,no,  Net Revenues,1484
+GS,2,2008,5/30/2008,Institutional Client Services,no,  Net Revenues,—
+GS,3,2008,8/29/2008,Institutional Client Services,no,  Net Revenues,—
+GS,4,2008,11/28/2008,Institutional Client Services,no,  Net Revenues,—
+GS,1,2009,3/27/2009,Institutional Client Services,no,  Net Revenues,—
+GS,2,2009,6/26/2009,Institutional Client Services,no,  Net Revenues,—
+GS,3,2009,9/25/2009,Institutional Client Services,no,  Net Revenues,—
+GS,4,2009,12/31/2009,Institutional Client Services,no,  Net Revenues,—
+GS,1,2010,3/31/2010,Institutional Client Services,no,  Net Revenues,8507
+GS,2,2010,6/30/2010,Institutional Client Services,no,  Net Revenues,4981
+GS,3,2010,9/30/2010,Institutional Client Services,no,  Net Revenues,4669
+GS,4,2010,12/31/2010,Institutional Client Services,no,  Net Revenues,3639
+GS,1,2011,3/31/2011,Institutional Client Services,no,  Net Revenues,6647
+GS,2,2011,6/30/2011,Institutional Client Services,no,  Net Revenues,3515
+GS,3,2011,9/30/2011,Institutional Client Services,no,  Net Revenues,4062
+GS,4,2011,12/31/2011,Institutional Client Services,no,  Net Revenues,3056
+GS,1,2012,3/31/2012,Institutional Client Services,no,  Net Revenues,5709
+GS,2,2012,6/30/2012,Institutional Client Services,no,  Net Revenues,3889
+GS,3,2012,9/30/2012,Institutional Client Services,no,  Net Revenues,4184
+GS,4,2012,12/31/2012,Institutional Client Services,no,  Net Revenues,4342
+GS,1,2013,3/31/2013,Institutional Client Services,no,  Net Revenues,5139
+GS,2,2013,6/30/2013,Institutional Client Services,no,  Net Revenues,4313
+GS,3,2013,9/30/2013,Institutional Client Services,no,  Net Revenues,2863
+GS,4,2013,12/31/2013,Institutional Client Services,no,  Net Revenues,3406
+GS,1,2014,3/31/2014,Institutional Client Services,no,  Net Revenues,4446
+GS,2,2014,6/30/2014,Institutional Client Services,no,  Net Revenues,3830
+GS,3,2014,9/30/2014,Institutional Client Services,no,  Net Revenues,3772
+GS,4,2014,12/31/2014,Institutional Client Services,no,  Net Revenues,3149
+GS,1,2015,3/31/2015,Institutional Client Services,no,  Net Revenues,5459
+GS,2,2015,6/30/2015,Institutional Client Services,no,  Net Revenues,3601
+GS,3,2015,9/30/2015,Institutional Client Services,no,  Net Revenues,3213
+GS,4,2015,12/31/2015,Institutional Client Services,no,  Net Revenues,2878
+GS,1,2016,3/31/2016,Institutional Client Services,no,  Net Revenues,3443
+GS,2,2016,6/30/2016,Institutional Client Services,no,  Net Revenues,3681
+GS,3,2016,9/30/2016,Institutional Client Services,no,  Net Revenues,3748
+GS,4,2016,12/31/2016,Institutional Client Services,no,  Net Revenues,3595
+GS,2,2008,5/30/2008,Investment Banking,yes,  Net Revenues,1685
+GS,3,2008,8/29/2008,Investment Banking,yes,  Net Revenues,1294
+GS,4,2008,11/28/2008,Investment Banking,yes,  Net Revenues,1034
+GS,1,2009,3/27/2009,Investment Banking,yes,  Net Revenues,823
+GS,2,2009,6/26/2009,Investment Banking,yes,  Net Revenues,1440
+GS,3,2009,9/25/2009,Investment Banking,yes,  Net Revenues,899
+GS,4,2009,12/31/2009,Investment Banking,yes,  Net Revenues,1635
+GS,1,2010,3/31/2010,Investment Banking,yes,  Net Revenues,1203
+GS,2,2010,6/30/2010,Investment Banking,yes,  Net Revenues,941
+GS,3,2010,9/30/2010,Investment Banking,yes,  Net Revenues,1159
+GS,4,2010,12/31/2010,Investment Banking,yes,  Net Revenues,1507
+GS,1,2011,3/31/2011,Investment Banking,yes,  Net Revenues,1269
+GS,2,2011,6/30/2011,Investment Banking,yes,  Net Revenues,1448
+GS,3,2011,9/30/2011,Investment Banking,yes,  Net Revenues,781
+GS,4,2011,12/31/2011,Investment Banking,yes,  Net Revenues,857
+GS,1,2012,3/31/2012,Investment Banking,yes,  Net Revenues,1154
+GS,2,2012,6/30/2012,Investment Banking,yes,  Net Revenues,1203
+GS,3,2012,9/30/2012,Investment Banking,yes,  Net Revenues,1164
+GS,4,2012,12/31/2012,Investment Banking,yes,  Net Revenues,1405
+GS,1,2013,3/31/2013,Investment Banking,yes,  Net Revenues,1568
+GS,2,2013,6/30/2013,Investment Banking,yes,  Net Revenues,1552
+GS,3,2013,9/30/2013,Investment Banking,yes,  Net Revenues,1166
+GS,4,2013,12/31/2013,Investment Banking,yes,  Net Revenues,1718
+GS,1,2014,3/31/2014,Investment Banking,yes,  Net Revenues,1779
+GS,2,2014,6/30/2014,Investment Banking,yes,  Net Revenues,1781
+GS,3,2014,9/30/2014,Investment Banking,yes,  Net Revenues,1464
+GS,4,2014,12/31/2014,Investment Banking,yes,  Net Revenues,1440
+GS,1,2015,3/31/2015,Investment Banking,yes,  Net Revenues,1905
+GS,2,2015,6/30/2015,Investment Banking,yes,  Net Revenues,2019
+GS,3,2015,9/30/2015,Investment Banking,yes,  Net Revenues,1556
+GS,4,2015,12/31/2015,Investment Banking,yes,  Net Revenues,1547
+GS,1,2016,3/31/2016,Investment Banking,yes,  Net Revenues,1463
+GS,2,2016,6/30/2016,Investment Banking,yes,  Net Revenues,1787
+GS,3,2016,9/30/2016,Investment Banking,yes,  Net Revenues,1537
+GS,4,2016,12/31/2016,Investment Banking,yes,  Net Revenues,1486
+GS,2,2008,5/30/2008,Investment Management,no,  Net Revenues,—
+GS,3,2008,8/29/2008,Investment Management,no,  Net Revenues,—
+GS,4,2008,11/28/2008,Investment Management,no,  Net Revenues,—
+GS,1,2009,3/27/2009,Investment Management,no,  Net Revenues,—
+GS,2,2009,6/26/2009,Investment Management,no,  Net Revenues,—
+GS,3,2009,9/25/2009,Investment Management,no,  Net Revenues,—
+GS,4,2009,12/31/2009,Investment Management,no,  Net Revenues,—
+GS,1,2010,3/31/2010,Investment Management,no,  Net Revenues,1095
+GS,2,2010,6/30/2010,Investment Management,no,  Net Revenues,1133
+GS,3,2010,9/30/2010,Investment Management,no,  Net Revenues,1278
+GS,4,2010,12/31/2010,Investment Management,no,  Net Revenues,1508
+GS,1,2011,3/31/2011,Investment Management,no,  Net Revenues,1273
+GS,2,2011,6/30/2011,Investment Management,no,  Net Revenues,1274
+GS,3,2011,9/30/2011,Investment Management,no,  Net Revenues,1223
+GS,4,2011,12/31/2011,Investment Management,no,  Net Revenues,1264
+GS,1,2012,3/31/2012,Investment Management,no,  Net Revenues,1175
+GS,2,2012,6/30/2012,Investment Management,no,  Net Revenues,1332
+GS,3,2012,9/30/2012,Investment Management,no,  Net Revenues,1199
+GS,4,2012,12/31/2012,Investment Management,no,  Net Revenues,1516
+GS,1,2013,3/31/2013,Investment Management,no,  Net Revenues,1315
+GS,2,2013,6/30/2013,Investment Management,no,  Net Revenues,1332
+GS,3,2013,9/30/2013,Investment Management,no,  Net Revenues,1218
+GS,4,2013,12/31/2013,Investment Management,no,  Net Revenues,1598
+GS,1,2014,3/31/2014,Investment Management,no,  Net Revenues,1574
+GS,2,2014,6/30/2014,Investment Management,no,  Net Revenues,1442
+GS,3,2014,9/30/2014,Investment Management,no,  Net Revenues,1459
+GS,4,2014,12/31/2014,Investment Management,no,  Net Revenues,1567
+GS,1,2015,3/31/2015,Investment Management,no,  Net Revenues,1584
+GS,2,2015,6/30/2015,Investment Management,no,  Net Revenues,1648
+GS,3,2015,9/30/2015,Investment Management,no,  Net Revenues,1422
+GS,4,2015,12/31/2015,Investment Management,no,  Net Revenues,1552
+GS,1,2016,3/31/2016,Investment Management,no,  Net Revenues,1345
+GS,2,2016,6/30/2016,Investment Management,no,  Net Revenues,1353
+GS,3,2016,9/30/2016,Investment Management,no,  Net Revenues,1485
+GS,4,2016,12/31/2016,Investment Management,no,  Net Revenues,1605
+JPM,2,2008,6/30/2008,Asset Management,no,  Net Revenues,2064
+JPM,3,2008,9/30/2008,Asset Management,no,  Net Revenues,1961
+JPM,4,2008,12/31/2008,Asset Management,no,  Net Revenues,1658
+JPM,1,2009,3/31/2009,Asset Management,no,  Net Revenues,1703
+JPM,2,2009,6/30/2009,Asset Management,no,  Net Revenues,1982
+JPM,3,2009,9/30/2009,Asset Management,no,  Net Revenues,2085
+JPM,4,2009,12/31/2009,Asset Management,no,  Net Revenues,2195
+JPM,1,2010,3/31/2010,Asset Management,no,  Net Revenues,2131
+JPM,2,2010,6/30/2010,Asset Management,no,  Net Revenues,2068
+JPM,3,2010,9/30/2010,Asset Management,no,  Net Revenues,2172
+JPM,4,2010,12/31/2010,Asset Management,no,  Net Revenues,2613
+JPM,1,2011,3/31/2011,Asset Management,no,  Net Revenues,2406
+JPM,2,2011,6/30/2011,Asset Management,no,  Net Revenues,2537
+JPM,3,2011,9/30/2011,Asset Management,no,  Net Revenues,2316
+JPM,4,2011,12/31/2011,Asset Management,no,  Net Revenues,2284
+JPM,1,2012,3/31/2012,Asset Management,no,  Net Revenues,2370
+JPM,2,2012,6/30/2012,Asset Management,no,  Net Revenues,2364
+JPM,3,2012,9/30/2012,Asset Management,no,  Net Revenues,2459
+JPM,4,2012,12/31/2012,Asset Management,no,  Net Revenues,2753
+JPM,1,2013,3/31/2013,Asset Management,no,  Net Revenues,2653
+JPM,2,2013,6/30/2013,Asset Management,no,  Net Revenues,2725
+JPM,3,2013,9/30/2013,Asset Management,no,  Net Revenues,2763
+JPM,4,2013,12/31/2013,Asset Management,no,  Net Revenues,3179
+JPM,1,2014,3/31/2014,Asset Management,no,  Net Revenues,2800
+JPM,2,2014,6/30/2014,Asset Management,no,  Net Revenues,2982
+JPM,3,2014,9/30/2014,Asset Management,no,  Net Revenues,3046
+JPM,4,2014,12/31/2014,Asset Management,no,  Net Revenues,3200
+JPM,1,2015,3/31/2015,Asset Management,no,  Net Revenues,3005
+JPM,2,2015,6/30/2015,Asset Management,no,  Net Revenues,3175
+JPM,3,2015,9/30/2015,Asset Management,no,  Net Revenues,2894
+JPM,4,2015,12/31/2015,Asset Management,no,  Net Revenues,3045
+JPM,1,2016,3/31/2016,Asset Management,no,  Net Revenues,2972
+JPM,2,2016,6/30/2016,Asset Management,no,  Net Revenues,2939
+JPM,3,2016,9/30/2016,Asset Management,no,  Net Revenues,3047
+JPM,4,2016,12/31/2016,Asset Management,no,  Net Revenues,3087
+JPM,2,2008,6/30/2008,Investment Bank,yes,  Net Revenues,5470
+JPM,3,2008,9/30/2008,Investment Bank,yes,  Net Revenues,4035
+JPM,4,2008,12/31/2008,Investment Bank,yes,  Net Revenues,-302
+JPM,1,2009,3/31/2009,Investment Bank,yes,  Net Revenues,8341
+JPM,2,2009,6/30/2009,Investment Bank,yes,  Net Revenues,7301
+JPM,3,2009,9/30/2009,Investment Bank,yes,  Net Revenues,7508
+JPM,4,2009,12/31/2009,Investment Bank,yes,  Net Revenues,4929
+JPM,1,2010,3/31/2010,Investment Bank,yes,  Net Revenues,8319
+JPM,2,2010,6/30/2010,Investment Bank,yes,  Net Revenues,6332
+JPM,3,2010,9/30/2010,Investment Bank,yes,  Net Revenues,5353
+JPM,4,2010,12/31/2010,Investment Bank,yes,  Net Revenues,6213
+JPM,1,2011,3/31/2011,Investment Bank,yes,  Net Revenues,8233
+JPM,2,2011,6/30/2011,Investment Bank,yes,  Net Revenues,7314
+JPM,3,2011,9/30/2011,Investment Bank,yes,  Net Revenues,6369
+JPM,4,2011,12/31/2011,Investment Bank,yes,  Net Revenues,4358
+JPM,1,2012,3/31/2012,Investment Bank,yes,  Net Revenues,—
+JPM,2,2012,6/30/2012,Investment Bank,yes,  Net Revenues,—
+JPM,3,2012,9/30/2012,Investment Bank,yes,  Net Revenues,—
+JPM,4,2012,12/31/2012,Investment Bank,yes,  Net Revenues,—
+JPM,1,2013,3/31/2013,Investment Bank,yes,  Net Revenues,—
+JPM,2,2013,6/30/2013,Investment Bank,yes,  Net Revenues,—
+JPM,3,2013,9/30/2013,Investment Bank,yes,  Net Revenues,—
+JPM,4,2013,12/31/2013,Investment Bank,yes,  Net Revenues,—
+JPM,1,2014,3/31/2014,Investment Bank,yes,  Net Revenues,—
+JPM,2,2014,6/30/2014,Investment Bank,yes,  Net Revenues,—
+JPM,3,2014,9/30/2014,Investment Bank,yes,  Net Revenues,—
+JPM,4,2014,12/31/2014,Investment Bank,yes,  Net Revenues,—
+JPM,1,2015,3/31/2015,Investment Bank,yes,  Net Revenues,—
+JPM,2,2015,6/30/2015,Investment Bank,yes,  Net Revenues,—
+JPM,3,2015,9/30/2015,Investment Bank,yes,  Net Revenues,—
+JPM,4,2015,12/31/2015,Investment Bank,yes,  Net Revenues,—
+JPM,1,2016,3/31/2016,Investment Bank,yes,  Net Revenues,—
+JPM,2,2016,6/30/2016,Investment Bank,yes,  Net Revenues,—
+JPM,3,2016,9/30/2016,Investment Bank,yes,  Net Revenues,—
+JPM,4,2016,12/31/2016,Investment Bank,yes,  Net Revenues,—
+JPM,2,2008,6/30/2008,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,3,2008,9/30/2008,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,4,2008,12/31/2008,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,1,2009,3/31/2009,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,2,2009,6/30/2009,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,3,2009,9/30/2009,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,4,2009,12/31/2009,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,1,2010,3/31/2010,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,2,2010,6/30/2010,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,3,2010,9/30/2010,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,4,2010,12/31/2010,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,1,2011,3/31/2011,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,2,2011,6/30/2011,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,3,2011,9/30/2011,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,4,2011,12/31/2011,Corporate & Investment Bank,no,  Net Revenues,—
+JPM,1,2012,3/31/2012,Corporate & Investment Bank,no,  Net Revenues,9557
+JPM,2,2012,6/30/2012,Corporate & Investment Bank,no,  Net Revenues,8847
+JPM,3,2012,9/30/2012,Corporate & Investment Bank,no,  Net Revenues,8348
+JPM,4,2012,12/31/2012,Corporate & Investment Bank,no,  Net Revenues,7642
+JPM,1,2013,3/31/2013,Corporate & Investment Bank,no,  Net Revenues,10140
+JPM,2,2013,6/30/2013,Corporate & Investment Bank,no,  Net Revenues,9876
+JPM,3,2013,9/30/2013,Corporate & Investment Bank,no,  Net Revenues,8189
+JPM,4,2013,12/31/2013,Corporate & Investment Bank,no,  Net Revenues,6020
+JPM,1,2014,3/31/2014,Corporate & Investment Bank,no,  Net Revenues,8842
+JPM,2,2014,6/30/2014,Corporate & Investment Bank,no,  Net Revenues,9265
+JPM,3,2014,9/30/2014,Corporate & Investment Bank,no,  Net Revenues,9105
+JPM,4,2014,12/31/2014,Corporate & Investment Bank,no,  Net Revenues,7383
+JPM,1,2015,3/31/2015,Corporate & Investment Bank,no,  Net Revenues,9582
+JPM,2,2015,6/30/2015,Corporate & Investment Bank,no,  Net Revenues,8723
+JPM,3,2015,9/30/2015,Corporate & Investment Bank,no,  Net Revenues,8168
+JPM,4,2015,12/31/2015,Corporate & Investment Bank,no,  Net Revenues,7069
+JPM,1,2016,3/31/2016,Corporate & Investment Bank,no,  Net Revenues,8135
+JPM,2,2016,6/30/2016,Corporate & Investment Bank,no,  Net Revenues,9165
+JPM,3,2016,9/30/2016,Corporate & Investment Bank,no,  Net Revenues,9455
+JPM,4,2016,12/31/2016,Corporate & Investment Bank,no,  Net Revenues,8461
+MS,2,2008,5/31/2008,Investment Management,no,  Net Revenues,488
+MS,3,2008,8/31/2008,Investment Management,no,  Net Revenues,647
+MS,4,2008,11/30/2008,Investment Management,no,  Net Revenues,-386
+MS,1,2009,3/31/2009,Investment Management,no,  Net Revenues,22
+MS,2,2009,6/30/2009,Investment Management,no,  Net Revenues,575
+MS,3,2009,9/30/2009,Investment Management,no,  Net Revenues,698
+MS,4,2009,12/31/2009,Investment Management,no,  Net Revenues,510
+MS,1,2010,3/31/2010,Investment Management,no,  Net Revenues,653
+MS,2,2010,6/30/2010,Investment Management,no,  Net Revenues,410
+MS,3,2010,9/30/2010,Investment Management,no,  Net Revenues,802
+MS,4,2010,12/31/2010,Investment Management,no,  Net Revenues,846
+MS,1,2011,3/31/2011,Investment Management,no,  Net Revenues,622
+MS,2,2011,6/30/2011,Investment Management,no,  Net Revenues,636
+MS,3,2011,9/30/2011,Investment Management,no,  Net Revenues,205
+MS,4,2011,12/31/2011,Investment Management,no,  Net Revenues,424
+MS,1,2012,3/31/2012,Investment Management,no,  Net Revenues,533
+MS,2,2012,6/30/2012,Investment Management,no,  Net Revenues,456
+MS,3,2012,9/30/2012,Investment Management,no,  Net Revenues,631
+MS,4,2012,12/31/2012,Investment Management,no,  Net Revenues,599
+MS,1,2013,3/31/2013,Investment Management,no,  Net Revenues,645
+MS,2,2013,6/30/2013,Investment Management,no,  Net Revenues,673
+MS,3,2013,9/30/2013,Investment Management,no,  Net Revenues,828
+MS,4,2013,12/31/2013,Investment Management,no,  Net Revenues,858
+MS,1,2014,3/31/2014,Investment Management,no,  Net Revenues,752
+MS,2,2014,6/30/2014,Investment Management,no,  Net Revenues,692
+MS,3,2014,9/30/2014,Investment Management,no,  Net Revenues,655
+MS,4,2014,12/31/2014,Investment Management,no,  Net Revenues,588
+MS,1,2015,3/31/2015,Investment Management,no,  Net Revenues,669
+MS,2,2015,6/30/2015,Investment Management,no,  Net Revenues,751
+MS,3,2015,9/30/2015,Investment Management,no,  Net Revenues,274
+MS,4,2015,12/31/2015,Investment Management,no,  Net Revenues,621
+MS,1,2016,3/31/2016,Investment Management,no,  Net Revenues,477
+MS,2,2016,6/30/2016,Investment Management,no,  Net Revenues,583
+MS,3,2016,9/30/2016,Investment Management,no,  Net Revenues,552
+MS,4,2016,12/31/2016,Investment Management,no,  Net Revenues,500
+MS,2,2008,5/31/2008,Institutional Securities,yes,  Net Revenues,3625
+MS,3,2008,8/31/2008,Institutional Securities,yes,  Net Revenues,5911
+MS,4,2008,11/30/2008,Institutional Securities,yes,  Net Revenues,844
+MS,1,2009,3/31/2009,Institutional Securities,yes,  Net Revenues,1601
+MS,2,2009,6/30/2009,Institutional Securities,yes,  Net Revenues,2964
+MS,3,2009,9/30/2009,Institutional Securities,yes,  Net Revenues,4974
+MS,4,2009,12/31/2009,Institutional Securities,yes,  Net Revenues,3231
+MS,1,2010,3/31/2010,Institutional Securities,yes,  Net Revenues,4706
+MS,2,2010,6/30/2010,Institutional Securities,yes,  Net Revenues,4515
+MS,3,2010,9/30/2010,Institutional Securities,yes,  Net Revenues,2895
+MS,4,2010,12/31/2010,Institutional Securities,yes,  Net Revenues,3566
+MS,1,2011,3/31/2011,Institutional Securities,yes,  Net Revenues,3568
+MS,2,2011,6/30/2011,Institutional Securities,yes,  Net Revenues,5159
+MS,3,2011,9/30/2011,Institutional Securities,yes,  Net Revenues,6411
+MS,4,2011,12/31/2011,Institutional Securities,yes,  Net Revenues,2068
+MS,1,2012,3/31/2012,Institutional Securities,yes,  Net Revenues,3135
+MS,2,2012,6/30/2012,Institutional Securities,yes,  Net Revenues,3332
+MS,3,2012,9/30/2012,Institutional Securities,yes,  Net Revenues,1481
+MS,4,2012,12/31/2012,Institutional Securities,yes,  Net Revenues,3084
+MS,1,2013,3/31/2013,Institutional Securities,yes,  Net Revenues,4081
+MS,2,2013,6/30/2013,Institutional Securities,yes,  Net Revenues,4358
+MS,3,2013,9/30/2013,Institutional Securities,yes,  Net Revenues,3710
+MS,4,2013,12/31/2013,Institutional Securities,yes,  Net Revenues,3343
+MS,1,2014,3/31/2014,Institutional Securities,yes,  Net Revenues,4677
+MS,2,2014,6/30/2014,Institutional Securities,yes,  Net Revenues,4248
+MS,3,2014,9/30/2014,Institutional Securities,yes,  Net Revenues,4516
+MS,4,2014,12/31/2014,Institutional Securities,yes,  Net Revenues,3430
+MS,1,2015,3/31/2015,Institutional Securities,yes,  Net Revenues,5458
+MS,2,2015,6/30/2015,Institutional Securities,yes,  Net Revenues,5172
+MS,3,2015,9/30/2015,Institutional Securities,yes,  Net Revenues,3904
+MS,4,2015,12/31/2015,Institutional Securities,yes,  Net Revenues,3419
+MS,1,2016,3/31/2016,Institutional Securities,yes,  Net Revenues,3714
+MS,2,2016,6/30/2016,Institutional Securities,yes,  Net Revenues,4578
+MS,3,2016,9/30/2016,Institutional Securities,yes,  Net Revenues,4553
+MS,4,2016,12/31/2016,Institutional Securities,yes,  Net Revenues,4614
+UBS,2,2008,6/30/2008,Investment Bank,yes,  Net Revenues,-2231.517803
+UBS,3,2008,9/30/2008,Investment Bank,yes,  Net Revenues,-705.3359572
+UBS,4,2008,12/31/2008,Investment Bank,yes,  Net Revenues,—
+UBS,1,2009,3/31/2009,Investment Bank,yes,  Net Revenues,-576.334036
+UBS,2,2009,6/30/2009,Investment Bank,yes,  Net Revenues,480.7244941
+UBS,3,2009,9/30/2009,Investment Bank,yes,  Net Revenues,1097.261925
+UBS,4,2009,12/31/2009,Investment Bank,yes,  Net Revenues,2177.734611
+UBS,1,2010,3/31/2010,Investment Bank,yes,  Net Revenues,3679.321577
+UBS,2,2010,6/30/2010,Investment Bank,yes,  Net Revenues,3704.640571
+UBS,3,2010,9/30/2010,Investment Bank,yes,  Net Revenues,1787.071124
+UBS,4,2010,12/31/2010,Investment Bank,yes,  Net Revenues,2237.390859
+UBS,1,2011,3/31/2011,Investment Bank,yes,  Net Revenues,3663.559221
+UBS,2,2011,6/30/2011,Investment Bank,yes,  Net Revenues,2997.489945
+UBS,3,2011,9/30/2011,Investment Bank,yes,  Net Revenues,4292.296366
+UBS,4,2011,12/31/2011,Investment Bank,yes,  Net Revenues,2139.492519
+UBS,1,2012,3/31/2012,Investment Bank,yes,  Net Revenues,2494.280418
+UBS,2,2012,6/30/2012,Investment Bank,yes,  Net Revenues,1504.878322
+UBS,3,2012,9/30/2012,Investment Bank,yes,  Net Revenues,1903.077979
+UBS,4,2012,12/31/2012,Investment Bank,yes,  Net Revenues,1726.363068
+UBS,1,2013,3/31/2013,Investment Bank,yes,  Net Revenues,2990.795606
+UBS,2,2013,6/30/2013,Investment Bank,yes,  Net Revenues,2387.883914
+UBS,3,2013,9/30/2013,Investment Bank,yes,  Net Revenues,1831.086869
+UBS,4,2013,12/31/2013,Investment Bank,yes,  Net Revenues,2144.398575
+UBS,1,2014,3/31/2014,Investment Bank,yes,  Net Revenues,2453.428398
+UBS,2,2014,6/30/2014,Investment Bank,yes,  Net Revenues,2551.204825
+UBS,3,2014,9/30/2014,Investment Bank,yes,  Net Revenues,2101.329322
+UBS,4,2014,12/31/2014,Investment Bank,yes,  Net Revenues,2000.011318
+UBS,1,2015,3/31/2015,Investment Bank,yes,  Net Revenues,2799.055565
+UBS,2,2015,6/30/2015,Investment Bank,yes,  Net Revenues,2502.056311
+UBS,3,2015,9/30/2015,Investment Bank,yes,  Net Revenues,2164.265001
+UBS,4,2015,12/31/2015,Investment Bank,yes,  Net Revenues,1737.584292
+UBS,1,2016,3/31/2016,Investment Bank,yes,  Net Revenues,1892.506792
+UBS,2,2016,6/30/2016,Investment Bank,yes,  Net Revenues,2061.144575
+UBS,3,2016,9/30/2016,Investment Bank,yes,  Net Revenues,1841.952678
+UBS,4,2016,12/31/2016,Investment Bank,yes,  Net Revenues,2010.540218
+UBS,2,2008,6/30/2008,Global Asset Management,no,  Net Revenues,783.2608101
+UBS,3,2008,9/30/2008,Global Asset Management,no,  Net Revenues,771.5778262
+UBS,4,2008,12/31/2008,Global Asset Management,no,  Net Revenues,—
+UBS,1,2009,3/31/2009,Global Asset Management,no,  Net Revenues,437.6999789
+UBS,2,2009,6/30/2009,Global Asset Management,no,  Net Revenues,478.0237947
+UBS,3,2009,9/30/2009,Global Asset Management,no,  Net Revenues,534.0321985
+UBS,4,2009,12/31/2009,Global Asset Management,no,  Net Revenues,-485.4635357
+UBS,1,2010,3/31/2010,Global Asset Management,no,  Net Revenues,492.9098847
+UBS,2,2010,6/30/2010,Global Asset Management,no,  Net Revenues,471.5489827
+UBS,3,2010,9/30/2010,Global Asset Management,no,  Net Revenues,459.8652079
+UBS,4,2010,12/31/2010,Global Asset Management,no,  Net Revenues,555.7522748
+UBS,1,2011,3/31/2011,Global Asset Management,no,  Net Revenues,527.4674525
+UBS,2,2011,6/30/2011,Global Asset Management,no,  Net Revenues,510.8965587
+UBS,3,2011,9/30/2011,Global Asset Management,no,  Net Revenues,485.3007225
+UBS,4,2011,12/31/2011,Global Asset Management,no,  Net Revenues,508.5678938
+UBS,1,2012,3/31/2012,Global Asset Management,no,  Net Revenues,517.9676794
+UBS,2,2012,6/30/2012,Global Asset Management,no,  Net Revenues,477.4170406
+UBS,3,2012,9/30/2012,Global Asset Management,no,  Net Revenues,486.4229897
+UBS,4,2012,12/31/2012,Global Asset Management,no,  Net Revenues,527.4699854
+UBS,1,2013,3/31/2013,Global Asset Management,no,  Net Revenues,555.802059
+UBS,2,2013,6/30/2013,Global Asset Management,no,  Net Revenues,518.9667705
+UBS,3,2013,9/30/2013,Global Asset Management,no,  Net Revenues,479.7748127
+UBS,4,2013,12/31/2013,Global Asset Management,no,  Net Revenues,541.6378632
+UBS,1,2014,3/31/2014,Global Asset Management,no,  Net Revenues,505.2494098
+UBS,2,2014,6/30/2014,Global Asset Management,no,  Net Revenues,523.0644813
+UBS,3,2014,9/30/2014,Global Asset Management,no,  Net Revenues,534.9037161
+UBS,4,2014,12/31/2014,Global Asset Management,no,  Net Revenues,515.295814
+UBS,1,2015,3/31/2015,Global Asset Management,no,  Net Revenues,536.7044629
+UBS,2,2015,6/30/2015,Global Asset Management,no,  Net Revenues,505.7234836
+UBS,3,2015,9/30/2015,Global Asset Management,no,  Net Revenues,520.3357426
+UBS,4,2015,12/31/2015,Global Asset Management,no,  Net Revenues,573.4734908
+UBS,1,2016,3/31/2016,Global Asset Management,no,  Net Revenues,472.3713068
+UBS,2,2016,6/30/2016,Global Asset Management,no,  Net Revenues,497.7664148
+UBS,3,2016,9/30/2016,Global Asset Management,no,  Net Revenues,493.0324085
+UBS,4,2016,12/31/2016,Global Asset Management,no,  Net Revenues,498.3902478
+BCS,1,2009,3/31/2009,Investment Banking,yes,  Net Revenues,—
+BCS,2,2009,6/30/2009,Investment Banking,yes,  Net Revenues,—
+BCS,3,2009,9/30/2009,Investment Banking,yes,  Net Revenues,—
+BCS,4,2009,12/31/2009,Investment Banking,yes,  Net Revenues,—
+BCS,1,2010,3/31/2010,Investment Banking,yes,  Net Revenues,—
+BCS,2,2010,6/30/2010,Investment Banking,yes,  Net Revenues,—
+BCS,3,2010,9/30/2010,Investment Banking,yes,  Net Revenues,—
+BCS,4,2010,12/31/2010,Investment Banking,yes,  Net Revenues,—
+BCS,1,2011,3/31/2011,Investment Banking,yes,  Net Revenues,—
+BCS,2,2011,6/30/2011,Investment Banking,yes,  Net Revenues,—
+BCS,3,2011,9/30/2011,Investment Banking,yes,  Net Revenues,—
+BCS,4,2011,12/31/2011,Investment Banking,yes,  Net Revenues,—
+BCS,1,2012,3/31/2012,Investment Banking,yes,  Net Revenues,—
+BCS,2,2012,6/30/2012,Investment Banking,yes,  Net Revenues,—
+BCS,3,2012,9/30/2012,Investment Banking,yes,  Net Revenues,—
+BCS,4,2012,12/31/2012,Investment Banking,yes,  Net Revenues,—
+BCS,1,2013,3/31/2013,Investment Banking,yes,  Net Revenues,4134.270054
+BCS,2,2013,6/30/2013,Investment Banking,yes,  Net Revenues,3930.726347
+BCS,3,2013,9/30/2013,Investment Banking,yes,  Net Revenues,2870.079281
+BCS,4,2013,12/31/2013,Investment Banking,yes,  Net Revenues,2885.489994
+BCS,1,2014,3/31/2014,Investment Banking,yes,  Net Revenues,3480.534018
+BCS,2,2014,6/30/2014,Investment Banking,yes,  Net Revenues,3625.125684
+BCS,3,2014,9/30/2014,Investment Banking,yes,  Net Revenues,2779.962224
+BCS,4,2014,12/31/2014,Investment Banking,yes,  Net Revenues,—
+BCS,1,2015,3/31/2015,Investment Banking,yes,  Net Revenues,—
+BCS,2,2015,6/30/2015,Investment Banking,yes,  Net Revenues,—
+BCS,3,2015,9/30/2015,Investment Banking,yes,  Net Revenues,—
+BCS,4,2015,12/31/2015,Investment Banking,yes,  Net Revenues,—
+BCS,1,2016,3/31/2016,Investment Banking,yes,  Net Revenues,—
+BCS,2,2016,6/30/2016,Investment Banking,yes,  Net Revenues,—
+BCS,3,2016,9/30/2016,Investment Banking,yes,  Net Revenues,—
+BCS,4,2016,12/31/2016,Investment Banking,yes,  Net Revenues,—
+BAC,2,2008,6/30/2008,Global Banking,yes,  Net Revenues,—
+BAC,3,2008,9/30/2008,Global Banking,yes,  Net Revenues,4284
+BAC,4,2008,12/31/2008,Global Banking,yes,  Net Revenues,—
+BAC,1,2009,3/31/2009,Global Banking,yes,  Net Revenues,4641
+BAC,2,2009,6/30/2009,Global Banking,yes,  Net Revenues,8658
+BAC,3,2009,9/30/2009,Global Banking,yes,  Net Revenues,—
+BAC,4,2009,12/31/2009,Global Banking,yes,  Net Revenues,—
+BAC,1,2010,3/31/2010,Global Banking,yes,  Net Revenues,—
+BAC,2,2010,6/30/2010,Global Banking,yes,  Net Revenues,—
+BAC,3,2010,9/30/2010,Global Banking,yes,  Net Revenues,—
+BAC,4,2010,12/31/2010,Global Banking,yes,  Net Revenues,—
+BAC,1,2011,3/31/2011,Global Banking,yes,  Net Revenues,4702
+BAC,2,2011,6/30/2011,Global Banking,yes,  Net Revenues,4661
+BAC,3,2011,9/30/2011,Global Banking,yes,  Net Revenues,3952
+BAC,4,2011,12/31/2011,Global Banking,yes,  Net Revenues,4002
+BAC,1,2012,3/31/2012,Global Banking,yes,  Net Revenues,4236
+BAC,2,2012,6/30/2012,Global Banking,yes,  Net Revenues,4070
+BAC,3,2012,9/30/2012,Global Banking,yes,  Net Revenues,3969
+BAC,4,2012,12/31/2012,Global Banking,yes,  Net Revenues,4138
+BAC,1,2013,3/31/2013,Global Banking,yes,  Net Revenues,4225
+BAC,2,2013,6/30/2013,Global Banking,yes,  Net Revenues,4139
+BAC,3,2013,9/30/2013,Global Banking,yes,  Net Revenues,4009
+BAC,4,2013,12/31/2013,Global Banking,yes,  Net Revenues,4305
+BAC,1,2014,3/31/2014,Global Banking,yes,  Net Revenues,4535
+BAC,2,2014,6/30/2014,Global Banking,yes,  Net Revenues,4179
+BAC,3,2014,9/30/2014,Global Banking,yes,  Net Revenues,4363
+BAC,4,2014,12/31/2014,Global Banking,yes,  Net Revenues,4314
+BAC,1,2015,3/31/2015,Global Banking,yes,  Net Revenues,4386
+BAC,2,2015,6/30/2015,Global Banking,yes,  Net Revenues,4236
+BAC,3,2015,9/30/2015,Global Banking,yes,  Net Revenues,4336
+BAC,4,2015,12/31/2015,Global Banking,yes,  Net Revenues,4561
+BAC,1,2016,3/31/2016,Global Banking,yes,  Net Revenues,4390
+BAC,2,2016,6/30/2016,Global Banking,yes,  Net Revenues,4690
+BAC,3,2016,9/30/2016,Global Banking,yes,  Net Revenues,4748
+BAC,4,2016,12/31/2016,Global Banking,yes,  Net Revenues,4534
+BAC,2,2008,6/30/2008,Global Markets,no,  Net Revenues,—
+BAC,3,2008,9/30/2008,Global Markets,no,  Net Revenues,161
+BAC,4,2008,12/31/2008,Global Markets,no,  Net Revenues,—
+BAC,1,2009,3/31/2009,Global Markets,no,  Net Revenues,6791
+BAC,2,2009,6/30/2009,Global Markets,no,  Net Revenues,4452
+BAC,3,2009,9/30/2009,Global Markets,no,  Net Revenues,—
+BAC,4,2009,12/31/2009,Global Markets,no,  Net Revenues,—
+BAC,1,2010,3/31/2010,Global Markets,no,  Net Revenues,—
+BAC,2,2010,6/30/2010,Global Markets,no,  Net Revenues,—
+BAC,3,2010,9/30/2010,Global Markets,no,  Net Revenues,—
+BAC,4,2010,12/31/2010,Global Markets,no,  Net Revenues,—
+BAC,1,2011,3/31/2011,Global Markets,no,  Net Revenues,5272
+BAC,2,2011,6/30/2011,Global Markets,no,  Net Revenues,4413
+BAC,3,2011,9/30/2011,Global Markets,no,  Net Revenues,3295
+BAC,4,2011,12/31/2011,Global Markets,no,  Net Revenues,1807
+BAC,1,2012,3/31/2012,Global Markets,no,  Net Revenues,4411
+BAC,2,2012,6/30/2012,Global Markets,no,  Net Revenues,3581
+BAC,3,2012,9/30/2012,Global Markets,no,  Net Revenues,3282
+BAC,4,2012,12/31/2012,Global Markets,no,  Net Revenues,3023
+BAC,1,2013,3/31/2013,Global Markets,no,  Net Revenues,4872
+BAC,2,2013,6/30/2013,Global Markets,no,  Net Revenues,4189
+BAC,3,2013,9/30/2013,Global Markets,no,  Net Revenues,3376
+BAC,4,2013,12/31/2013,Global Markets,no,  Net Revenues,4522
+BAC,1,2014,3/31/2014,Global Markets,no,  Net Revenues,5017
+BAC,2,2014,6/30/2014,Global Markets,no,  Net Revenues,4583
+BAC,3,2014,9/30/2014,Global Markets,no,  Net Revenues,4142
+BAC,4,2014,12/31/2014,Global Markets,no,  Net Revenues,2387
+BAC,1,2015,3/31/2015,Global Markets,no,  Net Revenues,4191
+BAC,2,2015,6/30/2015,Global Markets,no,  Net Revenues,3950
+BAC,3,2015,9/30/2015,Global Markets,no,  Net Revenues,3750
+BAC,4,2015,12/31/2015,Global Markets,no,  Net Revenues,3117
+BAC,1,2016,3/31/2016,Global Markets,no,  Net Revenues,3947
+BAC,2,2016,6/30/2016,Global Markets,no,  Net Revenues,4313
+BAC,3,2016,9/30/2016,Global Markets,no,  Net Revenues,4359
+BAC,4,2016,12/31/2016,Global Markets,no,  Net Revenues,3472
+C,2,2008,6/30/2008,Citicorp,yes,  Net Revenues,16768
+C,3,2008,9/30/2008,Citicorp,yes,  Net Revenues,16020
+C,4,2008,12/31/2008,Citicorp,yes,  Net Revenues,10660
+C,1,2009,3/31/2009,Citicorp,yes,  Net Revenues,20927
+C,2,2009,6/30/2009,Citicorp,yes,  Net Revenues,15385
+C,3,2009,9/30/2009,Citicorp,yes,  Net Revenues,13025
+C,4,2009,12/31/2009,Citicorp,yes,  Net Revenues,11932
+C,1,2010,3/31/2010,Citicorp,yes,  Net Revenues,18522
+C,2,2010,6/30/2010,Citicorp,yes,  Net Revenues,16489
+C,3,2010,9/30/2010,Citicorp,yes,  Net Revenues,16289
+C,4,2010,12/31/2010,Citicorp,yes,  Net Revenues,14260
+C,1,2011,3/31/2011,Citicorp,yes,  Net Revenues,18138
+C,2,2011,6/30/2011,Citicorp,yes,  Net Revenues,16348
+C,3,2011,9/30/2011,Citicorp,yes,  Net Revenues,17705
+C,4,2011,12/31/2011,Citicorp,yes,  Net Revenues,14014
+C,1,2012,3/31/2012,Citicorp,yes,  Net Revenues,18099
+C,2,2012,6/30/2012,Citicorp,yes,  Net Revenues,17745
+C,3,2012,9/30/2012,Citicorp,yes,  Net Revenues,17685
+C,4,2012,12/31/2012,Citicorp,yes,  Net Revenues,16956
+C,1,2013,3/31/2013,Citicorp,yes,  Net Revenues,19597
+C,2,2013,6/30/2013,Citicorp,yes,  Net Revenues,19278
+C,3,2013,9/30/2013,Citicorp,yes,  Net Revenues,16597
+C,4,2013,12/31/2013,Citicorp,yes,  Net Revenues,16513
+C,1,2014,3/31/2014,Citicorp,yes,  Net Revenues,18527
+C,2,2014,6/30/2014,Citicorp,yes,  Net Revenues,17346
+C,3,2014,9/30/2014,Citicorp,yes,  Net Revenues,17537
+C,4,2014,12/31/2014,Citicorp,yes,  Net Revenues,16187
+C,1,2015,3/31/2015,Citicorp,yes,  Net Revenues,17690
+C,2,2015,6/30/2015,Citicorp,yes,  Net Revenues,17427
+C,3,2015,9/30/2015,Citicorp,yes,  Net Revenues,16793
+C,4,2015,12/31/2015,Citicorp,yes,  Net Revenues,15436
+C,1,2016,3/31/2016,Citicorp,yes,  Net Revenues,15806
+C,2,2016,6/30/2016,Citicorp,yes,  Net Revenues,16579
+C,3,2016,9/30/2016,Citicorp,yes,  Net Revenues,16855
+C,4,2016,12/31/2016,Citicorp,yes,  Net Revenues,16373
+CS,2,2008,6/30/2008,Investment Banking,yes,  Net Revenues,3591.561016
+CS,3,2008,9/30/2008,Investment Banking,yes,  Net Revenues,-517.8061591
+CS,4,2008,12/31/2008,Investment Banking,yes,  Net Revenues,-1563.976274
+CS,1,2009,3/31/2009,Investment Banking,yes,  Net Revenues,5616.859092
+CS,2,2009,6/30/2009,Investment Banking,yes,  Net Revenues,5411.301374
+CS,3,2009,9/30/2009,Investment Banking,yes,  Net Revenues,4752.60401
+CS,4,2009,12/31/2009,Investment Banking,yes,  Net Revenues,3204.450839
+CS,1,2010,3/31/2010,Investment Banking,yes,  Net Revenues,4934.775352
+CS,2,2010,6/30/2010,Investment Banking,yes,  Net Revenues,3702.83387
+CS,3,2010,9/30/2010,Investment Banking,yes,  Net Revenues,3318.984971
+CS,4,2010,12/31/2010,Investment Banking,yes,  Net Revenues,3530.721938
+CS,1,2011,3/31/2011,Investment Banking,yes,  Net Revenues,5409.731715
+CS,2,2011,6/30/2011,Investment Banking,yes,  Net Revenues,3247.184885
+CS,3,2011,9/30/2011,Investment Banking,yes,  Net Revenues,2409.475517
+CS,4,2011,12/31/2011,Investment Banking,yes,  Net Revenues,1148.661967
+CS,1,2012,3/31/2012,Investment Banking,yes,  Net Revenues,4299.02315
+CS,2,2012,6/30/2012,Investment Banking,yes,  Net Revenues,2938.197491
+CS,3,2012,9/30/2012,Investment Banking,yes,  Net Revenues,3309.339315
+CS,4,2012,12/31/2012,Investment Banking,yes,  Net Revenues,2861.873811
+CS,1,2013,3/31/2013,Investment Banking,yes,  Net Revenues,—
+CS,2,2013,6/30/2013,Investment Banking,yes,  Net Revenues,—
+CS,3,2013,9/30/2013,Investment Banking,yes,  Net Revenues,—
+CS,4,2013,12/31/2013,Investment Banking,yes,  Net Revenues,—
+CS,1,2014,3/31/2014,Investment Banking,yes,  Net Revenues,—
+CS,2,2014,6/30/2014,Investment Banking,yes,  Net Revenues,—
+CS,3,2014,9/30/2014,Investment Banking,yes,  Net Revenues,—
+CS,4,2014,12/31/2014,Investment Banking,yes,  Net Revenues,—
+CS,1,2015,3/31/2015,Investment Banking,yes,  Net Revenues,—
+CS,2,2015,6/30/2015,Investment Banking,yes,  Net Revenues,—
+CS,3,2015,9/30/2015,Investment Banking,yes,  Net Revenues,—
+CS,4,2015,12/31/2015,Investment Banking,yes,  Net Revenues,—
+CS,1,2016,3/31/2016,Investment Banking,yes,  Net Revenues,—
+CS,2,2016,6/30/2016,Investment Banking,yes,  Net Revenues,—
+CS,3,2016,9/30/2016,Investment Banking,yes,  Net Revenues,—
+CS,4,2016,12/31/2016,Investment Banking,yes,  Net Revenues,—
+DB,2,2008,6/30/2008,Corporate and Investment Bank,yes,  Net Revenues,4459.636684
+DB,3,2008,9/30/2008,Corporate and Investment Bank,yes,  Net Revenues,2567.730863
+DB,4,2008,12/31/2008,Corporate and Investment Bank,yes,  Net Revenues,-3991.316569
+DB,1,2009,3/31/2009,Corporate and Investment Bank,yes,  Net Revenues,6379.153224
+DB,2,2009,6/30/2009,Corporate and Investment Bank,yes,  Net Revenues,7221.712015
+DB,3,2009,9/30/2009,Corporate and Investment Bank,yes,  Net Revenues,7292.882119
+DB,4,2009,12/31/2009,Corporate and Investment Bank,yes,  Net Revenues,5194.443629
+DB,1,2010,3/31/2010,Corporate and Investment Bank,yes,  Net Revenues,9172.453483
+DB,2,2010,6/30/2010,Corporate and Investment Bank,yes,  Net Revenues,5988.196823
+DB,3,2010,9/30/2010,Corporate and Investment Bank,yes,  Net Revenues,6490.470635
+DB,4,2010,12/31/2010,Corporate and Investment Bank,yes,  Net Revenues,6620.727428
+DB,1,2011,3/31/2011,Corporate and Investment Bank,yes,  Net Revenues,9167.741554
+DB,2,2011,6/30/2011,Corporate and Investment Bank,yes,  Net Revenues,7000.702255
+DB,3,2011,9/30/2011,Corporate and Investment Bank,yes,  Net Revenues,5005.25165
+DB,4,2011,12/31/2011,Corporate and Investment Bank,yes,  Net Revenues,4481.785999
+DB,1,2012,3/31/2012,Corporate and Investment Bank,yes,  Net Revenues,7580.985685
+DB,2,2012,6/30/2012,Corporate and Investment Bank,yes,  Net Revenues,5614.013449
+DB,3,2012,9/30/2012,Corporate and Investment Bank,yes,  Net Revenues,6243.779337
+DB,4,2012,12/31/2012,Corporate and Investment Bank,yes,  Net Revenues,6089.27413
+DB,1,2013,3/31/2013,Corporate and Investment Bank,yes,  Net Revenues,7388.075278
+DB,2,2013,6/30/2013,Corporate and Investment Bank,yes,  Net Revenues,6144.531267
+DB,3,2013,9/30/2013,Corporate and Investment Bank,yes,  Net Revenues,5196.69112
+DB,4,2013,12/31/2013,Corporate and Investment Bank,yes,  Net Revenues,4671.400051
+DB,1,2014,3/31/2014,Corporate and Investment Bank,yes,  Net Revenues,6994.489711
+DB,2,2014,6/30/2014,Corporate and Investment Bank,yes,  Net Revenues,6263.401643
+DB,3,2014,9/30/2014,Corporate and Investment Bank,yes,  Net Revenues,5547.699434
+DB,4,2014,12/31/2014,Corporate and Investment Bank,yes,  Net Revenues,4992.435878
+DB,1,2015,3/31/2015,Corporate and Investment Bank,yes,  Net Revenues,6536.997879
+DB,2,2015,6/30/2015,Corporate and Investment Bank,yes,  Net Revenues,6085.490936
+DB,3,2015,9/30/2015,Corporate and Investment Bank,yes,  Net Revenues,4817.072377
+DB,4,2015,12/31/2015,Corporate and Investment Bank,yes,  Net Revenues,3583.395275
+DB,1,2016,3/31/2016,Corporate and Investment Bank,yes,  Net Revenues,5122.197072
+DB,2,2016,6/30/2016,Corporate and Investment Bank,yes,  Net Revenues,4866.144504
+DB,3,2016,9/30/2016,Corporate and Investment Bank,yes,  Net Revenues,5079.833123
+DB,4,2016,12/31/2016,Corporate and Investment Bank,yes,  Net Revenues,3528.228525
+RY,3,2008,7/31/2008,Capital Markets,yes,  Net Revenues,1122.086453
+RY,4,2008,10/31/2008,Capital Markets,yes,  Net Revenues,1086.031714
+RY,1,2009,1/31/2009,Capital Markets,yes,  Net Revenues,1149.65851
+RY,2,2009,4/30/2009,Capital Markets,yes,  Net Revenues,1258.452394
+RY,3,2009,7/31/2009,Capital Markets,yes,  Net Revenues,1866.279971
+RY,4,2009,10/31/2009,Capital Markets,yes,  Net Revenues,1707.694503
+RY,1,2010,1/31/2010,Capital Markets,yes,  Net Revenues,1748.353834
+RY,2,2010,4/30/2010,Capital Markets,yes,  Net Revenues,1558.090501
+RY,3,2010,7/31/2010,Capital Markets,yes,  Net Revenues,1005.961822
+RY,4,2010,10/31/2010,Capital Markets,yes,  Net Revenues,1013.650099
+RY,1,2011,1/31/2011,Capital Markets,yes,  Net Revenues,2041.136879
+RY,2,2011,4/30/2011,Capital Markets,yes,  Net Revenues,1539.306479
+RY,3,2011,7/31/2011,Capital Markets,yes,  Net Revenues,1171.370984
+RY,4,2011,10/31/2011,Capital Markets,yes,  Net Revenues,685.7640248
+RY,1,2012,1/31/2012,Capital Markets,yes,  Net Revenues,1433.684243
+RY,2,2012,4/30/2012,Capital Markets,yes,  Net Revenues,1609.08547
+RY,3,2012,7/31/2012,Capital Markets,yes,  Net Revenues,1586.095512
+RY,4,2012,10/31/2012,Capital Markets,yes,  Net Revenues,1300.978707
+RY,1,2013,1/31/2013,Capital Markets,yes,  Net Revenues,1920.577509
+RY,2,2013,4/30/2013,Capital Markets,yes,  Net Revenues,1534.79947
+RY,3,2013,7/31/2013,Capital Markets,yes,  Net Revenues,1385.782048
+RY,4,2013,10/31/2013,Capital Markets,yes,  Net Revenues,1622.357055
+RY,1,2014,1/31/2014,Capital Markets,yes,  Net Revenues,1693.367695
+RY,2,2014,4/30/2014,Capital Markets,yes,  Net Revenues,1694.578662
+RY,3,2014,7/31/2014,Capital Markets,yes,  Net Revenues,2020.110417
+RY,4,2014,10/31/2014,Capital Markets,yes,  Net Revenues,1356.317283
+RY,1,2015,1/31/2015,Capital Markets,yes,  Net Revenues,1744.696409
+RY,2,2015,4/30/2015,Capital Markets,yes,  Net Revenues,1800.052119
+RY,3,2015,7/31/2015,Capital Markets,yes,  Net Revenues,1640.641537
+RY,4,2015,10/31/2015,Capital Markets,yes,  Net Revenues,1320.075205
+RY,1,2016,1/31/2016,Capital Markets,yes,  Net Revenues,1442.947728
+RY,2,2016,4/30/2016,Capital Markets,yes,  Net Revenues,1500.12026
+RY,3,2016,7/31/2016,Capital Markets,yes,  Net Revenues,1610.601165
+RY,4,2016,10/31/2016,Capital Markets,yes,  Net Revenues,1444.026905
+RY,1,2017,1/31/2017,Capital Markets,yes,  Net Revenues,—
+RY,3,2008,7/31/2008,Wealth Management,no,  Net Revenues,1009.18455
+RY,4,2008,10/31/2008,Wealth Management,no,  Net Revenues,935.447485
+RY,1,2009,1/31/2009,Wealth Management,no,  Net Revenues,813.4915081
+RY,2,2009,4/30/2009,Wealth Management,no,  Net Revenues,796.376962
+RY,3,2009,7/31/2009,Wealth Management,no,  Net Revenues,898.7100332
+RY,4,2009,10/31/2009,Wealth Management,no,  Net Revenues,1000.03484
+RY,1,2010,1/31/2010,Wealth Management,no,  Net Revenues,1011.004608
+RY,2,2010,4/30/2010,Wealth Management,no,  Net Revenues,949.4613989
+RY,3,2010,7/31/2010,Wealth Management,no,  Net Revenues,1163.533683
+RY,4,2010,10/31/2010,Wealth Management,no,  Net Revenues,1071.850104
+RY,1,2011,1/31/2011,Wealth Management,no,  Net Revenues,1179.301415
+RY,2,2011,4/30/2011,Wealth Management,no,  Net Revenues,1248.696917
+RY,3,2011,7/31/2011,Wealth Management,no,  Net Revenues,1195.149919
+RY,4,2011,10/31/2011,Wealth Management,no,  Net Revenues,1150.604071
+RY,1,2012,1/31/2012,Wealth Management,no,  Net Revenues,1164.194724
+RY,2,2012,4/30/2012,Wealth Management,no,  Net Revenues,1225.921993
+RY,3,2012,7/31/2012,Wealth Management,no,  Net Revenues,1147.534695
+RY,4,2012,10/31/2012,Wealth Management,no,  Net Revenues,1278.670421
+RY,1,2013,1/31/2013,Wealth Management,no,  Net Revenues,1349.540567
+RY,2,2013,4/30/2013,Wealth Management,no,  Net Revenues,1321.578288
+RY,3,2013,7/31/2013,Wealth Management,no,  Net Revenues,1345.994188
+RY,4,2013,10/31/2013,Wealth Management,no,  Net Revenues,1364.013805
+RY,1,2014,1/31/2014,Wealth Management,no,  Net Revenues,1436.088073
+RY,2,2014,4/30/2014,Wealth Management,no,  Net Revenues,1406.717543
+RY,3,2014,7/31/2014,Wealth Management,no,  Net Revenues,1465.389021
+RY,4,2014,10/31/2014,Wealth Management,no,  Net Revenues,1482.991345
+RY,1,2015,1/31/2015,Wealth Management,no,  Net Revenues,1429.741376
+RY,2,2015,4/30/2015,Wealth Management,no,  Net Revenues,1400.307568
+RY,3,2015,7/31/2015,Wealth Management,no,  Net Revenues,1369.606914
+RY,4,2015,10/31/2015,Wealth Management,no,  Net Revenues,1256.237371
+RY,1,2016,1/31/2016,Wealth Management,no,  Net Revenues,1520.925206
+RY,2,2016,4/30/2016,Wealth Management,no,  Net Revenues,1643.347822
+RY,3,2016,7/31/2016,Wealth Management,no,  Net Revenues,1724.817252
+RY,4,2016,10/31/2016,Wealth Management,no,  Net Revenues,1744.579785
+RY,1,2017,1/31/2017,Wealth Management,no,  Net Revenues,—
+NMR,1,2009,6/30/2008,Fees from Investing Banking,yes,  Fee & Commission Income,—
+NMR,2,2009,9/30/2008,Fees from Investing Banking,yes,  Fee & Commission Income,—
+NMR,3,2009,12/31/2008,Fees from Investing Banking,yes,  Fee & Commission Income,—
+NMR,4,2009,3/31/2009,Fees from Investing Banking,yes,  Fee & Commission Income,—
+NMR,1,2010,6/30/2009,Fees from Investing Banking,yes,  Fee & Commission Income,305.197378
+NMR,2,2010,9/30/2009,Fees from Investing Banking,yes,  Fee & Commission Income,166.8273757
+NMR,3,2010,12/31/2009,Fees from Investing Banking,yes,  Fee & Commission Income,495.4182492
+NMR,4,2010,3/31/2010,Fees from Investing Banking,yes,  Fee & Commission Income,346.3190008
+NMR,1,2011,6/30/2010,Fees from Investing Banking,yes,  Fee & Commission Income,221.632022
+NMR,2,2011,9/30/2010,Fees from Investing Banking,yes,  Fee & Commission Income,290.4416813
+NMR,3,2011,12/31/2010,Fees from Investing Banking,yes,  Fee & Commission Income,411.9538565
+NMR,4,2011,3/31/2011,Fees from Investing Banking,yes,  Fee & Commission Income,338.085752
+NMR,1,2012,6/30/2011,Fees from Investing Banking,yes,  Fee & Commission Income,169.2751235
+NMR,2,2012,9/30/2011,Fees from Investing Banking,yes,  Fee & Commission Income,177.715371
+NMR,3,2012,12/31/2011,Fees from Investing Banking,yes,  Fee & Commission Income,222.3894847
+NMR,4,2012,3/31/2012,Fees from Investing Banking,yes,  Fee & Commission Income,186.7483942
+NMR,1,2013,6/30/2012,Fees from Investing Banking,yes,  Fee & Commission Income,129.895218
+NMR,2,2013,9/30/2012,Fees from Investing Banking,yes,  Fee & Commission Income,217.471532
+NMR,3,2013,12/31/2012,Fees from Investing Banking,yes,  Fee & Commission Income,160.1915145
+NMR,4,2013,3/31/2013,Fees from Investing Banking,yes,  Fee & Commission Income,236.6687558
+NMR,1,2014,6/30/2013,Fees from Investing Banking,yes,  Fee & Commission Income,257.4657203
+NMR,2,2014,9/30/2013,Fees from Investing Banking,yes,  Fee & Commission Income,232.5088636
+NMR,3,2014,12/31/2013,Fees from Investing Banking,yes,  Fee & Commission Income,157.3953577
+NMR,4,2014,3/31/2014,Fees from Investing Banking,yes,  Fee & Commission Income,264.6114682
+NMR,1,2015,6/30/2014,Fees from Investing Banking,yes,  Fee & Commission Income,193.9089974
+NMR,2,2015,9/30/2014,Fees from Investing Banking,yes,  Fee & Commission Income,198.2105043
+NMR,3,2015,12/31/2014,Fees from Investing Banking,yes,  Fee & Commission Income,251.9637478
+NMR,4,2015,3/31/2015,Fees from Investing Banking,yes,  Fee & Commission Income,216.5090157
+NMR,1,2016,6/30/2015,Fees from Investing Banking,yes,  Fee & Commission Income,201.9292115
+NMR,2,2016,9/30/2015,Fees from Investing Banking,yes,  Fee & Commission Income,367.6449272
+NMR,3,2016,12/31/2015,Fees from Investing Banking,yes,  Fee & Commission Income,164.7432637
+NMR,4,2016,3/31/2016,Fees from Investing Banking,yes,  Fee & Commission Income,250.9392234
+NMR,1,2017,6/30/2016,Fees from Investing Banking,yes,  Fee & Commission Income,160.3476969
+NMR,2,2017,9/30/2016,Fees from Investing Banking,yes,  Fee & Commission Income,228.6554706
+NMR,3,2017,12/31/2016,Fees from Investing Banking,yes,  Fee & Commission Income,—
+BMO,3,2008,7/31/2008,Investment Banking,yes,  Net Revenues,745.7467777
+BMO,4,2008,10/31/2008,Investment Banking,yes,  Net Revenues,652.5316603
+BMO,1,2009,1/31/2009,Investment Banking,yes,  Net Revenues,593.18789
+BMO,2,2009,4/30/2009,Investment Banking,yes,  Net Revenues,652.530871
+BMO,3,2009,7/31/2009,Investment Banking,yes,  Net Revenues,911.9523225
+BMO,4,2009,10/31/2009,Investment Banking,yes,  Net Revenues,832.4312355
+BMO,1,2010,1/31/2010,Investment Banking,yes,  Net Revenues,874.1769171
+BMO,2,2010,4/30/2010,Investment Banking,yes,  Net Revenues,841.3688704
+BMO,3,2010,7/31/2010,Investment Banking,yes,  Net Revenues,652.3859377
+BMO,4,2010,10/31/2010,Investment Banking,yes,  Net Revenues,808.9800786
+BMO,1,2011,1/31/2011,Investment Banking,yes,  Net Revenues,954.3882334
+BMO,2,2011,4/30/2011,Investment Banking,yes,  Net Revenues,847.1833523
+BMO,3,2011,7/31/2011,Investment Banking,yes,  Net Revenues,849.8384369
+BMO,4,2011,10/31/2011,Investment Banking,yes,  Net Revenues,704.757489
+BMO,1,2012,1/31/2012,Investment Banking,yes,  Net Revenues,756.5305782
+BMO,2,2012,4/30/2012,Investment Banking,yes,  Net Revenues,793.4802726
+BMO,3,2012,7/31/2012,Investment Banking,yes,  Net Revenues,792.5560959
+BMO,4,2012,10/31/2012,Investment Banking,yes,  Net Revenues,910.5836939
+BMO,1,2013,1/31/2013,Investment Banking,yes,  Net Revenues,910.4363231
+BMO,2,2013,4/30/2013,Investment Banking,yes,  Net Revenues,835.1981749
+BMO,3,2013,7/31/2013,Investment Banking,yes,  Net Revenues,841.3676719
+BMO,4,2013,10/31/2013,Investment Banking,yes,  Net Revenues,768.2819805
+BMO,1,2014,1/31/2014,Investment Banking,yes,  Net Revenues,911.2376435
+BMO,2,2014,4/30/2014,Investment Banking,yes,  Net Revenues,860.8676856
+BMO,3,2014,7/31/2014,Investment Banking,yes,  Net Revenues,913.4412322
+BMO,4,2014,10/31/2014,Investment Banking,yes,  Net Revenues,733.8047474
+BMO,1,2015,1/31/2015,Investment Banking,yes,  Net Revenues,789.5330527
+BMO,2,2015,4/30/2015,Investment Banking,yes,  Net Revenues,809.9032901
+BMO,3,2015,7/31/2015,Investment Banking,yes,  Net Revenues,803.4813394
+BMO,4,2015,10/31/2015,Investment Banking,yes,  Net Revenues,711.3358616
+BMO,1,2016,1/31/2016,Investment Banking,yes,  Net Revenues,743.3367082
+BMO,2,2016,4/30/2016,Investment Banking,yes,  Net Revenues,806.5973255
+BMO,3,2016,7/31/2016,Investment Banking,yes,  Net Revenues,838.8708514
+BMO,4,2016,10/31/2016,Investment Banking,yes,  Net Revenues,903.9471118
+BMO,1,2017,1/31/2017,Investment Banking,yes,  Net Revenues,921.310504
