@@ -143,10 +143,7 @@ def load_financials(quarter, year):
         for row in reader:
             # key = row['ticker']
             if row['quarter'] == quarter and row['year'] == year and row['IB'] == 'yes':
-                if row['amnt'] == '\xe2\x80\x94':
-                    firm_performance[row['ticker']] = 0
-                else:
-                    firm_performance[row['ticker']] = row['amnt']
+                firm_performance[row['ticker']] = row['amnt']
 
             # if key in firm_performance:
             #     firm_performance.get(key).append((row['quarter'], row['year'], row['amnt']))
@@ -193,7 +190,10 @@ def load_specific_rides(quarter, year):
     return ride_dict
 
 
-def plot_avg_time_and_amt(ride_dict, firm_performance):
+def plot_avg_time_and_amt(ride_quarter, financial_quarter, year):
+    ride_dict = load_specific_rides(int(ride_quarter), str(year))
+    firm_performance = load_financials(str(financial_quarter), str(year))
+
     x = []
     y = []
 
@@ -210,18 +210,18 @@ def plot_avg_time_and_amt(ride_dict, firm_performance):
             count += departures_at_this_hour
             sum_of_numbers += departures_at_this_hour * (i+1)
         mean = sum_of_numbers / count
-        x.append(mean)
         if ticker in firm_performance:
-            amt = float(firm_performance[ticker])
-        else:
-            amt = 0.0
-        y.append(amt)
+            amt = firm_performance[ticker]
+            if amt != '\xe2\x80\x94':
+                x.append(mean)
+                y.append(float(amt))
+
 
     plt.scatter(x, y, alpha=.7)
 
     plt.xlabel('Average Time People Leave The Office')
-    plt.ylabel("Firm's IB Profits")
-    plt.title('1st Quarter Pickups vs 2nd Quarter Profits')
+    plt.ylabel("Firm's IB Revenue")
+    plt.title('Quarter ' + str(ride_quarter) + ' Pickups vs Quarter ' + str(financial_quarter) + ' Profits, ' + str(year))
 
     plt.show()
 
