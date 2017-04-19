@@ -132,25 +132,29 @@ def make_time(year, month, day, time):
     return dateutil.parser.parse('{}-{}-{}-{}'.format(year, month, day, time))
 
 
-def load_financials():
+def load_financials(quarter, year):
     firm_performance = {}  # dictionary: keys are tickers, values are list of tuples with following structure:
                                                     # ['(quarter #should be 1)', 'year', 'amnt')]
                                                     # should be 1 tuple per quarter
     with open('firms_financials.csv', 'r') as f:
         reader = csv.DictReader(f)
-        print reader.fieldnames
         for row in reader:
             key = row['ticker']
-            if key in firm_performance:
-                firm_performance.get(key).append((row['quarter'], row['year'], row['amnt']))
-            else:
-                firm_performance[row['ticker']] = [((row['quarter'], row['year'], row['amnt']))]
+            if row['quarter'] == quarter and row['year'] == year and row['segment'] == 'Investment Banking':
+                if row['amnt'] == '\xe2\x80\x94':
+                    firm_performance[row['ticker']] = 0
+                else:
+                    firm_performance[row['ticker']] = row['amnt']
 
-    print firm_performance
+            # if key in firm_performance:
+            #     firm_performance.get(key).append((row['quarter'], row['year'], row['amnt']))
+            # else:
+            #     firm_performance[row['ticker']] = [((row['quarter'], row['year'], row['amnt']))]
+
+    return firm_performance
 
 
 def load_specific_rides(quarter, year):
-    # print(quarter)
     ride_dict = {}
     q = []
     if quarter ==  1:
@@ -171,7 +175,7 @@ def load_specific_rides(quarter, year):
     month3 = "ride_data/rides" + str(q[2]) + "-" + year + ".csv"
 
     months = [month1, month2, month3]
-    months = [month3]
+
 
     for month in months:
         reader = csv.DictReader(open(month))
@@ -179,16 +183,51 @@ def load_specific_rides(quarter, year):
             if row['ticker'] in ride_dict:
                 cnt = ride_dict.get(row['ticker'])
             else:
-                print ride_dict
                 cnt = collections.Counter()
                 ride_dict[row['ticker']] = cnt
             time = row['trip_pickup_datetime']
             m = re.search(r'([0-9]*)-([0-9]*)-([0-9]*)[ ]([0-9]*)[:]([0-9]*)[:]([0-9]*)', time)
-            cnt[m.group(4)] += 1
+            cnt[int(m.group(4))] += 1
     return ride_dict
 
 
+def plot_avg_time_and_amt(ride_dict, firm_performance):
+    x = []
+    y = []
+
+    tickers = ride_dict.keys()
+    hours = [19, 20, 21, 22, 23, 0, 1, 2, 3]
+
+    for ticker in tickers:
+        cnt = ride_dict[ticker]
+        sum_of_numbers = 0.0
+        count = 0.0
+        for i in range(9):
+            hour = hours[i]
+            departures_at_this_hour = cnt[hour]
+            count += departures_at_this_hour
+            sum_of_numbers += departures_at_this_hour * (i+1)
+        mean = sum_of_numbers / count
+        x.append(mean)
+        if ticker in firm_performance:
+            amt = firm_performance[ticker]
+            print amt
+        else:
+            amt = 0
+        y.append(amt)
+
+
+    print "x = " + str(x)
+    print "y = " + str(y)
+
+
+
 def main():
-    graph('test_rides.csv', 'test_data')
+    # ride_dict = load_specific_rides(1, '2009')
+    firm_performance = load_financials('2', '2009')
+    print firm_performance
+    # plot_avg_time_and_amt(ride_dict, firm_performance)
+
+    #graph('test_rides.csv', 'test_data')
     #graph('rides.csv', 'January')
     #graph('rides2.csv', 'February')
