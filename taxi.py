@@ -136,11 +136,13 @@ def load_financials(quarter, year):
     firm_performance = {}  # dictionary: keys are tickers, values are list of tuples with following structure:
                                                     # ['(quarter #should be 1)', 'year', 'amnt')]
                                                     # should be 1 tuple per quarter
+
+
     with open('firms_financials.csv', 'r') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            key = row['ticker']
-            if row['quarter'] == quarter and row['year'] == year and row['segment'] == 'Investment Banking':
+            # key = row['ticker']
+            if row['quarter'] == quarter and row['year'] == year and row['IB'] == 'yes':
                 if row['amnt'] == '\xe2\x80\x94':
                     firm_performance[row['ticker']] = 0
                 else:
@@ -210,23 +212,28 @@ def plot_avg_time_and_amt(ride_dict, firm_performance):
         mean = sum_of_numbers / count
         x.append(mean)
         if ticker in firm_performance:
-            amt = firm_performance[ticker]
-            print amt
+            amt = float(firm_performance[ticker])
         else:
-            amt = 0
+            amt = 0.0
         y.append(amt)
 
+    plt.scatter(x, y, alpha=.7)
 
-    print "x = " + str(x)
-    print "y = " + str(y)
+    plt.xlabel('Average Time People Leave The Office')
+    plt.ylabel("Firm's IB Profits")
+    plt.title('1st Quarter Pickups vs 2nd Quarter Profits')
+
+    plt.show()
+
 
 
 
 def main():
-    # ride_dict = load_specific_rides(1, '2009')
+    ride_dict = load_specific_rides(1, '2009')
     firm_performance = load_financials('2', '2009')
-    print firm_performance
-    # plot_avg_time_and_amt(ride_dict, firm_performance)
+    plot_avg_time_and_amt(ride_dict, firm_performance)
+
+
 
     #graph('test_rides.csv', 'test_data')
     #graph('rides.csv', 'January')
