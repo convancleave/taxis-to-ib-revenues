@@ -7,13 +7,18 @@
 
 echo "Running" $0 "on" $1
 
-input_file = $1
-month = $2
-year = $2
-dash = -
-rides = rides
-filename = $rides$month$dash$year
+echo enter data filename:
+read INPUT_FILE
+echo enter month:
+read MONTH
+echo enter year:
+read YEAR
+DASH="-"
+RIDES="rides"
+FILENAME=$RIDES$MONTH$DASH$YEAR
 
-cat $input_file | \
-python -c 'import taxi; taxi.extract_rides()' |
-sort -t "," -k1 -k2 > "$filename.csv"
+cat $INPUT_FILE | \
+python -c 'import taxi; taxi.extract_rides()' > temp.csv
+
+cat temp.csv | \
+(head -n 1 temp.csv && tail -n +2 temp.csv | sort -t "," -k1 -k2) > $FILENAME.csv

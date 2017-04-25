@@ -72,7 +72,6 @@ def graph(filename, month):
     cnt = collections.Counter()
     with open(filename) as f:
         reader = csv.DictReader(f);
-        print reader.fieldnames
         for row in reader:
             time = row['trip_pickup_datetime']
             m = re.search(r'([0-9]*)-([0-9]*)-([0-9]*)[ ]([0-9]*)[:]([0-9]*)[:]([0-9]*)', time)
@@ -91,12 +90,13 @@ def graph(filename, month):
     plt.scatter(hours, rides, alpha = .7)
     plt.plot(hours, rides, alpha = .4)
 
-    plt.xlabel('Time of Day)')
+    plt.xlabel('Time of Day')
     plt.ylabel('Number of Rides')
-    plt.title('Rides for Time of Day in Month of ' + month)
+    plt.title('Rides for Time of Day in Month of ' + month + "2009")
 
 
     plt.show()
+    plt.savefig('avg_month.png')
 
 
 def graph_quarter_rides(ride_dict):
@@ -116,6 +116,7 @@ def graph_quarter_rides(ride_dict):
     plt.title('Rides for Time of Day in Month of ' + month)
 
     plt.show()
+
 
 def string_to_datetime(stringtime):
     m = re.search(r'([0-9]*)-([0-9]*)-([0-9]*)[ ]([0-9]*)[:]([0-9]*)[:]([0-9]*)', stringtime)
@@ -216,6 +217,10 @@ def plot_avg_time_and_amt(ride_quarter, financial_quarter, year):
                 x.append(mean)
                 y.append(float(amt))
 
+    fit = np.polyfit(x,y,1)
+    fit_fn = np.poly1d(fit)
+
+    plt.plot(x,y,'yo',x,fit_fn(x), '--k')
 
     plt.scatter(x, y, alpha=.7)
 
@@ -224,16 +229,20 @@ def plot_avg_time_and_amt(ride_quarter, financial_quarter, year):
     plt.title('Quarter ' + str(ride_quarter) + ' Pickups vs Quarter ' + str(financial_quarter) + ' Profits, ' + str(year))
 
     plt.show()
+    plt.savefig('firms' + financial_quarter +year+'.png')
 
 
 
 
 def main():
-    ride_dict = load_specific_rides(1, '2009')
-    firm_performance = load_financials('2', '2009')
-    plot_avg_time_and_amt(ride_dict, firm_performance)
+    #ride_dict = load_specific_rides(1, '2009')
+    #firm_performance = load_financials('2', '2009')
+    plot_avg_time_and_amt(1, 2, 2009)
+    plot_avg_time_and_amt(1, 3, 2009)
+    plot_avg_time_and_amt(1, 4, 2009)
 
 
+    #graph('ride_data/rides1-2009.csv', 'January')
 
     #graph('test_rides.csv', 'test_data')
     #graph('rides.csv', 'January')
