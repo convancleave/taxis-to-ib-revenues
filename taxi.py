@@ -32,7 +32,7 @@ def parse_locations():
                                                                 float(row['SE_lat']), float(row['SE_lon']))
 
 
-def extract_rides():
+def extract_rides(year):
     """takes filtered results (by general area) and more precisely selects rides within more specific coordinates"""
 
     parse_locations()
@@ -60,9 +60,14 @@ def extract_rides():
             paths.append((key, p))
 
         for row in reader:
-            datetime = row['Trip_Pickup_DateTime']
-            lat = float(row['Start_Lat'])
-            lon = float(row['Start_Lon'])
+            if year < 2010:
+                datetime = row['Trip_Pickup_DateTime']
+                lat = float(row['Start_Lat'])
+                lon = float(row['Start_Lon'])
+            else:
+                datetime = row['pickup_datetime']
+                lat = float(row['pickup_latitude'])
+                lon = float(row['pickup_longitude'])
             for p in paths:
                 if p[1].contains_point((lon, lat)):
                     writer.writerow({'ticker': p[0][1], 'trip_pickup_datetime': datetime,'start_lat':lat, 'start_lon':lon})
