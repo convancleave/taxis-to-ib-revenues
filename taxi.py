@@ -12,7 +12,9 @@ import matplotlib.pyplot as plt
 
 
 square_coords = {}
-exact_coords = {}
+exact_coords = []
+
+
 
 
 
@@ -27,9 +29,24 @@ def parse_locations():
             square_coords[row['\xef\xbb\xbfname']] = (float(row['square_S_lat']), float(row['square_N_lat']),
                                                       float(row['square_W_lon']), float(row['square_E_lon']))
 
-            exact_coords[(row['\xef\xbb\xbfname'],row['ticker'])] = (float(row['SW_lat']), float(row['SW_lon']), float(row['NW_lat']),
-                                                                float(row['NW_lon']), float(row['NE_lat']), float(row['NE_lon']),
-                                                                float(row['SE_lat']), float(row['SE_lon']))
+            # exact_coords[(row['\xef\xbb\xbfname'],row['ticker'])] = (float(row['SW_lat']), float(row['SW_lon']), float(row['NW_lat']),
+            #                                                     float(row['NW_lon']), float(row['NE_lat']), float(row['NE_lon']),
+            #                                                     float(row['SE_lat']), float(row['SE_lon']))
+            sw_lat = float(row['SW_lat'])
+            sw_lon = float(row['SW_lon'])
+            sw = (sw_lon, sw_lat)
+            nw_lat = float(row['NW_lat'])
+            nw_lon = float(row['NW_lon'])
+            nw = (nw_lon, nw_lat)
+            ne_lat = float(row['NE_lat'])
+            ne_lon = float(row['NE_lon'])
+            ne = (ne_lon, ne_lat)
+            se_lat = float(row['SE_lat'])
+            se_lon = float(row['SE_lon'])
+            se = (se_lon, se_lat)
+            p = mat.path.Path([sw, nw, ne, se])
+            exact_coords.append((row['ticker'], p))
+
 
 
 def extract_rides(year):
@@ -40,24 +57,25 @@ def extract_rides(year):
         reader = csv.DictReader(f)
         writer = csv.DictWriter(f2, ['ticker','trip_pickup_datetime', 'start_lat', 'start_lon'])
         writer.writeheader()
-        paths = []
-        for key in exact_coords:
-            #note: by convention latitude is written first. However, it corresponds to a y value
-            #so our point coordinates here are written (lon, lat) to be equivalent to (x, y)
-            sw_lat = exact_coords.get(key)[0]
-            sw_lon = exact_coords.get(key)[1]
-            sw = (sw_lon, sw_lat)
-            nw_lat = exact_coords.get(key)[2]
-            nw_lon = exact_coords.get(key)[3]
-            nw = (nw_lon, nw_lat)
-            ne_lat = exact_coords.get(key)[4]
-            ne_lon = exact_coords.get(key)[5]
-            ne = (ne_lon, ne_lat)
-            se_lat = exact_coords.get(key)[6]
-            se_lon = exact_coords.get(key)[7]
-            se = (se_lon, se_lat)
-            p = mat.path.Path([sw, nw, ne, se])
-            paths.append((key, p))
+        # paths = []
+        # for key in exact_coords:
+        #     #note: by convention latitude is written first. However, it corresponds to a y value
+        #     #so our point coordinates here are written (lon, lat) to be equivalent to (x, y)
+        #     sw_lat = exact_coords.get(key)[0]
+        #     sw_lon = exact_coords.get(key)[1]
+        #     sw = (sw_lon, sw_lat)
+        #     nw_lat = exact_coords.get(key)[2]
+        #     nw_lon = exact_coords.get(key)[3]
+        #     nw = (nw_lon, nw_lat)
+        #     ne_lat = exact_coords.get(key)[4]
+        #     ne_lon = exact_coords.get(key)[5]
+        #     ne = (ne_lon, ne_lat)
+        #     se_lat = exact_coords.get(key)[6]
+        #     se_lon = exact_coords.get(key)[7]
+        #     se = (se_lon, se_lat)
+        #     p = mat.path.Path([sw, nw, ne, se])
+        #     paths.append((key, p))
+
 
         for row in reader:
             if year < 2010:
@@ -68,9 +86,9 @@ def extract_rides(year):
                 datetime = row['pickup_datetime']
                 lat = float(row['pickup_latitude'])
                 lon = float(row['pickup_longitude'])
-            for p in paths:
-                if p[1].contains_point((lon, lat)):
-                    writer.writerow({'ticker': p[0][1], 'trip_pickup_datetime': datetime,'start_lat':lat, 'start_lon':lon})
+            for item in exact_coords:
+                if item[1].contains_point((lon, lat)):
+                    writer.writerow({'ticker': item[0], 'trip_pickup_datetime': datetime,'start_lat':lat, 'start_lon':lon})
 
 
 def graph(filename, month):

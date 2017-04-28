@@ -16,10 +16,13 @@ DASH="-"
 RIDES="rides"
 FILENAME=$RIDES$MONTH$DASH$YEAR
 
+echo $1
+
 echo running taxi.extract_rides and saving in $FILENAME
 
 cat $INPUT_FILE | \
-python -c 'import taxi; taxi.extract_rides($YEAR)' > temp.csv
+python -c 'import taxi; taxi.extract_rides('$YEAR')' > temp.csv
+
 
 cat temp.csv | \
 (head -n 1 temp.csv && tail -n +2 temp.csv | sort -t "," -k1 -k2) > $FILENAME.csv
