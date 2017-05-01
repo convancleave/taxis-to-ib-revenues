@@ -47,7 +47,7 @@ Provide a rough estimate of the division of labor:
 
 - *Conor Oliver: 75%*
 - *Teddy Owen: 12.5%
-- *Connor Van Cleave: 125.% *
+- *Connor Van Cleave: 12.5% *
 
 What are the team's goals for next week?
 
@@ -72,5 +72,45 @@ Provide a rough estimate of the division of labor:
 What are the team's goals for next week?
 
 *[Brief description]: Get a presentation together for Wednesday and get the python library API working
+
+## Week 4
+
+Report for the week of 4/17/17 to 4/24/17.
+
+What did each project team member do this week?
+
+- *Conor Oliver: Continued gathering and cleaning data with python script. Lots more to go!
+- *Teddy Owen: Continued gathering and cleaning data with python script.
+- *Connor Van Cleave: Final effort on using an API, ultimately decided to just download all data and use python script to clean. 
+
+Provide a rough estimate of the division of labor:
+
+- *Conor Oliver: 33.3%
+- *Teddy Owen: 33.3%
+- *Connor Van Cleave: 33.3% 
+
+What are the team's goals for next week?
+
+*[Brief description]: Find a better way to handle data and run analysis than just python. This is going to be through a DB
+
+## Week 5
+
+Report for the week of 4/24/17 to 4/31/17.
+
+What did each project team member do this week?
+
+- *Conor Oliver: Used all the lab computers to simultaneously download data and run script. Gathered 60 individual taxi data files, ran script on them to produce csv's to be ready to add to postgres SQL DB.
+- *Teddy Owen: Planned out tools to make running our regressions easier
+- *Connor Van Cleave: Used all the lab computers to simultaneously download data and run script. Gathered 60 individual taxi data files, ran script on them to produce csv's to be ready to add to postgres SQL DB. Also created the SQL database from the csv files
+
+Provide a rough estimate of the division of labor:
+
+- *Conor Oliver: 40%
+- *Teddy Owen: 10%
+- *Connor Van Cleave: 50% 
+
+What are the team's goals for next week?
+
+*[Brief description]: Finish data analysis (regressions, any machine learning we want to do).
 
 
