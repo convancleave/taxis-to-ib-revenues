@@ -9,7 +9,7 @@ CREATE TABLE firms (
 );
 
 CREATE TABLE firms_financials (
-    ticker char(5),
+    ticker char(10),
     quarter int,
     year int,
     date_assessed date,
@@ -446,6 +446,12 @@ CREATE TABLE temp12_2014 (
     start_lat numeric,
     start_lon numeric
 );
+
+COPY firms FROM '/vagrant/final-project/firms.csv' WITH
+(FORMAT csv, HEADER true, DELIMITER ',');
+
+COPY firms_financials FROM '/vagrant/final-project/firms_financials.csv' WITH
+(FORMAT csv, HEADER true, DELIMITER ',');
 
 COPY temp01_2010 FROM '/vagrant/final-project/processed_taxi_data/rides01-2010.csv' WITH 
 (FORMAT csv, HEADER true, DELIMITER ',');
