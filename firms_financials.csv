@@ -1,4 +1,4 @@
-ticker,quarter,year,date,segment,IB,item,amnt
+ticker,quarter,year,date_assessed,segment,IB,item,amnt
 LAZ,2,2008,6/30/2008,Asset Management,no,  Operating Income,38.08
 LAZ,3,2008,9/30/2008,Asset Management,no,  Operating Income,-170.135
 LAZ,4,2008,12/31/2008,Asset Management,no,  Operating Income,18.278
