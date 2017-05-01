@@ -9,6 +9,7 @@ import numpy as np
 import matplotlib as mat
 mat.use('Agg')
 import matplotlib.pyplot as plt
+import string
 
 
 square_coords = {}
@@ -89,6 +90,19 @@ def extract_rides(year):
             for item in exact_coords:
                 if item[1].contains_point((lon, lat)):
                     writer.writerow({'ticker': item[0], 'trip_pickup_datetime': datetime,'start_lat':lat, 'start_lon':lon})
+
+
+def update_firm_financials():
+    with open('firms_financials.csv', 'r') as f, sys.stdout as f2:
+        columns = ['ticker', 'quarter', 'year', 'date', 'segment', 'IB', 'item', 'amnt']
+        writer = csv.DictWriter(f2, columns)
+        writer.writeheader()
+        reader = csv.DictReader(f)
+        for row in reader:
+            if any(char.isdigit() for char in row['amnt']):
+                writer.writerow({'ticker': row['ticker'], 'quarter': row['quarter'], 'year': row['year'],
+                                 'date': row['date'], 'segment': row['segment'], 'IB': row['IB'], 'item': row['item'],
+                                 'amnt': row['amnt']})
 
 
 def graph(filename, month):
