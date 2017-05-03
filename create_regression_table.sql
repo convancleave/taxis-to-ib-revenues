@@ -1,7 +1,7 @@
 -- to be run on DB: final_project
 -- gets table matching financial to ride data
 
-
+DROP TABLE IF EXISTS regression_table;
 -- to taxi: add column for late_day and lateness value
 CREATE TABLE regression_table as
 
@@ -43,7 +43,7 @@ with hours as (
 
 -- combine tables: for each quarter, for each firm, give absolute lateness, average lateness and revenue
  ,rev_and_lateness_by_firm_by_quarter as (
-                                            select lq.ticker, lq.year, lq.quarter, ff.segment, ff.item, ff.amnt, lq.late_rides, lq.total_lateness, lq.avg_q_lateness, lq.avg_d_lateness
+                                            select lq.ticker, lq.year, lq.quarter, ff.segment, ff.item, lq.late_rides, lq.total_lateness, lq.avg_q_lateness, lq.avg_d_lateness, ff.amnt
                                             from lateness_by_firm_by_quarter lq, firms_financials ff
                                             where lq.ticker = ff.ticker and lq.year = ff.year and lq.quarter = ff.quarter
                                             and ff.ib = 'yes'
