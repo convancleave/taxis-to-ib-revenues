@@ -94,14 +94,14 @@ def extract_rides(year):
 
 def update_firm_financials():
     with open('firms_financials.csv', 'r') as f, sys.stdout as f2:
-        columns = ['ticker', 'quarter', 'year', 'date', 'segment', 'IB', 'item', 'amnt']
+        columns = ['ticker', 'quarter', 'year', 'date_assessed', 'segment', 'IB', 'item', 'amnt']
         writer = csv.DictWriter(f2, columns)
         writer.writeheader()
         reader = csv.DictReader(f)
         for row in reader:
             if any(char.isdigit() for char in row['amnt']):
                 writer.writerow({'ticker': row['ticker'], 'quarter': row['quarter'], 'year': row['year'],
-                                 'date': row['date'], 'segment': row['segment'], 'IB': row['IB'], 'item': row['item'],
+                                 'date_assessed': row['date_assessed'], 'segment': row['segment'], 'IB': row['IB'], 'item': row['item'],
                                  'amnt': row['amnt']})
 
 
