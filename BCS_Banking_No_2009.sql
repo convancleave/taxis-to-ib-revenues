@@ -1,10 +1,10 @@
--- GS Banking w/out 2009
+-- BCS Banking w/out 2009
 
 COPY (
 
 select *
 from regression_table
-where ticker = 'GS'
+where ticker = 'BCS'
 and year != 2009
 
 ) to STDOUT WITH CSV HEADER

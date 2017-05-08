@@ -1,5 +1,4 @@
--- to be run on DB: final_project
--- gets table matching financial to ride data
+-- creates table to run regressions
 
 DROP TABLE IF EXISTS regression_table;
 -- to taxi: add column for late_day and lateness value
@@ -49,61 +48,10 @@ with hours as (
                                             and ff.ib = 'yes'
                                             )
 -- ~ 4 min runtime
---select ticker, year, quarter, segment, item, amnt, late_rides, total_lateness, avg_q_lateness, avg_d_lateness
---from rev_and_lateness_by_firm_by_quarter
---;
-
-
---DROP TABLE IF EXISTS regression_table;
-
-
-
 --CREATE TABLE regression_table as
 select *
 from rev_and_lateness_by_firm_by_quarter
 ;
 
---(
---    ticker char(10),
---    year int,
---    quarter int,
---    segment char(50),
---    item char(50),
---    amnt numeric,
---    late_rides int,
---    total_lateness int,
---    avg_q_lateness int,
---    avg_d_lateness int
---)
---;
---
---
---INSERT INTO regression_table
---select *
---from rev_and_lateness_by_firm_by_quarter
---;
 
-
-
-
-
--- run vizualization for each firm and segment
-
--- run regression for each firm and segment
-    --q-1
-    --q
-    --q+1
-    --q+2
-    --q+3
-    --q+4
-
-
-
--- run regression for aggregate
-    --q-1
-    --q
-    --q+1
-    --q+2
-    --q+3
-    --q+4
 
