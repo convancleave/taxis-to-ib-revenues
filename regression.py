@@ -70,7 +70,7 @@ def main():
                 plt.ylabel("IB Revenue in Millions USD")
                 plt.suptitle(str(ticker) + "with Quarter Lag of " + str(lag) + " on " + str(header))
                 plt.title("R-2: " + str(rtwo))
-                plt.savefig("plots/"+"PLOT_" + str(ticker) + "_" + str(lag) + "_" + str(header) + '.png')
+                plt.savefig("plots/"+"PLOT_" + str(ticker).strip() + "_" + str(lag) + "_" + str(header) + '.png')
                 plt.close()
 
     return
@@ -150,7 +150,7 @@ def log_regression():
                 plt.ylabel("IB Revenue in Millions USD")
                 plt.suptitle(str(ticker) + "with Quarter Lag of " + str(lag) + " on Log " + str(header))
                 plt.title("R-2: " + str(rtwo))
-                plt.savefig("plots/"+"LOG_PLOT_" + str(ticker) + "_" + str(lag) + "_" + str(header) + '.png')
+                plt.savefig("plots/"+"LOG_PLOT_" + str(ticker).strip() + "_" + str(lag) + "_" + str(header) + '.png')
                 plt.close()
 
     return
@@ -233,7 +233,7 @@ def regression_learn():
                 plt.ylabel("IB Revenue in Millions USD")
                 plt.suptitle(str(ticker) + "with Quarter Lag of " + str(lag) + " on " + str(header))
                 plt.title("Variance: " + str(variance))
-                plt.savefig("plots/"+"ML_PLOT_" + str(ticker) + "_" + str(lag) + "_" + str(header) + '.png')
+                plt.savefig("plots/"+"ML_PLOT_" + str(ticker).strip() + "_" + str(lag) + "_" + str(header) + '.png')
                 plt.close()
 
     return
