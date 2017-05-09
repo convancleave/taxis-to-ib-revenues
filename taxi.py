@@ -1,5 +1,4 @@
 import csv
-import datetime
 import dateutil
 import dateutil.parser
 import sys
@@ -9,7 +8,7 @@ import numpy as np
 import matplotlib as mat
 mat.use('Agg')
 import matplotlib.pyplot as plt
-import string
+
 
 
 square_coords = {}
@@ -29,10 +28,6 @@ def parse_locations():
         for row in reader:
             square_coords[row['\xef\xbb\xbfname']] = (float(row['square_S_lat']), float(row['square_N_lat']),
                                                       float(row['square_W_lon']), float(row['square_E_lon']))
-
-            # exact_coords[(row['\xef\xbb\xbfname'],row['ticker'])] = (float(row['SW_lat']), float(row['SW_lon']), float(row['NW_lat']),
-            #                                                     float(row['NW_lon']), float(row['NE_lat']), float(row['NE_lon']),
-            #                                                     float(row['SE_lat']), float(row['SE_lon']))
             sw_lat = float(row['SW_lat'])
             sw_lon = float(row['SW_lon'])
             sw = (sw_lon, sw_lat)
@@ -49,7 +44,6 @@ def parse_locations():
             exact_coords.append((row['ticker'], p))
 
 
-
 def extract_rides(year):
     """takes filtered results (by general area) and more precisely selects rides within more specific coordinates"""
 
@@ -58,24 +52,6 @@ def extract_rides(year):
         reader = csv.DictReader(f)
         writer = csv.DictWriter(f2, ['ticker','trip_pickup_datetime', 'start_lat', 'start_lon'])
         writer.writeheader()
-        # paths = []
-        # for key in exact_coords:
-        #     #note: by convention latitude is written first. However, it corresponds to a y value
-        #     #so our point coordinates here are written (lon, lat) to be equivalent to (x, y)
-        #     sw_lat = exact_coords.get(key)[0]
-        #     sw_lon = exact_coords.get(key)[1]
-        #     sw = (sw_lon, sw_lat)
-        #     nw_lat = exact_coords.get(key)[2]
-        #     nw_lon = exact_coords.get(key)[3]
-        #     nw = (nw_lon, nw_lat)
-        #     ne_lat = exact_coords.get(key)[4]
-        #     ne_lon = exact_coords.get(key)[5]
-        #     ne = (ne_lon, ne_lat)
-        #     se_lat = exact_coords.get(key)[6]
-        #     se_lon = exact_coords.get(key)[7]
-        #     se = (se_lon, se_lat)
-        #     p = mat.path.Path([sw, nw, ne, se])
-        #     paths.append((key, p))
 
 
         for row in reader:
@@ -93,6 +69,7 @@ def extract_rides(year):
 
 
 def update_firm_financials():
+    """this takes file firms_financial.csv and removes entries in amnt that aren't numbers"""
     with open('firms_financials.csv', 'r') as f, sys.stdout as f2:
         columns = ['ticker', 'quarter', 'year', 'date_assessed', 'segment', 'IB', 'item', 'amnt']
         writer = csv.DictWriter(f2, columns)
@@ -108,7 +85,7 @@ def update_firm_financials():
 def graph(filename, month):
     cnt = collections.Counter()
     with open(filename) as f:
-        reader = csv.DictReader(f);
+        reader = csv.DictReader(f)
         for row in reader:
             time = row['trip_pickup_datetime']
             m = re.search(r'([0-9]*)-([0-9]*)-([0-9]*)[ ]([0-9]*)[:]([0-9]*)[:]([0-9]*)', time)
@@ -171,11 +148,11 @@ def make_time(year, month, day, time):
 
 
 def load_financials(quarter, year):
+    """Loads financial data into dictionary"""
+
     firm_performance = {}  # dictionary: keys are tickers, values are list of tuples with following structure:
                                                     # ['(quarter #should be 1)', 'year', 'amnt')]
                                                     # should be 1 tuple per quarter
-
-
     with open('firms_financials.csv', 'r') as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -192,6 +169,7 @@ def load_financials(quarter, year):
 
 
 def load_specific_rides(quarter, year):
+    """used to create certain graphs"""
     ride_dict = {}
     q = []
     if quarter ==  1:
